@@ -502,7 +502,7 @@ module ApplicationHelper
     end
     args += @languages.sort if @languages
 
-    args.pack("m*")
+    args
   end
 
   def payment_form(title, options = {})
