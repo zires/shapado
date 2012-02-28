@@ -4,12 +4,15 @@
   = link_to current_group.name, domain_url(:custom => current_group.domain)
   %ul
     -if logged_in?
-      -current_user.groups.only(:name, :domain).limit(10).all.each do |group|
-        %li
-          = link_to group.name, domain_url(:custom => group.domain)
+      -cache_for("usergroups_#{current_user.id}_#{current_user.memberships.count}") do
+        -current_user.groups.only(:name, :domain).limit(10).all.each do |group|
+          %li
+            = link_to group.name, domain_url(:custom => group.domain)
     -else
-      -Group.only(:name, :domain).where(:state => "active", :private => false).order_by([:activity_rate, :desc]).limit(10).all.each do |group|
-        %li
-          = link_to group.name, domain_url(:custom => group.domain)
+      -cache_for("usergroups_active") do
+        -Group.only(:name, :domain).where(:state => "active", :private => false).order_by([:activity_rate, :desc]).limit(10).all.each do |group|
+          %li
+            = link_to group.name, domain_url(:custom => group.domain)
     %li
       = link_to t("groups.new.title"), new_group_path
+

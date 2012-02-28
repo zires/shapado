@@ -59,6 +59,9 @@ module Shapado
 
           group_id = self[:group_id] || Thread.current[:current_group].try(:id)
           user_id = Thread.current[:current_user].try(:id) || self[:user_id]
+
+          return if group_id.nil? || user_id.nil?
+
           target = __resolve_target
 
           conds = {
