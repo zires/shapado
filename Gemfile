@@ -79,7 +79,7 @@ gem "xapian-ruby", '1.2.7.1'
 gem "xapit", :git => "git://github.com/dcu/xapit.git"
 
 group :deploy do
-  gem 'capistrano', :require => false
+  gem 'capistrano', "2.9.0", :require => false
   gem 'ricodigo-capistrano-recipes', "~> 0.1.3", :require => false
   gem 'unicorn', '4.1.1', :require => false
 end
