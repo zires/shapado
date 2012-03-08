@@ -502,7 +502,7 @@ module ApplicationHelper
     end
     args += @languages.sort if @languages
 
-    Digest::MD5.hexdigest(args.to_s)
+    args
   end
 
   def payment_form(title, options = {})
