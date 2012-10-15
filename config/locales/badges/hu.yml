@@ -10,9 +10,11 @@ hu:
       badges: jelvény
   badges: 
     index: 
+      all_tooltip: Valamennyi arany, ezüst és bronz kitüntetés megjelenítése
       bronze: Bronz
       description: Minél többször kérdezel és válaszolsz a kérdésekre, annál több jelvényt szerezhetsz. Ezek megjelennek az adatlapodon.
       general: Normál jelvények
+      general_tooltip: Összes előre definiált jelvény megmutatása
       gold: Arany
       silver: Ezüst
       tags: Címke jelvények

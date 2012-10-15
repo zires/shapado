@@ -12,6 +12,8 @@ ja:
         link: 私のアカウントを確認
         welcome: ようこそ
       hello: こんにちは
+      reset_password: 
+        link: 自分のパスワードを変更
     passwords: 
       link: パスワードを忘れた場合はこちら
       send_instructions: 数分以内にパスワード変更用のメールが届きます。

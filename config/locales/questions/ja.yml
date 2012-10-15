@@ -28,7 +28,7 @@ ja:
       pick_answer: 解決に導いてくれた回答としてマーク
       unset_answer: 解決マークを外す
     create: 
-      flash_notice: 質問が作成されました
+      flash_notice: 質問を作成しました。
     edit: 
       title: 質問を修正する
     flag: 
@@ -95,7 +95,7 @@ ja:
       flagged_as: 報告：
       flags: 報告する
       last_activity: 最終の変更日
-      related_questions: 似たような質問
+      related_questions: 関連する質問
       request_closing: 質問の終了申請
       request_closing_details: この質問を終了申請する
       retag: タグの編集
@@ -123,6 +123,6 @@ ja:
     unwatch: 
       success: ウォッチを停止しました。この質問に対する回答通知を受け取りません。
     update: 
-      flash_notice: 質問は更新されました
+      flash_notice: 質問を更新しました。
     watch: 
       success: ウォッチを開始しました。新しい回答が届くとメールで通知されます。

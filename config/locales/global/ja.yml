@@ -15,11 +15,14 @@ ja:
   global: 
     actions: 操作
     active: 有効化
+    alphabetically: アルファベット順
     anonymous: 匿名
     blog: ブログ
     by: by
     chat: チャット
     current: 現在
+    downgrade_to_free: 無料にダウングレード
+    edited_by_semi: "編集者:"
     feedback: フィードバック
     from: "%{site}から"
     group_not_found: このページ%{url}はありません

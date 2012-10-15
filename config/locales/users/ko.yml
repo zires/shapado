@@ -23,7 +23,7 @@ ko:
         last_logged_at: seen
         login: 사용자 이름
         name: 실명
-        password: 패스워드
+        password: 비밀번호
         password_confirmation: 패스워드 확인
         preferred_languages: 언어를 선택하십시오
         preferred_tags: 선호하는 태그

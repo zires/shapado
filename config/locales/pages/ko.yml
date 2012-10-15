@@ -2,12 +2,13 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Linkr
+# Author: 아라
 ko: 
   activerecord: 
     attributes: 
       page: 
         css: 스타일 시트
-        js: 자바 스크립트
+        js: 자바스크립트
     models: 
       page: 페이지
       pages: 페이지
