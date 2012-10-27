@@ -5,9 +5,9 @@
 # Author: Mirzali
 diq: 
   global: 
-    actions: Kerdeni
+    actions: Kerdışi
     active: Aktivite
-    anonymous: Anonim
+    anonymous: Bêname
     blog: Blog
     chat: Mıhebet
     current: Nıkayên
@@ -43,7 +43,7 @@ diq:
     destroy: Besterne
     details: Detayi
     edit: Timar ke
-    more: Vêşêri...
+    more: Vêşi...
     save: Star ke
     send: Bırşê
     show: Bımocne

@@ -79,7 +79,7 @@ ja:
       errors: 
         reputation_needed: "%{action}をするには%{min_reputation}の評価が必要です"
     new: 
-      submit: 新規ユーザ登録
+      submit: ユーザ登録
       title: 新規ユーザ
     show: 
       follow: フォローする
