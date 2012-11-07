@@ -60,7 +60,7 @@ it:
           application_id: ID applicazione
           facebook_app: Impostazioni Facebook App
           legend: È possibile configurare l'applicazione Facebook. Questa sarà utilizzato per l'accesso degli utenti utilizzando il loro account Facebook. Nota che questo è necessaria solo se si utilizza un dominio personalizzato.
-          secret_key: Chiave Segreta
+          secret_key: Chiave segreta
         general: 
           title: Proprietà del gruppo
         invitations: 

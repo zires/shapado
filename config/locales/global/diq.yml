@@ -18,7 +18,7 @@ diq:
     home: Keye
     next_button: Bahdoyên
     open: Ake
-    or: ya na
+    or: ya zi
     preview: Verqayt
     previous: Verên
     privacy: Nımıtış
@@ -32,7 +32,8 @@ diq:
     view: Bıvin
   roles: 
     moderator: Moderator
-    owner: "Rıştayen:"
+    owner: Wayir
+    user: Karbero beseruber
   scaffold: 
     add: Deke
     are_you_sure: Vac welay?
