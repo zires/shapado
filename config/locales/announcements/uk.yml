@@ -1,0 +1,22 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Base
+# Author: Тест
+uk: 
+  activerecord: 
+    attributes: 
+      announcement: 
+        ends_at: Закінчується на
+        message: Повідомлення
+        only_anonymous: Лише для анонімних користувачів
+        starts_at: Розпочинається з
+  announcements: 
+    actions: 
+      delete: Видалити
+      title: Дії
+    create: 
+      success: Ваше оголошення було успішно створено.
+    index: 
+      description: Керувати і створювати нові оголошення, які буде показано по всьому сайту Вашим відвідувачам
+      title: Оголошення

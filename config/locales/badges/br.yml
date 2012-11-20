@@ -74,9 +74,10 @@ br:
         description: Gweladenniñ al lec'hienn bemdez e-pad 100 devezh da-heul
         name: Klañv-mik
       favorite_answer: 
+        description: en deus ur goulenn dibabet evel an hini gwellañ-deuet gant 25 implijer
         name: Respont kretañ
       favorite_question: 
-        description: en deus savet ur goulenn sinedet gant ouzhpenn 25 implijer
+        description: en deus savet ur goulenn heuliet gant ouzhpenn 25 implijer
         name: Goulenn a blij ar muiañ
       friendly: 
         description: Heuliañ unan bennak evit ar wech gentañ
@@ -155,8 +156,11 @@ br:
         name: Medalenn ar servij
       shapado: 
         description: Gweladenniñ al lec'hienn bemdez e-pad  8 devezh da-heul
+      stellar_answer: 
+        description: en deus ur respont dibabet ar gwellañ-deuet gant 100 implijer
+        name: Respont steredel
       stellar_question: 
-        description: En deus savet ur goulenn sinedet gant 100 implijer
+        description: En deus savet ur goulenn heuliet gant 100 implijer
         name: Goulenn steredel
       student: 
         description: Resevout ur vouezh a-du evit e c'houlenn gentañ

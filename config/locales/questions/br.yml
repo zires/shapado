@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Fulup
+# Author: Gwenn-Ael
 # Author: Y-M D
 br: 
   activerecord: 
@@ -25,8 +26,12 @@ br:
   questions: 
     answer: 
       add_comment: Ouzhpennañ un evezhiadenn...
+      favorite: Enrollañ
+      favorite_tooltip: Ouzhpennit ar respont-mañ d'ho penndibaboù
       flag: Banniel
       pick_answer: Dibab evel respont
+      unfavorite: Chom hep enrollañ
+      unfavorite_tooltip: Lamit ho respont eus ho penndibaboù.
       unset_answer: Nullañ an diskoulm ?
     create: 
       flash_notice: Krouet eo bet ar goulenn ervat.
@@ -35,9 +40,11 @@ br:
     flag: 
       title: Kas kemenn eus in implij direizh
     form: 
+      add_attachment: Ouzhpennañ ur rest stag
       adult_content: Er goulenn-mañ ez eus danvez evit an dud gour.
       body_tip: Pehini eo ho koulenn ? Roit un deskrivadur.
       language_tip: Dibabit yezh ho koulenn.
+      remove_attachment: Dilemel
       tags_tip: Implijit ar balizennoù evit ouzhpennañ muioc'h a ditouroù d'ar goulenn.
     index: 
       active: Oberiant
@@ -71,6 +78,11 @@ br:
       title: Sevel ur goulenn
     question: 
       accepted_tooltip: Respontet ez eus bet d'ar goulenn-mañ ervat
+      answer_verb: Respont
+      has_answers: 
+        one: "%{count} respont"
+        other: "%{count} answers"
+      wiki_title: "Wiki: %{titl}"
     retag: 
       title: Adtikedenniñ
     retag_form: 

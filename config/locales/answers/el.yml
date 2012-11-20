@@ -2,18 +2,20 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Discon
+# Author: Glavkos
 el: 
   activerecord: 
     attributes: 
       answer: 
         body: Κείμενο
-        created_at: Απαντήθηκε
+        created_at: Δημιουργήθηκε στις
         link: Σύνδεσμος
     models: 
       answer: Απάντηση
       answers: Απαντήσεις
   answers: 
     create: 
+      annon_notice: Ο χρήστης είναι ήδη εγγεγραμμένος. Παρακαλούμε συνδεθείτε.
       flash_error: "Κάτι πήγε στραβά κατά την προσθήκη της απάντησής σας. \n  Να θυμάστε ότι: \n - Δεν επιτρέπονται άδειες και επαναλαμβανόμενες απαντήσεις. \n - Χρειάζεται να περιμένετε 20 δευτερόλεπτα πριν υποβάλετε κι άλλη απάντηση. \n - Μπορείτε να υποβάλετε μόνο μία απάντηση ανά ερώτηση."
       flash_notice: Ευχαριστούμε!
     edit: 

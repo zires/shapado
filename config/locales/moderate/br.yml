@@ -1,7 +1,8 @@
-# Messages for Breton (Brezhoneg)
+# Messages for Breton (brezhoneg)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Fulup
+# Author: Gwenn-Ael
 # Author: Y-M D
 br: 
   admin: 
@@ -15,3 +16,21 @@ br:
         item_title: Titl
         need_tags: Adtikedenniñ
         title: Habaskaat
+      opening: 
+        title: Goulenn digor
+  moderate: 
+    questions: 
+      flagged: 
+        banned: Berzhet
+        banned_tooltip: Diskwelit ar goulennoù berzhet hepken
+        filters: Siloù
+        title: Goulennoù moderet
+        unbanned: Aotreet
+        unbanned_tooltip: Diskouez nemet ar goulennoù aotreet
+      index: 
+        title: Goulennoù moderet
+      subtabs: 
+        flagged: Merket
+        flagged_tooltip: Goulennoù merket gant an implijerien.
+        to_close: Rekedoù serriñ
+        to_open: Rekedoù digor

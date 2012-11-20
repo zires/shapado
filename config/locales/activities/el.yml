@@ -1,0 +1,14 @@
+# Messages for Greek (Ελληνικά)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Glavkos
+el: 
+  activity: 
+    asked: ρωτήθηκε
+    changed: αλλάχτηκε
+    created: δημιουργήθηκε
+    deleted: διαγράφηκε
+    destroyed: διαγράφηκε
+    requested_to_close: ζητήθηκε να κλείσει
+    requested_to_open: ζητήθηκε να ανοίξει
+    updated: ενημερώθηκε

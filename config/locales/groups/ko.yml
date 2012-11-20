@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Linkr
+# Author: 아라
 ko: 
   activerecord: 
     attributes: 
@@ -45,7 +46,7 @@ ko:
       members_only: 이 그룹은 회원 전용입니다.
       website_analytics_id: 웹사이트 분석 ID
     group: 
-      about: about
+      about: 소개
       accept_group: 이 그룹을 수락
       allow_ads: 광고를 허용
       close: 폐쇄

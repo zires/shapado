@@ -3,6 +3,7 @@
 # Export driver: syck-pecl
 # Author: Beta16
 # Author: Danmaz74
+# Author: Gianfranco
 # Author: GreenFox
 # Author: Rippitippi
 it: 
@@ -19,8 +20,11 @@ it:
       layout_html: Aggiungi il tuo template personale per il layout
       main_color_legend: Questo è uno dei colori più utilizzati su ogni pagina, assicurati di scegliere quello giusto per il tuo brand o comunità.
       modules_color_legend: Assicurati che questo colore e il colore principale stiano bene insieme.
+      questions_index_html: Aggiungi il tuo modello personalizzato per l'indice delle domande
+      questions_show_html: Aggiungi il tuo modello personalizzato per la visualizzazione della domanda
       submit_update: Aggiorna il tema
       text_color_legend: Assicurati che il testo sia leggibile e compatibile con il colore di sfondo.
+      title: Stai modificando un tema, assicurati che il set di colori e lo sfondo corrispondano.
       topbar_color: Colore di sfondo della barra superiore
       topbar_color_legend: Scegli il colore di sfondo della barra superiore.
       update: Aggiorna il tema

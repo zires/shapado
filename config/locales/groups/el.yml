@@ -3,6 +3,7 @@
 # Export driver: syck-pecl
 # Author: Discon
 # Author: Evropi
+# Author: Glavkos
 el: 
   activerecord: 
     attributes: 
@@ -10,11 +11,12 @@ el:
         default_tags: Προεπιλεγμένες ετικέτες
         description: Περιγραφή
         domain: Domain
-        enable_latex: Ενεργοποίηση LaTeX
+        enable_latex: Ενεργοποίηση LaTeX με  jqmath (γρήγορο αλλά όχι με πλήρη χαρακτηριστικά)
         fb_button: Ενεργοποίηση του κομβίου "like" του Facebook (χωρίς προστασία προσωπικών δεδομένων)
         forum: Να επιτρέπονται περισσότερες από μία απαντήσεις από κάθε χρήστη
         group_created_by: Δημιουργήθηκε από
-        language: Γλώσσα
+        language: Προεπιλεγμένη γλώσσα
+        languages: Επιπλέον γλώσσες
         legend: Υπόμνημα
         logo: Λογότυπο
         may_contain_adult_content: Αυτό το site μπορεί να έχει περιεχόμενο μόνο για ενηλίκους
@@ -23,14 +25,18 @@ el:
         registered_only: Μόνο οι εγγεγραμμένοι να έχουν πρόσβαση στην ιστοσελίδα
         state: Κατάσταση
         subdomain: URL (subdomain)
+        track_users: Ρωτήστε τους χρήστες για τη φυσική τους τοποθεσία
         wysiwyg_editor: Ενεργοποίηση του φιλικού κειμενογράφου
     models: 
       default_tags_message: Δεν επιτρέπονται περισσότερες από 10 προεπιλεγμένες ετικέτες
       group: Ομάδα
       groups: Ομάδες
+      reputation_rewards_key: Μη έγκυρο κλειδί
   groups: 
     create: 
       flash_notice: Η ομάδα σας δημιουργήθηκε επιτυχώς, τώρα μπορείτε να τη ρυθμίσετε.
+    edit: 
+      title: Επεξεργαστείτε την ομάδα σας
     form: 
       access: Ρυθμίσεις πρόσβασης
       analytics_engine: Μηχανή Analytics
@@ -45,6 +51,7 @@ el:
       legend_legend: Θα χρησιμοποιηθεί στην κεφαλίδα, έχετε 40 χαρακτήρες
       logo_legend: Μπορείτε να ανεβάσετε το λογότυπο της ομάδας. Το μέγιστο μέγεθος αρχείου είναι 2 MB.
       members_only: Μόνο τα μέλη της ομάδας θα έχουν πρόσβαση σ' αυτήν
+      signup_email: Μόνο χρήστης/κωδικός
       website_analytics_id: Website Analytics ID
     group: 
       about: Περί
@@ -71,3 +78,5 @@ el:
       group_closed: Αυτή η ομάδα έχει κλειστεί.
       title: Σχετικά με %{name}
       visit_group: Επισκεφθείτε αυτή την ομάδα
+    top_grouplist: 
+      active_site: "Ενεργός ιστοχώρος:"

@@ -1,12 +1,15 @@
-# Messages for Breton (Brezhoneg)
+# Messages for Breton (brezhoneg)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Fulup
+# Author: Gwenn-Ael
 # Author: Y-M D
 br: 
   shared: 
+    any_lang: Ne vern pe yezh
     current_tags: 
       title: Tikedennoù diuzet
+    date: Deiziad
     description: Deskrivadur
     empty: 
       answers: 
@@ -15,20 +18,35 @@ br:
       themes: 
         description: 
           action_link: bremañ
+    filter: "Sil:"
+    language: "Yezh :"
+    language_filter_tooltip: Klaskit gant ur yezh nevez !
+    languages: "\nYezhoù :"
     login_drop_down: 
+      openid_url: URL Openid
+      sign_up_user_pass: Kevreit gant ur postel/ger-tremen
+      with_email_pass: Kevreit gant ho chomlec'h postel
       with_facebook: gant Facebook
       with_google: gant Google
       with_identica: gant Identi.ca
       with_linked_in: gant LinkedIn
       with_openid: OpenID
       with_twitter: gant Twitter
+    manage_navigation: 
+      title_content: Endalc'had ar strollad
+      title_options: Dibab ar strollad
     name: Anv
+    preferred_lang: Ma yezhoù karetañ
+    quick_question: 
+      random_question: Goulenn d'ur respont dargouezhek
     social_connect: 
       find_friends_facebook: Kavout mignoned war Facebook
       find_friends_identica: Kavout mignoned war Identi.ca
       find_friends_linked_in: Kavout mignoned war LinkedIn
       find_friends_twitter: Kavout mignoned war Twitter
+      or_connect: "Pe keveit gant :"
     topbar: 
       admin: Merañ
       logged_as: Kevreet evel %{login}
       user_page: Ma zammig pajenn
+    view_mode: Mod diskwel

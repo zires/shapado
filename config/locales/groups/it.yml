@@ -3,6 +3,7 @@
 # Export driver: syck-pecl
 # Author: Danmaz74
 # Author: Giallu
+# Author: Gianfranco
 it: 
   activerecord: 
     attributes: 
@@ -43,6 +44,8 @@ it:
       success_twitter_connection: Congratulazioni, hai collegato il tuo account Twitter con successo!
     create: 
       flash_notice: Il gruppo è stato creato correttamente. Ora si può iniziare a configurarlo.
+    downgrade: 
+      notice: Hai eseguito la disattivazione con successo, stai ora usando il nostro piano gratuito.
     edit: 
       title: Modifica il tuo gruppo
     form: 
@@ -95,3 +98,5 @@ it:
       active_site: "Sito attivo:"
     update: 
       notice: Il tuo gruppo è stato aggiornato con successo.
+    upgrade: 
+      error: Sei già iscritto a questo piano

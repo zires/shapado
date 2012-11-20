@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Fulup
+# Author: Gwenn-Ael
 # Author: Y-M D
 br: 
   activerecord: 
@@ -27,8 +28,10 @@ br:
         wysiwyg_editor: Gweredekaat ar skridaozer testennoù aes da implijout
     models: 
       default_tags_message: N'hallit ket lakaat en tu all da 10 tikedenn dre ziouer
+      duplicate_domain_message: Hon digarezit, kemeret eo bet an domani-mañ dija.
       group: Strollad
       groups: Strolladoù
+      reputation_rewards_key: Alc'hwez direizh
   groups: 
     create: 
       flash_notice: Krouet eo bet ho strollad ervat. Gallout a rit kregiñ d'e gefluniañ.

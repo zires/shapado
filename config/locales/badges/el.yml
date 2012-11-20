@@ -3,6 +3,7 @@
 # Export driver: syck-pecl
 # Author: Discon
 # Author: Evropi
+# Author: Glavkos
 el: 
   activerecord: 
     models: 
@@ -16,6 +17,8 @@ el:
       addict: 
         description: Επισκεφθείτε το site κάθε μέρα για 20 συνεχόμενες ημέρες
         name: Εθισμένος
+      altruist: 
+        name: Αλτρουϊστής
       autobiographer: 
         description: Συμπληρώστε όλα τα πεδία στο προφίλ σας
         name: Αυτοβιογράφος
@@ -73,7 +76,7 @@ el:
         description: Δώστε λύση σε ερώτηση με περισσότερες από 40 ψήφους μέσο όρο
         name: Γκουρού
       inquirer: 
-        description: Κάντε ερώτηση για πρώτη φορά
+        description: Κάνατε  μια ερώτηση για πρώτη φορά
       interesting_person: 
         description: Αποκτήστε περισσότερους από 10 οπαδούς
         name: Ενδιαφέρον πρόσωπο
@@ -101,6 +104,7 @@ el:
         description: Γίνετε από τα πρώτα μέλη που θα εγγραφείτε
       popstar: 
         description: 500 θετικές ψήφοι, 10 αρνητικές ψήφοι το πολύ
+        name: Ποπ αστέρι
       popular_person: 
         description: Αποκτήστε περισσότερους από 50 οπαδούς
         name: Δημοφιλές πρόσωπο
@@ -108,7 +112,7 @@ el:
         description: Κάντε ερώτηση που θα φτάσει τις 1000 προβολές
         name: Δημοφιλές ερώτηση
       rockstar: 
-        description: 1000 θετικές ψήφοι, 10 αρνητικές ψήφοι το πολύ
+        description: Έχει 1000 θετικές ψήφους, 10 αρνητικές ψήφους το πολύ
       scholar: 
         description: Δώστε απάντηση και αποδεχτείτε την στη δική σας ερώτηση
         name: Μαθητής

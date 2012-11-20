@@ -4,6 +4,7 @@
 # Author: Beta16
 # Author: Danmaz74
 # Author: Giallu
+# Author: Gianfranco
 # Author: Rippitippi
 it: 
   feeds: 
@@ -24,6 +25,7 @@ it:
     by_semi: "Da:"
     chat: Chat
     current: Attuale
+    downgrade_to_free: Degrada a gratuito
     edited: Modificato
     edited_by: Modificato da
     edited_by_semi: "Modificato da:"

@@ -11,6 +11,7 @@ br:
       confirmed: Kadarnaet eo bet ho kont. Kevreet oc'h bremañ.
       send_instructions: A-benn un nebeud munutennoù e resevot ur postel gant displegadennoù evit kadarnaat ho kont.
     failure: 
+      inactive: N'eo ket bet kadarnaet ho kont c'hoazh.
       invalid: Chomlec'h postel pe ger-tremen direizh
       locked: Prennet eo ho kont dija.
       unauthenticated: Rankout a rit bezañ anavezet pe lakaat hoc'h anv evit kenderc'hel.
@@ -24,6 +25,7 @@ br:
         link: Cheñch ma ger-tremen
     passwords: 
       link: Ankouaet ho ker-tremen ganeoc'h ?
+      send_button: Kasit din ar c'hemennoù adderaouekaat evit ar ger-tremen
       send_instructions: A-benn un nebeud munutennoù e resevot ur postel gant displegadennoù evit adderaouekaat ho ker-tremen.
       updated: Cheñchet eo bet ho ker-termen. Anavezet oc'h bremañ.
     registrations: 
@@ -33,9 +35,14 @@ br:
       updated: Hizivaet ho peus ho kont.
     sessions: 
       link: Kevreañ
+      new: 
+        openid_url: Hoc'h URL OpenID
+        remember_me: Derc'hel soñj ac'hanon
+      registered_only: Rankout a reot bezañ kevreet evit gwelet an endalc'had.
       sign_out: Digevreañ
       signed_in: Kevreet.
       signed_out: Digevreet.
+      signin_group: Kevreit ouzh %{group}
     unlocks: 
       link: n'hoc'h eus ket resevet an displegadennoù dibrennañ ?
       send_instructions: A-benn un nebeud munutennoù e resevot ur postel gant displegadennoù evit dibrennañ ho kont.

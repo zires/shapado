@@ -1,6 +1,7 @@
 # Messages for Latin American Spanish (español de America Latina)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Dalton2
 # Author: Danke7
 # Author: Patcito
 es-419: 
@@ -61,9 +62,9 @@ es-419:
         too_many_tags: Disculpa, solo puedes entrar 9 etiquetas maximo.
         too_short: Demasiado corto. Por favor, usa mas palabras que %{count} para ser mas especifico.
     move: 
-      group_label: "Mover la pregunta a el group con slug:"
-      submit: Mover!
-      title: "Mover la pregunta: %{title}"
+      group_label: "Trasladar la pregunta al grupo con indicación:"
+      submit: ¡Trasladar!
+      title: "Trasladar la pregunta: %{title}"
     move_to: 
       group_dont_exists: El grupo %{group} no existe
       success: Pregunta movida a %{group}

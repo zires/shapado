@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Armando-Martin
+# Author: Dalton2
 # Author: Danke7
 # Author: Od1n
 # Author: Patcito
@@ -87,9 +88,9 @@ es:
           one: Lo sentimos, su título debe tener más de %{count} palabra
           other: Lo sentimos, su título debe tener más de %{count} palabras.
     move: 
-      group_label: "Mover la pregunta a el group con slug:"
-      submit: Mover!
-      title: "Mover la pregunta: %{title}"
+      group_label: "Trasladar al grupo con indicaciones:"
+      submit: ¡Trasladar!
+      title: "Trasladar la pregunta: %{title}"
     move_to: 
       group_dont_exists: El grupo %{group} no existe
       success: Pregunta movida a %{group}

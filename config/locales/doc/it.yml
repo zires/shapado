@@ -3,6 +3,7 @@
 # Export driver: syck-pecl
 # Author: Beta16
 # Author: Danmaz74
+# Author: Gianfranco
 # Author: GreenFox
 # Author: Rippitippi
 # Author: Tuxwet
@@ -18,6 +19,7 @@ it:
       all_support: Supporto basato su web, email, chat e telefono
       basic: Base
       basic_restrictions: Niente pubblicità personalizzate e niente UI completamente personalizzabile
+      basic_styling: Aspetto personalizzato
       basic_styling_tip: Modifica facilmente la gamma dei colori del tuo sito, aggiungi il tuo logo personale e modifica anche il codice CSS.
       big_sites: Siti con grande traffico
       custom_ads: Usa i tuoi annunci pubblicitari
@@ -27,6 +29,7 @@ it:
       custom_domain: Dominio personalizzato
       custom_domain_tip: Utilizzate il vostro dominio personale, come vostra-società.com, anzichè vostra-società.shapado.com
       custom_html: HTML personalizzato
+      custom_html_tip: Riorganizza completamente tutto il codice HTML del tuo sito e fallo sembrare quello che vuoi.
       custom_js: Aggiungi il tuo JavaScript personale
       custom_js_tip: Aggiungi il tuo codice JavaScript personale, come dei widgets multimediali o delle estensioni jQuery.
       custom_themes: Utilizza i nostri temi personalizzati già fatti
@@ -36,8 +39,11 @@ it:
       huge_sites: Siti con traffico enorme
       maximum: Massimo
       month: mese
+      optimum: Optimum
       page_views: Per siti Piccoli/Privati
       plans: Piani
+      plus: Plus
+      premium: Premium
       private: Privato
       private_private: Accesso limitato
       private_site: Abilitare accesso pubblico/privato

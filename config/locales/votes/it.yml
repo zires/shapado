@@ -3,6 +3,7 @@
 # Export driver: syck-pecl
 # Author: Danmaz74
 # Author: Giallu
+# Author: Gianfranco
 # Author: McDutchie
 it: 
   activerecord: 
@@ -10,6 +11,16 @@ it:
       vote: Voto
       votes: Voti
   votes: 
+    comments: 
+      title: 
+        has_no_user_vote: 
+          one: Solo %{count} utente ha votato questo commento, clicca anche tu.
+          other: Più di %{count} utenti hanno votato questo commento, clicca anche tu.
+          zero: Clicca per votare questo commento.
+        has_user_vote: 
+          one: Tu e %{count} altro utente avete votato questo commento.
+          other: Tu e %{count} altri utenti avete votato questo commento.
+          zero: Solo tu hai votato questo commento.
     control: 
       have_voted_down: Clicca per annullare il voto negativo
       have_voted_up: Clicca per annullare il voto positivo

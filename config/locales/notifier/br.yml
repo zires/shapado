@@ -2,16 +2,19 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Fulup
+# Author: Gwenn-Ael
 # Author: Y-M D
 br: 
   notifier: 
+    created_flag: 
+      message1: Resev a rit ar c'hemennad-mañ peogwir oc'h un habaskaer eus %{group}.
     earned_badge: 
       message1: Gounezet hoc'h eus ur badj %{badge} war %{app}
       message2: "Deskrivadur ar badj :"
       message3: Gellout a rit gwelet ho holl badjoù war ho %{user_page}
     favorited: 
       message1: "%{user} en deus ouzhpennet ho koulenn d'e sinedoù war %{group}"
-      message2: "Testenn ho koulenn :"
+      message2: "Ar goulenn a oa:"
       message3: "Gallout a rit e welet amañ :"
     follow: 
       message1: "%{user} a heuilh bremañ ho koulennoù hag ho respontoù war %{app}"

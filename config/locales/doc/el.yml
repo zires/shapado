@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Crazymadlover
+# Author: Glavkos
 el: 
   doc: 
     chat: 
@@ -22,9 +23,11 @@ el:
       free_plan: free plan
       getting_popular: getting popular
       huge_sites: huge traffic sites
+      maximum: Μέγιστο
       month: μήνας
       page_views: for small/private sites
       plans: plans
+      premium: Premium
       private_site: Enable private/public access
       start_monetizing: start monetizing
       support: Support

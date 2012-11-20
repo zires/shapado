@@ -83,7 +83,7 @@ ko:
     show: 
       follow: follow
       title: 사용자 %{user}
-      unfollow: unfollow
+      unfollow: 주시 해제
       views: 보기
     unfollow: 
       flash_notice: 사용자  %{user}를 벗에서 삭제하였습니다
