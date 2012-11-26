@@ -1,0 +1,21 @@
+# Messages for Turkish (Türkçe)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Incelemeelemani
+# Author: Szoszv
+tr: 
+  comments: 
+    create: 
+      flash_notice: Yorumunuz için teşekkür ederiz
+    edit: 
+      title: Yorumu düzenle
+    shared: 
+      add_comment: Yorum ekle...
+      comment_submit: Yorum
+      reply: Yanıtla
+      said: dedi
+    update: 
+      flash_notice: Yorum başarıyla güncelleştirildi.
+  models: 
+    comment: Yorum
+    comments: Yorumlar

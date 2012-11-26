@@ -1,0 +1,31 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Base
+# Author: Тест
+uk: 
+  activerecord: 
+    attributes: 
+      answer: 
+        body: Текст
+        created_at: Створено в
+        link: Посилання
+    models: 
+      answer: Відповідь
+      answers: Відповіді
+  answers: 
+    create: 
+      annon_notice: Користувач уже зареєстрований, будь ласка, увійдіть в систему.
+      flash_error: "При додаванні відповіді щось сталось не так.\nПам'ятайте, що:\n - Порожні та відповіді, що повторюються не дозволено\n - Вам слід зачекати 20 секунд перш ніж додавати наступну відповідь.\n - Ви можете розміщувати лише по одній відповіді на кожне питання."
+      flash_notice: Дякуємо!
+    edit: 
+      title: Редагування відповіді
+    form: 
+      answer_label: Відповідь на запитання
+      comment_label: Прокоментувати цю відповідь
+      comment_submit: Коментувати
+      submit: Відповісти
+    revert: 
+      title: Скасувати відповідь
+    update: 
+      flash_notice: Відповідь було успішно оновлено.

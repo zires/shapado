@@ -3,12 +3,15 @@
 # Export driver: syck-pecl
 # Author: 82-145
 # Author: Emperyan
+# Author: Incelemeelemani
 tr: 
   activerecord: 
     attributes: 
       announcement: 
+        ends_at: Biter
         message: İleti
         only_anonymous: Sadece anonim kullanıcılar için
+        starts_at: Başlar
   announcements: 
     actions: 
       delete: Kaldır

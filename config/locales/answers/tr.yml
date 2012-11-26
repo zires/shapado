@@ -3,11 +3,14 @@
 # Export driver: syck-pecl
 # Author: 82-145
 # Author: Emperyan
+# Author: Incelemeelemani
 # Author: Szoszv
 tr: 
   activerecord: 
     attributes: 
       answer: 
+        body: Metin
+        created_at: Oluşturulan
         link: Bağlantı
     models: 
       answer: Cevap
@@ -23,5 +26,7 @@ tr:
       comment_label: Bu cevabı yorumla
       comment_submit: Yorum
       submit: Cevap
+    revert: 
+      title: Cevabı geri al
     update: 
       flash_notice: Yanıt başarıyla güncellendi.

@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Emperyan
+# Author: Incelemeelemani
 tr: 
   activerecord: 
     models: 
@@ -12,5 +13,6 @@ tr:
     changed: değiştirildi
     created: oluşturuldu
     deleted: silindi
+    destroyed: silindi
     flagged: işaretlendi
     updated: güncellendi

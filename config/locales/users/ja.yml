@@ -39,7 +39,7 @@ ja:
     actions: 
       edit_others_posts: 他のユーザの投稿を編集する
       edit_wiki_post: Wikiポストを編集する
-      flag: 報告をする
+      flag: 報告する
       retag_others_questions: 他人の質問のタグを編集する
       vote_down: マイナスの投票
       vote_to_close_any_question: 任意の質問について終了リクエストを出す

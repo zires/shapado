@@ -1,0 +1,19 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Base
+uk: 
+  activerecord: 
+    models: 
+      activities: Діяльність
+      activity: Діяльність
+  activity: 
+    asked: запитано
+    changed: змінено
+    created: створено
+    deleted: вилучено
+    destroyed: вилучено
+    flagged: позначені
+    requested_to_close: запитано закрити
+    requested_to_open: запитано відкрити
+    updated: оновлено
