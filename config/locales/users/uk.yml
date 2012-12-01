@@ -1,0 +1,127 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Base
+uk: 
+  activerecord: 
+    attributes: 
+      user: 
+        activated_at: активовано
+        activation_code: Код активації
+        age: Вік
+        asked_by: задано
+        avatar: Зображення у профілі
+        birthday: День народження
+        created_at: приєднались
+        current_password: Поточний пароль
+        email: Електронна пошта
+        fullname: Повне ім'я
+        hide_country: Не показувати мою країну
+        language: Мова
+        language_filter: Фільтр за мовою
+        last_logged_at: востаннє помічено
+        login: Ім'я користувача
+        name: Справжнє ім'я
+        password: Пароль
+        password_confirmation: Підтвердження паролю
+        preferred_languages: "Ви бажаєте читати запитання такими мовами:"
+        preferred_tags: Теги, яким Ви надаєте перевагу
+        reputation: Репутація
+        timezone: Часовий пояс
+        updated_at: оновлено
+        website: Веб-сайт
+    models: 
+      user: Користувач
+      users: Користувачі
+  users: 
+    actions: 
+      edit_others_posts: редагування чужих повідомлень
+      edit_wiki_post: Редагування вікі-записів
+      flag: Позначити
+      vote_down: Голосувати проти
+      vote_up: Голосувати за
+    anonymous_form: 
+      never_shown: ніколи не показувати
+    change_password: 
+      submit: Змінити мій пароль
+      title: Змінити пароль
+    check_custom_domain: 
+      refresh: Перезавантажте цю сторінку, щоб спробувати знову.
+      reset_domain_button: Ні, будь ласка, відновіть власний домен %{domain}
+      title: Ваш новий власний домен працює?
+      working_domain_link: Так, я бачу мій новий домен працює.
+    edit: 
+      enable_twitter: Увімкнути Ваші облікові записи Facebook чи Twitter
+      submit: Зберегти
+      title: Налаштування
+    follow: 
+      flash_error: Ви не можете підсисатись на самого себе.
+      flash_notice: Ви тепер підписані на %{user}.
+    form: 
+      activities_notification: Отримувати сповіщення електронною поштою про системні дії такі як поява нових значків, нових підписчиків і т. д.
+      avatar_tip: Змінити зображення у свому профілі за допомогою Gravatar
+      give_advice_notification: Отримувати сповіщення електронною поштою про питання Вашої галузі знань
+      information: Інформація
+      language: Мова, що використовується для інтефейсу сайту
+      new_answer_notification: Отримувати сповіщення електронною поштою про нові відповіді
+      notifications: Сповіщення
+      reports_notification: Отримувати звіт про останні дії у групі (лише для адміністраторів груп)
+      send_answers_to_twitter: Надсилати мої відповіді на мій Twitter
+      send_badges_to_twitter: Надсилати мої недавно виграні значки на мій Twitter
+      send_comments_to_twitter: Надсилати мої коментарі на мій Twitter
+      send_favorites_to_twitter: Надсилати мої улюблені відповіді на мій Twitter
+      send_questions_to_twitter: Надсилати мої запитання на мій Twitter
+      show_more_lang: Показати більше мов
+      social_interaction: Взаємодія із соціальми медіа
+    index: 
+      empty: Ця група порожня. Візьміть участь долучившись до неї.
+      filter: Пошук користувачів
+      name: Ім'я
+      name_tooltip: Користувачі відсортовані за алфавітом
+      near: Поруч із Вами
+      near_tooltip: Користувачі, що розташовані поруч із Вами
+      newest: Найновіші
+      newest_tooltip: Користувачі, що щойно долучились
+      oldest: Найстаріші
+      oldest_tooltip: Користувачі, що долучились першими
+      reputation: Репутація
+      reputation_tooltip: Користувачів відсортовано за репутацією
+      title: Усі користувачі
+    messages: 
+      errors: 
+        reputation_needed: Вам треба мати репутацію більш ніж %{min_reputation} для %{action}
+    new: 
+      description: Стати частиною цієї спільноти, щоб запитувати, відповідати і вчитися!
+      join_group: Долучитись до %{group}
+      submit: Зареєструватись
+      title: Зареєструватись як новий користувач
+    show: 
+      edit_profile: Редагувати профіль
+      follow: Підписатись
+      followers: Підписники
+      following: Підписки
+      title: Користувач %{user}
+      unfollow: Скасувати підписку
+      views: перегляди/ів
+    show_json: 
+      edit_it: Натисніть тут, щоб заповнити Вашу біографію у профілі.
+      no_description: Користувач ще не заповнив свою біографію.
+    top_user: 
+      connect: З'єднати
+      my_karma: "Моя карма: %{karma}"
+      profile: Профіль
+    unfollow: 
+      flash_notice: Ви більше не підписані на %{user}.
+    update_followed_tags: 
+      followed: 
+        flash_notice: Тепер Ви підписані на теґ %{tag}.
+      unfollowed: 
+        flash_notice: Ви більше не підписані на теґ %{tag}.
+    user_bar: 
+      create_account: Створити обліковий запис
+      not_logged_in: Ви не ввійшли до системи
+      signed_as: Увійшов як
+    user_mini: 
+      admin: "[ Адміністратор ]"
+      editor: "[ Редактор ]"
+      mod: "[ Модератор ]"

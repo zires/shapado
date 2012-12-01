@@ -5,6 +5,8 @@
 da: 
   mailers: 
     notifications: 
+      created_flag: 
+        subject: Nyt indlæg anmeldt i %{group}
       earned_badge: 
         subject: Du har optjent en badge på %{group}!
       favorited: 
@@ -20,5 +22,7 @@ da:
         subject_owner: "%{login} besvarede dit spørgsmål %{title}"
       new_comment: 
         subject: "%{login} kommenterede på %{group}"
+      new_invitation: 
+        subject: "%{user} har inviteret dig til at deltage i %{group}"
       report: 
         subject: Rapport for gruppen %{group} af %{app}

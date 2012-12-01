@@ -6,6 +6,7 @@
  */
 
 var I18n = {
-	on_leave_page: "Du kan miste dine ændringer"
+	on_leave_page: "Du kan miste dine ændringer",
+	loading: "Indlæser..."
 };
 

@@ -1,0 +1,12 @@
+# Messages for Danish (dansk)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Emilkris33
+da: 
+  rewards: 
+    close: 
+      error: Du skal vente %{time} inden du kan tildele denne belønning
+    start: 
+      active_notice: Dette spørgsmål har allerede en belønning
+      reputation_notice: Du har ikke nok omdømme til at oprette en belønning på dette spørgsmål
+      wait_notice: Du skalvente 2 dagen inden du kan tilbyde en belønning på dette spørgsmål

@@ -1,6 +1,7 @@
 # Messages for Swedish (svenska)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Fader
 # Author: The real emj
 # Author: Tobulos1
 # Author: WikiPhoenix
@@ -31,9 +32,14 @@ sv:
       default_tags_message: Du kan inte ha mer än 10 standard-taggar
       group: Grupp
       groups: Grupper
+      reputation_rewards_key: Ogiltig nyckel
   groups: 
+    connect_group_to_twitter: 
+      failed_twitter_connection: Något gick tyvärr fel. Var god försök igen.
     create: 
       flash_notice: Din grupp har skapats. Du kan nu börja konfigurera den.
+    edit: 
+      title: Redigera din grupp
     form: 
       access: Inställningar
       analytics_engine: Analytics motor
@@ -48,6 +54,7 @@ sv:
       legend_legend: Den kommer att användas i rubriken. Du har 40 tecken.
       logo_legend: Du kan ladda upp en grupplogo. Den maximala filstorleken är 2 MB.
       members_only: Bara gruppens medlemmar kommer att kunna komma åt den här gruppen
+      signup_email: Endast användare/lösenord
       website_analytics_id: Webbsidans Analytics-ID
     group: 
       about: Om
@@ -58,6 +65,7 @@ sv:
       disallow_ads: Hindra annonser
     index: 
       actives: Aktiv
+      create_your_own: skapa din egen grupp
       filter: Sök efter grupper
       most_active: Mest aktiva
       name: Namn

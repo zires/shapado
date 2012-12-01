@@ -23,6 +23,7 @@ sv:
     chat: Chatt
     current: Nuvarande
     edited: Ändrad
+    edited_by: Redigerad av
     edited_by_semi: "Redigerad av:"
     feedback: Återkoppling
     follow: Följ
@@ -84,7 +85,10 @@ sv:
   time: 
     ago: "%{time} sedan"
     today: idag
+    yesterday: i går
   views: 
     pagination: 
+      first: Första
+      last: Sista
       next: Nästa &raquo;
       previous: "&laquo; Föregående"

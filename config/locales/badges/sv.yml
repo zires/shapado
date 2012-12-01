@@ -87,6 +87,7 @@ sv:
         name: Investerare
       merit_medal: 
         description: Fick 200 positiva röster
+        name: Meritmedalj
       necromancer: 
         description: Besvarade en fråga efter 60 dagar med minst 5 röster
         name: Schaman (nekromatiker)
@@ -121,6 +122,7 @@ sv:
         name: Rockstjärna
       service_medal: 
         description: Har 300 positiva röster
+        name: Servicemedalj
       shapado: 
         description: Besökt webbplatsen varje dag i 8 dagar i följd
       stellar_answer: 

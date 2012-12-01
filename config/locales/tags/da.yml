@@ -1,0 +1,13 @@
+# Messages for Danish (dansk)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Emilkris33
+da: 
+  tags: 
+    index: 
+      filter: Søg efter tags
+    show: 
+      title: "Spørgsmål tagged: %{tags}"
+    show_json: 
+      edit_it: Tilføj en beskrivelse til dette tag
+      no_description: Der er ikke nogen tilgængelig beskrivelse for dette tag

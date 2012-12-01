@@ -9,6 +9,11 @@ da:
       search_box_title: Kontrollere, om dit spørgsmål allerede er blevet stillet
       tags_tip: Brug [tag] for at angive tags.
     index: 
+      advanced_search: avanceret søgning
+      description: Brug %{link} valgmulighederne til at få præcise resultater
       empty: Din søgning matchede ikke nogen spørgsmål.
+      found_results: "%{quantity} resultater le fundet"
+      input_legend: Denne gemte søgning vil fremstå på navigations-linjen så du har hurtig adgang
+      input_title: "Gem denne søgning som:"
       search_text: Spørgsmål der indeholder
       tags: inden for disse tags

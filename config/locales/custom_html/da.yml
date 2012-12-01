@@ -1,0 +1,8 @@
+# Messages for Danish (dansk)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Emilkris33
+da: 
+  custom_html: 
+    question_help: Give så mange detaljer som muligt, så det får større chance for at blive besvaret i stedet for at blive drøftet i uendelighed. Prøv at være enkel og klar.
+    question_prompt: hvad er dit spørgsmål? vær beskrivende.

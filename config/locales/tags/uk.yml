@@ -1,6 +1,7 @@
 # Messages for Ukrainian (українська)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Base
 # Author: Pig1995z
 uk: 
   tags: 
@@ -8,3 +9,6 @@ uk:
       filter: Пошук по тегам
     show: 
       title: "Запитання із тегами: %{tags}"
+    show_json: 
+      edit_it: Додати опис цього теґу.
+      no_description: Наразі немає доступного опису для цих теґів.

@@ -1,0 +1,21 @@
+# Messages for Danish (dansk)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Emilkris33
+da: 
+  jobs: 
+    answers: 
+      on_create_answer: 
+        group_send_twitter: "%{user} besvarede: %{question}"
+        send_twitter: Mit svar på %{question}
+      on_favorite_answer: 
+        group_send_twitter: "%{user} kunne godt lide et svar af %{author} på: %{question}"
+        send_twitter: "Jeg kunne godt lide et svar af %{author} på: %{question}"
+    base: 
+      create_badge: 
+        group_send_twitter: "%{user} har netop vundet badge %{token} på %{group_name} %{link}"
+        send_twitter: Jeg har lige vundet badge %{token} på %{group_name} %{link}
+    comments: 
+      on_comment: 
+        group_on_comment: "%{user} kommenterede: %{question}"
+        send_twitter: Min kommentar til %{question}

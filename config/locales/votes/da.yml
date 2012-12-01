@@ -8,17 +8,30 @@ da:
       vote: Stemme
       votes: Stemmer
   votes: 
+    comments: 
+      title: 
+        has_no_user_vote: 
+          one: Kun %{count} bruger har stemt denne kommentar op, klik for også at stemme denne kommentar op.
+          other: Mere end %{count} personer har stemt denne kommentar op, klik for også at stemme denne kommentar op.
+          zero: Klik for at stemme denne kommentar op.
+        has_user_vote: 
+          one: Dig og %{count} anden bruger har stemt denne kommentar op.
+          other: Dig og %{count} andre brugere har stemt denne kommentar op
+          zero: Det er kun dig der har stemt denne kommentar op.
     control: 
       have_voted_down: Klik for at fortryde din ned stemme
       have_voted_up: Klik for at fortryde din op stemme
       to_vote_down: Klik for at stemme ned
       to_vote_up: Klik for at stemme op
     create: 
+      average: 
+        one: "%{count} stemme"
+        other: "%{count} stemmer"
       flash_error: Du kan ikke stemme dette
       flash_notice: Tak for din stemme!
       unauthenticated: Anonyme brugere kan ikke stemme
     destroy: 
-      flash_notice: Din stemme blev tilbagekaldt med succes.
+      flash_notice: Din stemme er blevet nulstillet.
     model: 
       messages: 
         closed_question: Du kan ikke stemme på nogen indlæg der tilhører et lukket spørgsmål

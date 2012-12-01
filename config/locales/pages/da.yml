@@ -26,6 +26,8 @@ da:
     index: 
       create_page: Opret ny side
       title: Liste over sider
+      wiki: Wiki
+      wiki_pages: Wiki-sider
       written_in: Skrevet på %{language}
     new: 
       title: Ny side

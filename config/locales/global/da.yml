@@ -18,17 +18,22 @@ da:
     active: Aktiver
     alphabetically: Alfabetisk
     anonymous: Anonym
+    blog: Blog
     by: af
     by_semi: "Af:"
+    chat: Chat
     current: Nuværende
+    downgrade_to_free: Nedgrader til gratis
     edited: Redigeret
     edited_by: Redigeret af
     edited_by_semi: "Redigeret af:"
     feedback: Tilbagemelding
+    follow: Følg
     followed_by: "Efterfulgt af:"
     following: Følger
     from: fra %{site}
     group_not_found: Side %{url}'en eksisterer ikke
+    home: Hjem
     next_button: Næste
     open: Åben
     or: eller
@@ -36,21 +41,33 @@ da:
     please_login: Du bedes logge ind
     preview: Forhåndsvisning
     previous: Forrige
+    privacy: Beskyttelse af personlige oplysninger
     share: Del
+    sign_up: Tilmeld dig
     size: Størrelse
     sort_by: "Sorter efter:"
+    tags_label: "Tags:"
+    tos: Servicevilkår
     unfollow: Stop med at følge
     unknown_place: Ukendt
+    upgrade: Opgrader
     view: Vis
     view_question: Vis spørgsmål
     what_to_do: Hvad vil du gøre?
   models: 
     question: Spørgsmålet
+  number: 
+    x_time: 
+      one: "%{count} gang"
+      other: "%{count} gange"
+      zero: Aldrig
   preferred_languages: 
+    any: Alle
     user: Mine foretrukne sprog
   roles: 
     moderator: Moderator
     owner: Ejer
+    user: Almindelig bruger
   scaffold: 
     add: Tilføj
     are_you_sure: Er du sikker?

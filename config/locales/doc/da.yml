@@ -1,6 +1,7 @@
 # Messages for Danish (dansk)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Christian List
 # Author: Emilkris33
 da: 
   doc: 
@@ -12,24 +13,43 @@ da:
       247_all_support: Web-baseret, e-mail, chat og 24/7 telefon support
       5millions: 5 millioner sidevisninger om måneden
       all_support: Web-baseret, e-mail, chat og telefon support
+      basic: Basis
       basic_restrictions: Ingen tilpassede annoncer og intet fuldt tilpasset UI
+      basic_styling: Personliggjort udseende & design
+      basic_styling_tip: Ændre nemt farveskemaet for webstedet, tilføje dit eget logo og du kan endda ændre CSS-koden.
       big_sites: Stor Trafik Sider
       custom_ads: Brug dine egne annoncer
+      custom_ads_tip: Brug dine egne annoncer og begynd at tjene penge!
       custom_analytics: Trafik statistik
+      custom_analytics_tip: Bruge Google Analytics og lær dine besøgende bedre at kende.
       custom_domain: Brugerdefineret domæne
+      custom_domain_tip: Bruge dit eget domæne som min-hjemmeside.dk i stedet for min-hjemmeside.shapado.com
+      custom_html: Din egen HTML
+      custom_html_tip: Du kan forandre hele HTML-koden på webstedet og få det til at de ud lige som du ønsker.
+      custom_js: Tilføj din egen JavaScript
+      custom_js_tip: Tilføj dine egen brugerdefinerede JavaScript-kode, såsom multimedie widgets eller jQuery plugins.
       custom_themes: Gør brug af vores forud lavede brugerdefinerede temaer
       custom_ui: Fuldt tilpasses UI
       free_plan: gratis plan
       getting_popular: Bliv Populær
       huge_sites: Kæmpe Trafik Sider
+      maximum: Maksimum
       month: måned
+      optimum: Optimum
       page_views: For Lille/Private Sider
       plans: Planer
+      plus: Plus
+      premium: Premium
+      private: Privat
+      private_private: Begrænset adgang
       private_site: Åben for privat/offentlig adgang
-      start_monetizing: start med at tjene penge
+      private_tip: Kun dig og brugere, du inviterer til dit websted tildeles adgang. Perfekt til virksomheden.
+      small_basic: Kom i gang
+      start_monetizing: Start med at tjene penge
       support: Støt
       title: Planer og priser
       unlimited: Ubegrænset trafik hver måned
+      user: bruger
       we_offer: Vi tilbyder også en
       web_support: Web-baseret support
       with_unlimited: med ubegrænset trafik med ingen brugerdefineret annoncer og intet brugerdefineret domæne.

@@ -12,18 +12,32 @@ da:
       badges: Badges
   badges: 
     index: 
+      all_tooltip: Vis alle guld, sølv og bronze badges.
       bronze: Bronze
-      description: Alle badges, som du kan tjene. Del din viden og optjen badges.
+      bronze_tooltip: Bronze badges er nemme at vinde og opfordrer brugere til at deltage.
+      description: Jo mere du bidrage ved at stille eller besvare spørgsmål, jo flere badges tjener du. Disse vil blive vist på din profilside.
+      general: Normale badges
+      general_tooltip: Vis alle foruddefinerede badges.
       gold: Guld
+      gold_tooltip: Guld badges er den største form for belønning, de er også den sværeste at få. Kun de mest dedikerede brugere får disse belønninger.
       silver: Sølv
+      silver_tooltip: Sølv badges er vundet af aktive brugere, der har været involveret i temmelig lang tid.
+      tags: Tag badges
+      tags_tooltip: Når spørgsmål tagged med X får svar med mere end 100 upvotes, oprettes en badge X med navnet på en det tag.
       title: badges
     shared: 
       addict: 
         description: Besøgte siden hver dag 20 dage i træk
         name: Afhængig
+      altruist: 
+        description: Første belønning du manuelt tildelte på en anden persons spørgsmål
+        name: Filantrop
       autobiographer: 
         description: Udfyldte alle profil felter
         name: Autobiografi
+      benefactor: 
+        description: Første belønning du manuelt tildelte på dit eget spørgsmål
+        name: Velgører
       celebrity: 
         description: Fik mere end 100 tilhængere
         name: Berømthed
@@ -61,9 +75,10 @@ da:
         description: Besøgte siden hver dag 100 dage i træk
         name: Fanatiker
       favorite_answer: 
+        description: Har et svar der er blevet markeret som favorit af 25 brugere
         name: Yndlingssvar
       favorite_question: 
-        description: Stillede et spørgsmål der blev favorit for 25 brugere
+        description: Stillede et spørgsmål der er blevet fulgt af 25 brugere
         name: Favorit spørgsmål
       friendly: 
         description: Blev tilhænger af nogen for første gang
@@ -89,6 +104,9 @@ da:
       interesting_person: 
         description: Fik mere end 10 tilhængere
         name: Interessant person
+      investor: 
+        description: Første belønning du tilbød på en anden persons spørgsmål
+        name: Investor
       merit_medal: 
         description: Fik 200 positive stemmer
         name: Fortjenestes medalje
@@ -122,6 +140,9 @@ da:
       popular_question: 
         description: Stillede et spørgsmål med 1000 visninger
         name: Populært spørgsmål
+      promoter: 
+        description: Første belønning du tilbød på dit eget spørgsmål
+        name: Promotør
       rockstar: 
         description: Har 1000 positive stemmer, maksimalt 10 negative stemmer
         name: Rockstjerne
@@ -136,8 +157,11 @@ da:
         name: Service medalje
       shapado: 
         description: Besøgte siden hver dag 8 dage i træk
+      stellar_answer: 
+        description: Har et svar der er blevet markeret som favorit af 100 brugere
+        name: Fortrineligt svar
       stellar_question: 
-        description: Stillede et spørgsmål der blev favorit for 100 brugere
+        description: Stillede et spørgsmål der er blevet fulgt af 100 brugere
         name: Super spørgsmål
       student: 
         description: Stillede første spørgsmål med mindst én op stemme

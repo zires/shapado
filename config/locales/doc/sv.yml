@@ -13,6 +13,7 @@ sv:
       247_all_support: Nätbaserad, e-post, chatt och telefon (24/7) support
       5millions: 5 miljoner sidvisningar/månad
       all_support: Nätbaserad, e-post, chatt och telefon support
+      basic: Enkel
       basic_restrictions: Inga anpassade annonser och inga helt anpassningsbara UI
       big_sites: Stora trafikplatser
       custom_ads: Använd dina egna annonser
@@ -20,6 +21,7 @@ sv:
       custom_analytics: Trafikstatistik
       custom_analytics_tip: Använd Google Analytics och lär känna dina besökare bättre.
       custom_domain: Egen domän
+      custom_html: Anpassad HTML
       custom_js: Lägg till ditt egen JavaScript
       custom_themes: Utnyttja våra färdigt anpassade teman
       custom_ui: Helt anpassningsbara UI
@@ -27,6 +29,9 @@ sv:
       huge_sites: Stora trafik-webbplatser
       month: månad
       page_views: För små/privata webbplatser
+      plus: Plus
+      premium: Premium
+      private: Privat
       private_site: Aktivera privat/offentlig tillgång
       start_monetizing: börja tjäna pengar
       support: Support

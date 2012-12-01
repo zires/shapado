@@ -1,0 +1,8 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Base
+uk: 
+  custom_html: 
+    question_help: Вкажіть якомога більше деталей, тоді буде більше шансів отримати відповідь, а не нескінченне обговорення. Спробуйте бути простим та ясним.
+    question_prompt: яке Ваше запитання? будьте інформативними.

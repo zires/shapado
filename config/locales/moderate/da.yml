@@ -1,10 +1,12 @@
-# Messages for Danish (Dansk)
+# Messages for Danish (dansk)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Emilkris33
 da: 
   admin: 
     moderate: 
+      closing: 
+        title: Luk spørgsmål
       index: 
         all: Alle
         ban: Blokering
@@ -14,3 +16,25 @@ da:
         item_title: Titel
         need_tags: Gen-tag
         title: Moderat
+      opening: 
+        title: Åben spørgsmål
+  moderate: 
+    questions: 
+      flagged: 
+        banned: Bortvist
+        banned_tooltip: Vis kun bortviste spørgsmål
+        filters: Filtre
+        title: Moderer Spørgsmål
+        unbanned: Ikke bortvist
+        unbanned_tooltip: Vis kun ikke bortviste spørgsmål
+      index: 
+        title: Moderer Spørgsmål
+      subtabs: 
+        flagged: Anmeldt
+        flagged_tooltip: Spørgsmål anmeldt af brugerne
+        retag: Mangler tags
+        retag_tooltip: Spørgsmål uden tags
+        to_close: Luknings anmodninger
+        to_close_tooltip: Spørgsmål brugere har anmodet om at få lukket
+        to_open: Genåbnings anmodninger
+        to_open_tooltip: Lukkede spørgsmål brugere har anmodet om at få genåbnet

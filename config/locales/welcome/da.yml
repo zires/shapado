@@ -10,7 +10,8 @@ da:
       under_18: Jeg er under 18
       warning: "ADVARSEL: Denne side kan indeholde eksplicit voksent materiale."
     feedback: 
-      captcha_error: Løs en simpel matematisk opgave
+      captcha_error: Husk at udfylde captcha'en korrekt og angive en gyldig email-adresse
+      captcha_notice: Tak for sin feedback, vi vil vende tilbage til dig så hurtigt som muligt
       email_description: Angiv venligst din e-mail-adresse så vi kan besvare din besked
       feedback_description: Beskrivelse
       feedback_title: Titel

@@ -17,6 +17,7 @@ da:
       not_relevant: Ikke relevant
       ot: Ude af sammenhæng
       request_closing_details: Anmodning om at lukke dette spørgsmål
+      retract: Træk tilbage
       spam: spam
     index: 
       title: Liste over tætte anmodninger

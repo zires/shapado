@@ -1,0 +1,34 @@
+# Messages for Danish (dansk)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Christian List
+# Author: Emilkris33
+da: 
+  invitations: 
+    accept: 
+      create_account: Opret en konto (1 af 2)
+      create_account_step2: Opret konto
+      description: "%{group} er en stadig forbedret samling af spørgsmål og svar om et emne."
+      done: Færdig!
+      facebook_connect: Forbind med din Facebook-konto
+      final_step: Sidste trin (2 af 2)
+      find_friends: "Find venner og opret forbindelse:"
+      follow_things: Følg tags og personer
+      follow_things_description: Spørgsmål relateret til disse vises på din feed.
+      other_connect: eller bruge en af disse.
+      other_social_options: Du kan også bruge %{linkedin} og %{identica}.
+      point1: Spørg eksperter som ved noget om et bestemt emne.
+      point2: Følg emner og svar på spørgsmål der interesserer dig.
+      point3: Stem og rediger svar og wikisider for at forbedre dem. Vind badges
+      point4: Svar fra din e-mailklient uden problemer.
+      twitter_connect: Forbind med din Twitter-konto
+      welcome: Velkommen
+    create: 
+      flash_notice: Invitationerne blev sendt.
+      limit_notice: 
+        one: Du kan ikke sende mere end %{limit} invitation af gangen.
+        other: Du kan ikke sende mere end %{limit} invitationer af gangen.
+    resend: 
+      flash_notice: Invitationen er blevet gensendt.
+    revoke: 
+      flash_notice: Invitationen er blevet tilbagekaldt.

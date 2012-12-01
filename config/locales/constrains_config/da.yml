@@ -1,0 +1,8 @@
+# Messages for Danish (dansk)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Emilkris33
+da: 
+  activemodel: 
+    models: 
+      constrains_config: Omdømme Begrænsnings Konfiguration

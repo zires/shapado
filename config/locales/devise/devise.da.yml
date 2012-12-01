@@ -1,44 +1,69 @@
-# Messages for Danish (Dansk)
+# Messages for Danish (dansk)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Emilkris33
+# Author: Sarrus
+# Author: Tjernobyl
 da: 
   devise: 
     confirmations: 
       confirmed: Din konto blev bekræftet. Du er nu logget ind
-      link: Har ikke modtaget bekræftelses instruktioner?
       send_instructions: Du vil modtage en e-mail med instruktioner om hvordan du kan bekræfte din konto inden for et par minutter.
+    failure: 
+      inactive: Din konto var endnu ikke aktiveret.
+      invalid: Ugyldig email-adresse eller adgangskode.
+      invalid_token: Ugyldig autentifikationstoken
+      locked: Din konto er låst.
+      timeout: Din session er udløbet, log på igen for at fortsætte.
+      unauthenticated: Du skal logge på eller tilmelde før du fortsætter.
+      unconfirmed: Du skal bekræfte din konto, før du fortsætter.
     mailer: 
-      confirmation_instructions: Bekræftelses instruktioner
-      reset_password_instructions: Nulstil password instruktioner
-      unlock_instructions: Lås op for Instruktioner
+      confirm_account: 
+        instruction1: "Du kan bekræte din konto via linket herunder:"
+        link: Bekræft konto
+        welcome: Velkommen
+      confirmation_instructions: 
+        subject: Bekræftelses instruktioner
+      hello: Hej
+      reset_password: 
+        instruction1: Nogen har anmodet om et link til at ændre din adgangskode, og du kan gøre dette via linket nedenfor.
+        link: Skift min adgangskode
+        nonrequested: Ignorer venligst denne email, hvis du ikke har anmodet om dette,
+        warning: Adgangskoden ændres ikke, før du har klikket på linket herover og oprettet en ny.
+      reset_password_instructions: 
+        subject: Adgangskode nulstilnings vejledning
+      unlock: 
+        instruction1: Din konto er blevet låst grundet et for mange mislykkede log ind forsøg.
+        instruction2: "Klik på linket nedenfor for at låse din konto op:"
+        link: Lås min konto op
+      unlock_instructions: 
+        subject: Oplåsnings vejledning
     passwords: 
       link: Glemt password?
+      send_button: Send mig adgangskode nulstilnings vejledningen
       send_instructions: Du vil modtage en e-mail med instruktioner om hvordan du kan nulstille dit password inden for et par minutter.
       updated: Dit password blev ændret. Du er nu logget ind.
     registrations: 
       destroyed: Farvel! Din konto blev annulleret. Vi håber at se dig igen.
       link: Tilmeld
-      signed_up: Du har tilmeldt dig.
+      signed_up: Du har tilmeldt dig. Hvis det er aktiveret, blev en bekræftelse sendt til din email.
       updated: Du har opdateret din konto.
     sessions: 
-      facebook_actions: 
-        sign_in: Log ind
-        sign_out: Log ud
-      facebook_authenticity_token: Noget gik galt. Af sikkerhedsmæssige årsager, skal du logge ind igen.
-      facebook_invalid: Kunne ikke logge ind. Ugyldig konto.
-      facebook_timeout: Facebook session er udløbet. Du skal logge ind igen for at fortsætte.
-      inactive: Din konto er ikke bekræftet endnu.
-      invalid: Ugyldig e-mail-adresse eller adgangskode.
-      invalid_token: Ugyldig bekræftelses token.
       link: Log ind
-      locked: Din konto er låst.
+      new: 
+        openid_url: Din OpenID URL
+        remember_me: Husk mig
+      registered_only: Du skal være logget ind for at se indholdet.
+      sign_out: Log ud
       signed_in: Logget ind
       signed_out: Logget ud.
-      timeout: Din session er udløbet. Log på igen for at fortsætte.
-      unauthenticated: Du skal logge ind eller tilmeld dig før du fortsætter.
-      unconfirmed: Du skal bekræfte din konto, før du fortsætter.
+      signin_group: Log på %{group}
     unlocks: 
       link: Modtog ikke oplåsnings instruktioner?
       send_instructions: Du vil modtage en e-mail med instruktioner om hvordan du kan låse op din konto inden for et par minutter.
       unlocked: Din konto blev låst op. Du er nu logget ind
+  errors: 
+    messages: 
+      already_confirmed: var allerede bekræftet
+      not_found: Ikke fundet
+      not_locked: var ikke låst

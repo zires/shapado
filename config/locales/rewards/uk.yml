@@ -1,0 +1,12 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Base
+uk: 
+  rewards: 
+    close: 
+      error: Вам необхідно зачекати %{time} для отримання цієї нагороди.
+    start: 
+      active_notice: Це питання вже має активну нагороду.
+      reputation_notice: У Вас недостатньо репутації для створення нагороди до цього питання.
+      wait_notice: Зачекайте 2 дні, перш ніж пропонувати винагороду за цим питанням.

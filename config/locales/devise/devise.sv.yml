@@ -44,6 +44,7 @@ sv:
     sessions: 
       link: Logga in
       new: 
+        openid_url: Ditt OpenID-URL
         remember_me: Håll mig inloggad
       registered_only: Du måste vara inloggad för att se innehållet.
       sign_out: Logga ut

@@ -15,6 +15,7 @@ da:
       answers: Svar
   answers: 
     create: 
+      annon_notice: Brugeren er allerede registreret, log venligst ind.
       flash_error: "Noget gik galt da du tilføjede dit svar.\nHusk, at:\n- Tomme og gentagne svar ikke er tilladt\n- Du skal vente 20 sekunder, før du sender endnu et svar.\n- Du kan kun sende ét svar for hvert spørgsmål."
       flash_notice: Tak!
     edit: 

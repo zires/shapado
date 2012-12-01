@@ -1,0 +1,8 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Base
+uk: 
+  activemodel: 
+    models: 
+      constrains_config: Налаштування обмеженої репутації

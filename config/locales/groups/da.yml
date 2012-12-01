@@ -1,36 +1,53 @@
 # Messages for Danish (dansk)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Christian List
 # Author: Emilkris33
 # Author: Sarrus
 da: 
   activerecord: 
     attributes: 
       group: 
+        daily_cap: Daglige max
         default_tags: Standard tags
         description: Beskrivelse
         domain: Domæne
-        enable_latex: Aktiver LaTeX
+        enable_latex: Aktiver LaTeX med jqmath (hurtig men har ikke alle funktioner)
+        enable_mathjax: Aktiver LaTeX med mathjax (langsom men har alle funktioner)
         fb_button: Aktiver Facebook "synes godt om"/like knap (ikke privatlivs venlig)
         forum: Tillad mere end ét svar af bruger
         group_created_by: oprettet af
         language: Standardsprog
+        languages: Ekstra sprog
         legend: Legende
         logo: Logo
         may_contain_adult_content: Dette site kan indeholde voksen indhold
         name: Navn
         owner: Denne gruppe blev oprettet af %{login}
         registered_only: Kun registrerede personer kan få adgang til webstedet
+        signup_type: "Hvilke metoder kan dine brugere bruge til at tilmelde sig:"
         state: Tilstand
         subdomain: URL
+        track_users: Spørg brugere om deres fysiske placering
         wysiwyg_editor: Aktiver brugervenlig editor
     models: 
       default_tags_message: Du kan ikke have mere end 10 standard tags
+      duplicate_domain_message: Dette domæne er allerede taget.
       group: Gruppe
       groups: Grupper
+      reputation_rewards_answer_constrain: Begrænsningen for at besvare belønninger bør være negativ
+      reputation_rewards_ask_constrain: Begrænsningen for at stille spørgsmål bør være negativ
+      reputation_rewards_key: Ugyldig nøgle
   groups: 
+    connect_group_to_twitter: 
+      failed_twitter_connection: Noget gik galt. Prøv venligst igen.
+      success_twitter_connection: Tillykke, du har forbundet din Twitter-konto!
     create: 
       flash_notice: Din gruppe blev oprettet. Du kan nu begynde at konfigurere den.
+    downgrade: 
+      notice: Du har frameldt dig korrekt, du bruger nu vores gratis plan.
+    edit: 
+      title: Rediger din gruppe
     form: 
       access: Åben Indstillinger
       analytics_engine: Analyser Motor
@@ -45,6 +62,10 @@ da:
       legend_legend: Den vil blive brugt i headeren. Du har 40 tegn.
       logo_legend: Du kan uploade gruppe logoet. Den maksimale filstørrelse er 2MB.
       members_only: Kun gruppens medlemmer vil kunne få adgang til denne gruppe
+      signup_all: Alle de markerede udbydere plus brugernavn/adgangskode
+      signup_email: Kun brugernavn/adgangskode
+      signup_noemail: Alle de markerede udbydere minus brugernavn/adgangskode
+      signup_social: Brugere tvinges til at bruge Facebook, Twitter, LinkedIn eller Identica
       website_analytics_id: Webside Analyse ID
     group: 
       about: Om
@@ -55,6 +76,8 @@ da:
       disallow_ads: Forbyd annoncer
     index: 
       actives: Aktiv
+      create_your_own: opret din egen gruppe
+      description: Dette er listen over offentlige grupper, der er blevet oprettet. Brug søgefeltet her under for at filtrere grupper. Du kan også %{link}.
       filter: Søg efter grupper
       most_active: Mest aktive
       name: Navn
@@ -71,3 +94,9 @@ da:
       group_closed: Denne gruppe blev lukket.
       title: Om %{name}
       visit_group: Besøg denne gruppe
+    top_grouplist: 
+      active_site: "Aktiv side:"
+    update: 
+      notice: Din gruppe blev opdateret.
+    upgrade: 
+      error: Du abonnerer allerede på denne plan

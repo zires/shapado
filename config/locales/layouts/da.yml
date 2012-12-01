@@ -1,51 +1,78 @@
 # Messages for Danish (dansk)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Christian List
 # Author: Emilkris33
 da: 
   layouts: 
     application: 
+      all: Alle
       ask_question: Stil spørgsmål
       badges: Badges
+      by_me: Af Mig
+      collaborate: Samarbejd
+      contributed: Bidraget
+      faq: Ofte Stillede Spørgsmål
+      feed: Fulgt
+      follow_us_and_share: Følg os og del
+      followed: Fulgt
       forgot: Glemt?
       home: Hjem
+      join_group: Deltag i %{group}
       languages: Sprog
       log_in: Log ind
       logged: Logget ind som %{login}
       logout: Log ud
       manage_ads: Administrer annoncer
       moderate: Moderat
+      need_to_signin: Du skal logge på først.
+      not_member_join_dialog: Du skal deltage i %{group} for at fuldføre denne handling, klik her for at gøre det .
       now: nu!
       openid: 
         explaination: "Hvis du ønsker at registrere eller blot logge ind, skal du vælge din OpenID udbyder:"
       pages: Sider
+      preferred: Foretrukket
       questions: Spørgsmål
       questions_in: Spørgsmål i
       questions_tagged: tagged med
+      random_question: Tilfældigt spørgsmål
       search: Søg
       settings: Indstillinger
       signup: Tilmeld
       subscribe: Abonner
+      success_joining_group: Du er nu medlem af %{group}, tak for at deltage!
       tags: Tags
       title: Spørgsmål & Svar
       unanswered: Ubesvarede
       users: Brugere
       welcome_from: Velkommen! Du kan
     manage: 
+      access: Adgang
       actions: Handlinger
       announcements: Bekendtgørelser
+      appearance: Udseende
+      close_group: Luk gruppe
       constrains: Forudsætninger
       content: Indhold
       dashboard: Dashboard
       domain: Domæne
+      edit_layout: Rediger layoutet
       general: Generelt
+      group_features: Funktioner
+      group_look_and_feel: Design
+      group_user_management: Brugeradministration
+      invitations: Invitationer
+      invoices: Fakturaer
       members: Medlemmer
       pages: Sider
       properties: Egenskaber
       reputation: Omdømme
       rewards: Belønninger
+      site_management: Webstedsadministration
+      social: Social
       stats: Statetisker
       theme: Tema
+      themes: Temaer
       widgets: Widgets
     notifications: 
       message: Hvis du ikke ønsker at modtage automatiske meddelelser fra %{group} længere, ændre dine indstillingere.
