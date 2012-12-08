@@ -1,6 +1,7 @@
 # Messages for Danish (dansk)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Christian List
 # Author: Emilkris33
 da: 
   admin: 
@@ -15,7 +16,7 @@ da:
         title: Vælg og tilpas dit tema
       close_group: 
         description: At lukke gruppen vil gøre den utilgængelig for alle, bortset fra dig.
-        feedback: "Fortæl os venligst, hvorfor at du lukker din gruppe:"
+        feedback: "Fortæl os venligst, hvorfor du lukker din gruppe:"
       content: 
         description: Konfigurer din gruppe med brugerdefineret tekst og stil
         footer: Sidefod
@@ -36,7 +37,7 @@ da:
       properties: 
         ask_from_twitter: 
           asking_from_twitter: Stil spørgsmål via Twitter
-          question_asked_to: Spørgsmål Stillet Til
+          question_asked_to: Spørgsmål stillet til
           question_must_include: Spørgsmål skal indeholde følgende tag for at blive slået op på twitter
           question_must_include_example: "fx #iAsk"
           twitter_account: Twitter kontoen dine brugere skal stille spørgsmål til.
@@ -45,7 +46,7 @@ da:
           reputation_constrains_subtitle: Liste over omdømme for hver handling
           title: Forudsætninger
         domain: 
-          description: "Du kan lægge at andet domæne til dit Shapado websted, så det kan tilgås via dit eget domæne. Dette er hvordan du gør det:"
+          description: "Du kan knytte at andet domæne til dit Shapado websted, så det kan tilgås via dit eget domæne. Dette er hvordan du gør det:"
           instruction1: For at gøre det er du først nødt til at logge på din domæne udbyder. Det er stedet, hvor du har købt dit domæne såsom %{subdomain}.com.
           instruction2: Der skal du gå til DNS afsnittet og lave noget der hedder en CNAME.
           instruction3: Vælg 'www' eller noget andet som navnet på din CNAME.
@@ -57,7 +58,7 @@ da:
         facebook_app: 
           application_id: Applikations ID
           facebook_app: Facebook app indstillinger
-          legend: Du kan konfigurere do Facebook app. Dette il blive brugt til at logge dine brugere ind via Facebook. Vær opmærksom på at dette kun er nødvendigt vis du bruger dit eget domæne.
+          legend: Du kan konfigurere din Facebook app. Dette vil blive brugt til at logge dine brugere på via Facebook. Vær opmærksom på at dette kun er nødvendigt vis du bruger dit eget domæne.
           secret_key: Hemmelig Nøgle
         general: 
           title: Gruppe indstillinger
@@ -67,7 +68,7 @@ da:
         invite: 
           body_instructions: Skriv en meddelelse til personerne du inviterer (valgfrit)
           body_length_warning: Teksten kan ikke indeholde mere end 400 tegn
-          emails_instructions: Angiv email-adresserne efter hinanden adskilt med et komma
+          emails_instructions: Angiv e-mailadresserne efter hinanden adskilt med et komma
           invitations: Sendte invitationer
           invite: Inviter personer
           title: Inviter personer pr. e-mail
@@ -79,7 +80,7 @@ da:
           send_answers_to_twitter: Send alle svar til Twitter
           send_badges_to_twitter: Sende alle nyligt vundne badges til Twitter
           send_comments_to_twitter: Send alle kommentarer til Twitter
-          send_favorites_to_twitter: Slå alle foretrukne svarop på Twitter
+          send_favorites_to_twitter: Slå alle foretrukne svar op på Twitter
           send_questions_to_twitter: Send alle spørgsmål til Twitter
         rewards: 
           reputation_rewards_description: Denne form giver dig mulighed for at konfigurere, hvordan brugerne kan vinde og tabe omdømme points for en given handling
@@ -94,10 +95,10 @@ da:
           title: Tag dine tweets
           tweet_ends_with: Tilføj et tag til slutningen af dine tweets
           tweet_starts_with: Tilføj et tag til starten af dine tweets
-        title: Gruppe indstillinger
+        title: Gruppeindstillinger
         twitter_account: 
-          connect_to_other_twitter: Klik her for at forbinde an anden Twitter konto til din gruppe
-          connect_to_twitter: Klik her for at forbinde an anden Twitter konto til din gruppe
+          connect_to_other_twitter: Klik her for at forbinde en anden Twitter konto til din gruppe
+          connect_to_twitter: Klik her for at forbinde en Twitter konto til din gruppe
           disconnect_twitter_group: Afbryd denne gruppes forbindelse til Twitter
           legend: Denne konto vil blive brugt til at slå nye spørgsmål og svar op på Twitter.
           legend_with_account: Din Twitter konto <a href="https://twitter.com/%{twitter_account}">@%{twitter_account}</a> vil blive brugt til at slå nye spørgsmål og svar op på Twitter. Du kan konfigurerer hvad der bliver slået op på Twitter <a href="%{link}">her</a>.
@@ -119,7 +120,7 @@ da:
         post_to_twitter_title: Slå automatisk alle spørgsmål og svar op på Twitter
         tag_your_tweets: Tag dine tweets
         tag_your_tweets_title: Tilføj tags til dine tweets
-        title: Sociale-medier interaktion
+        title: Interaktion med sociale medier
         twitter_account: Twitter Konto
         twitter_account_title: Konfigurer din Twitter konto, det skal bruges for at slå spørgsmål op på Twitter
       top_admin: 

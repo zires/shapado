@@ -1,6 +1,7 @@
 # Messages for Danish (dansk)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Christian List
 # Author: Emilkris33
 da: 
   searches: 
@@ -12,7 +13,7 @@ da:
       advanced_search: avanceret søgning
       description: Brug %{link} valgmulighederne til at få præcise resultater
       empty: Din søgning matchede ikke nogen spørgsmål.
-      found_results: "%{quantity} resultater le fundet"
+      found_results: "%{quantity} resultater blev fundet"
       input_legend: Denne gemte søgning vil fremstå på navigations-linjen så du har hurtig adgang
       input_title: "Gem denne søgning som:"
       search_text: Spørgsmål der indeholder

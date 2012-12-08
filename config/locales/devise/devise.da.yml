@@ -1,6 +1,7 @@
 # Messages for Danish (dansk)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Christian List
 # Author: Emilkris33
 # Author: Sarrus
 # Author: Tjernobyl
@@ -11,7 +12,7 @@ da:
       send_instructions: Du vil modtage en e-mail med instruktioner om hvordan du kan bekræfte din konto inden for et par minutter.
     failure: 
       inactive: Din konto var endnu ikke aktiveret.
-      invalid: Ugyldig email-adresse eller adgangskode.
+      invalid: Ugyldig e-mailadresse eller adgangskode.
       invalid_token: Ugyldig autentifikationstoken
       locked: Din konto er låst.
       timeout: Din session er udløbet, log på igen for at fortsætte.
@@ -23,7 +24,7 @@ da:
         link: Bekræft konto
         welcome: Velkommen
       confirmation_instructions: 
-        subject: Bekræftelses instruktioner
+        subject: Vejledning til at bekræfte brugerkontoen
       hello: Hej
       reset_password: 
         instruction1: Nogen har anmodet om et link til at ændre din adgangskode, og du kan gøre dette via linket nedenfor.
@@ -31,16 +32,16 @@ da:
         nonrequested: Ignorer venligst denne email, hvis du ikke har anmodet om dette,
         warning: Adgangskoden ændres ikke, før du har klikket på linket herover og oprettet en ny.
       reset_password_instructions: 
-        subject: Adgangskode nulstilnings vejledning
+        subject: Vejledning til at nulstille adgangskode
       unlock: 
-        instruction1: Din konto er blevet låst grundet et for mange mislykkede log ind forsøg.
+        instruction1: Din konto er blevet låst grundet for mange mislykkede log ind forsøg.
         instruction2: "Klik på linket nedenfor for at låse din konto op:"
         link: Lås min konto op
       unlock_instructions: 
-        subject: Oplåsnings vejledning
+        subject: Vejledning til at låse op
     passwords: 
       link: Glemt password?
-      send_button: Send mig adgangskode nulstilnings vejledningen
+      send_button: Send mig vejledning til at nulstille adgangskode
       send_instructions: Du vil modtage en e-mail med instruktioner om hvordan du kan nulstille dit password inden for et par minutter.
       updated: Dit password blev ændret. Du er nu logget ind.
     registrations: 
@@ -53,7 +54,7 @@ da:
       new: 
         openid_url: Din OpenID URL
         remember_me: Husk mig
-      registered_only: Du skal være logget ind for at se indholdet.
+      registered_only: Du skal være logget på for at se indholdet.
       sign_out: Log ud
       signed_in: Logget ind
       signed_out: Logget ud.

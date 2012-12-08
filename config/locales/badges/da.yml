@@ -1,6 +1,7 @@
 # Messages for Danish (dansk)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Christian List
 # Author: Emilkris33
 # Author: Sarrus
 # Author: The real emj
@@ -15,7 +16,7 @@ da:
       all_tooltip: Vis alle guld, sølv og bronze badges.
       bronze: Bronze
       bronze_tooltip: Bronze badges er nemme at vinde og opfordrer brugere til at deltage.
-      description: Jo mere du bidrage ved at stille eller besvare spørgsmål, jo flere badges tjener du. Disse vil blive vist på din profilside.
+      description: Jo mere du bidrager ved at stille eller besvare spørgsmål, jo flere badges tjener du. Disse vil blive vist på din profilside.
       general: Normale badges
       general_tooltip: Vis alle foruddefinerede badges.
       gold: Guld
@@ -23,7 +24,7 @@ da:
       silver: Sølv
       silver_tooltip: Sølv badges er vundet af aktive brugere, der har været involveret i temmelig lang tid.
       tags: Tag badges
-      tags_tooltip: Når spørgsmål tagged med X får svar med mere end 100 upvotes, oprettes en badge X med navnet på en det tag.
+      tags_tooltip: Når spørgsmål tagged med X får svar med mere end 100 upvotes, oprettes en badge X med navnet på det tag.
       title: badges
     shared: 
       addict: 
@@ -159,7 +160,7 @@ da:
         description: Besøgte siden hver dag 8 dage i træk
       stellar_answer: 
         description: Har et svar der er blevet markeret som favorit af 100 brugere
-        name: Fortrineligt svar
+        name: Fortrinligt svar
       stellar_question: 
         description: Stillede et spørgsmål der er blevet fulgt af 100 brugere
         name: Super spørgsmål

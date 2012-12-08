@@ -1,6 +1,7 @@
 # Messages for Danish (dansk)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Christian List
 # Author: Emilkris33
 da: 
   welcome: 
@@ -10,8 +11,8 @@ da:
       under_18: Jeg er under 18
       warning: "ADVARSEL: Denne side kan indeholde eksplicit voksent materiale."
     feedback: 
-      captcha_error: Husk at udfylde captcha'en korrekt og angive en gyldig email-adresse
-      captcha_notice: Tak for sin feedback, vi vil vende tilbage til dig så hurtigt som muligt
+      captcha_error: Husk at udfylde captcha'en korrekt og angive en gyldig e-mailadresse
+      captcha_notice: Tak for din feedback, vi vil vende tilbage til dig så hurtigt som muligt
       email_description: Angiv venligst din e-mail-adresse så vi kan besvare din besked
       feedback_description: Beskrivelse
       feedback_title: Titel
