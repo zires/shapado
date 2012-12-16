@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Linkr
+# Author: 아라
 ko: 
   sessions: 
     create: 
@@ -15,7 +16,7 @@ ko:
       registered: 이미 등록하셨나요?
       remember_me: 자동 로그인
       sign_in: 로그인
-      signup: 가입
+      signup: 가입하기
       with_authentication: 우리의 인증 시스템으로 로그인
       with_facebook: 페이스북으로 로그인
       with_openid: OpenID로 로그인

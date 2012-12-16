@@ -1,0 +1,73 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Base
+uk: 
+  widgets: 
+    adsense: 
+      description: Цей віджет дозволяє показувати рекламу Google AdSense.
+      title: AdSense
+    badges: 
+      description: Цей віджет показує поточні бейджі отримані користувачами.
+      see_all: Переглянути усі бейджі
+      title: Поточні бейджі
+    create: 
+      notice: Віджет було успішно створено.
+    custom_html: 
+      description: Додає будь-який HTML, що Ви хочете тут.
+    edit: 
+      title: Редагувати віджет
+    groups: 
+      description: Цей віджет показує останні групи.
+      title: Останні групи
+    index: 
+      add_new: Додати новий віджет
+      description: Використовуйте стрілки для переміщення Ваших віджетів.
+      external_widgets: Зовнішній
+      external_widgets_title: Віджети, які можна буде вбудувати на Ваш власний сайт
+      footer: Футер
+      header: Заголовок
+      mainlist_widgets: Головний список
+      mainlist_widgets_title: Віджети, які будуть у головному списку запитань
+      name: Назва віджету
+      navbar: Навігаційна панель
+      question_widgets: Запитання
+      question_widgets_title: Віджети, які будуть на кожній сторінці запитань
+      sidebar: Бічна панель
+      title: Керування віджетами бокової панелі
+      type: "Тип:"
+      welcome_widgets: Ласкаво просимо
+      zone: "Розділ сторінки:"
+    pages: 
+      description: Цей віджет показує список вікі-сторінок.
+      new: Додати нову сторінку
+      title: Вікі-сторінки
+    settings: 
+      content: "Вставте бідь-який HTML, що Ви хочете тут:"
+      custom_html: "Нестандартний HTML:"
+      exclude_css_on_external: Виключити CSS Вашого shapado-сайту із Вашого віджету
+      limit: "Кількість для показу:"
+      on_questions: Показувати на сторінці головного списку запитань
+      on_show_question: Показувати під час показу запитань
+      on_welcome: Показувати на вітальній сторінці
+    suggestions: 
+      follow_tag: + Підписатись на теґ
+      follow_user: + Підписатись на користувача
+      unfollow_tag: "- Відписатись від теґу"
+      unfollow_user: "- Відписатись від користувача"
+    tag_cloud: 
+      description: Цей віджет показує хмаринку теґів.
+      title: Хмаринка теґів
+    top_groups: 
+      description: Цей віджет показує п'ять найкращих груп.
+      title: 5 найкращих груп
+    top_users: 
+      description: Цей віджет показує п'ять найкращих користувачів.
+      title: 5 найкращих користувачів
+    update: 
+      notice: Віджет було успішно оновлено.
+    users: 
+      description: Цей віджет показує нових зареєстрованих користувачів.
+      title: Останні користувачі
+    widget: 
+      change_position: "Змінити розташування віджету:"

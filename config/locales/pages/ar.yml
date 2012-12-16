@@ -1,6 +1,7 @@
 # Messages for Arabic (العربية)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Meno25
 # Author: OsamaK
 ar: 
   activerecord: 
@@ -8,7 +9,7 @@ ar:
       page: 
         js: جافاسكربت
     models: 
-      page: صفحة
+      page: الصفحة
       pages: صفحات
   pages: 
     actions: 

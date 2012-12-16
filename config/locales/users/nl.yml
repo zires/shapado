@@ -130,7 +130,7 @@ nl:
       unfollowed: 
         flash_notice: U bent niet langer geabonneerd op het label %{tag}.
     user_bar: 
-      create_account: Gebruiker aanmaken
+      create_account: Registreren
       not_logged_in: Niet aangemeld
       signed_as: Aangemeld als
     user_mini: 
