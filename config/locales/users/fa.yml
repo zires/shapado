@@ -3,6 +3,7 @@
 # Export driver: syck-pecl
 # Author: Ebraminio
 # Author: MindHammerGames
+# Author: ZxxZxxZ
 fa: 
   activerecord: 
     attributes: 
@@ -23,7 +24,7 @@ fa:
         last_logged_at: دیده شده در
         login: نام کاربری
         name: نام واقعی
-        password: رمز عبور
+        password: کلمه عبور
         password_confirmation: تایید رمز عبور
         preferred_languages: "شما می خواهید سوالات نوشته شده به این زبانها را بخوانید:"
         preferred_tags: برچسب های مورد ترجیح

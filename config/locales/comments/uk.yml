@@ -1,0 +1,14 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Steve.rusyn
+# Author: Тест
+uk: 
+  comments: 
+    shared: 
+      add_comment: Додати коментар...
+      comment_submit: Коментар
+      reply: Відповісти
+  models: 
+    comment: Коментар
+    comments: Коментарі

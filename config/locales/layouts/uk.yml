@@ -1,0 +1,64 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Base
+# Author: Steve.rusyn
+uk: 
+  layouts: 
+    application: 
+      all: Усе
+      ask_question: Поставити запитання
+      badges: Бейджі
+      by_me: Мною
+      collaborate: Спільні
+      contributed: Внесок
+      faq: ЧаП
+      feed: Підписки
+      followed: Підписки
+      forgot: Забули?
+      join_group: Приєднатися до %{group}
+      languages: Мови
+      log_in: Увійти
+      logout: Вихід
+      need_to_signin: Вам спершу необхідно увійти.
+      pages: Сторінки
+      preferred: Переважні
+      questions: Запитання
+      questions_in: Запитання у
+      questions_tagged: з теґом
+      random_question: Випадкове запитання
+      search: Пошук
+      settings: Налаштування
+      signup: Зареєструватися
+      tags: Теґи
+      title: Запитання та відповіді
+      unanswered: Без відповідей
+      users: Користувачі
+    manage: 
+      access: Доступ
+      actions: Дії
+      announcements: Оголошення
+      appearance: Зовнішній вигляд
+      close_group: Закрити групу
+      constrains: Потреби
+      content: Вміст
+      dashboard: Панель інструментів
+      domain: Домен
+      edit_layout: Змінити макет
+      general: Загальні
+      group_features: Можливості
+      group_look_and_feel: Зовнішній вигляд
+      group_user_management: Керування користувачами
+      invitations: Запрошення
+      invoices: Рахунки
+      members: Учасники
+      pages: Сторінки
+      properties: Властивості
+      reputation: Репутація
+      rewards: Винагороди
+      site_management: Керування сайтом
+      social: Соціальні
+      stats: Статистика
+      theme: Тема
+      themes: Теми
+      widgets: Віджети
