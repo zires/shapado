@@ -1,0 +1,22 @@
+# Messages for Kirghiz (Кыргызча)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Growingup
+ky: 
+  activerecord: 
+    attributes: 
+      answer: 
+        body: Текст
+        link: Шилтеме
+    models: 
+      answer: Жооп
+      answers: Жооптор
+  answers: 
+    create: 
+      flash_notice: Ыракмат!
+    form: 
+      comment_label: Бул суроого комментарий
+      comment_submit: Комментарий берүү
+      submit: Жооп берүү
+    revert: 
+      title: Жоопту жокко чыгаруу

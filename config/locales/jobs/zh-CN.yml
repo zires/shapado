@@ -1,0 +1,14 @@
+# Messages for Simplified Chinese (中文（简体）‎)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Dimension
+zh-CN: 
+  jobs: 
+    answers: 
+      on_create_answer: 
+        group_send_twitter: "%{user}对%{question}的回答"
+        send_twitter: 我对 %{question} 的回答
+    comments: 
+      on_comment: 
+        group_on_comment: "%{user}对%{question}的评论"
+        send_twitter: 我对 %{question} 的评论

@@ -1,0 +1,13 @@
+# Messages for Kirghiz (Кыргызча)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Growingup
+ky: 
+  comments: 
+    shared: 
+      add_comment: Комментарий кошуу…
+      comment_submit: Комментарий
+      reply: Жооп берүү
+  models: 
+    comment: Комментарий
+    comments: Комментарийлер

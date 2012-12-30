@@ -1,0 +1,9 @@
+# Messages for Kirghiz (Кыргызча)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Growingup
+ky: 
+  imports: 
+    subtabs: 
+      need_confirmation: 
+        name: Аныктоо керек

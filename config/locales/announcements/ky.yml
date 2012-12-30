@@ -1,0 +1,16 @@
+# Messages for Kirghiz (Кыргызча)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Growingup
+ky: 
+  activerecord: 
+    attributes: 
+      announcement: 
+        message: Билдирме
+        only_anonymous: Анонимдик колдонуучулар үчүн гана
+  announcements: 
+    actions: 
+      delete: Өчүрүү
+      title: Аракеттер
+    index: 
+      title: Кулактандыруулар

@@ -1,0 +1,15 @@
+# Messages for Fiji Hindi (Latin script) (Fiji Hindi)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Thakurji
+hif-latn: 
+  activity: 
+    asked: puuchhaa
+    changed: badlaa
+    created: banaaya
+    deleted: mitaya
+    destroyed: mitaya
+    flagged: flag karaa
+    requested_to_close: band kare ke bataaya
+    requested_to_open: khole ke bataaya
+    updated: badla
