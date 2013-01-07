@@ -2,11 +2,16 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Base
+# Author: Steve.rusyn
 uk: 
   widgets: 
+    about: 
+      title: Про програму
     adsense: 
       description: Цей віджет дозволяє показувати рекламу Google AdSense.
       title: AdSense
+    ask_question: 
+      ask: Запитати
     badges: 
       description: Цей віджет показує поточні бейджі отримані користувачами.
       see_all: Переглянути усі бейджі
@@ -58,6 +63,8 @@ uk:
     tag_cloud: 
       description: Цей віджет показує хмаринку теґів.
       title: Хмаринка теґів
+    tag_list: 
+      title: Теґи
     top_groups: 
       description: Цей віджет показує п'ять найкращих груп.
       title: 5 найкращих груп

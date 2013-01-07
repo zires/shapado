@@ -12,7 +12,7 @@ nl:
       message1: U ontvangt dit bericht omdat u moderator bent van %{group}
       message2: "Een post is opnieuw gepost om de volgende reden:"
       message2bis: U kunt het gemarkeerde bericht hier bekijken.
-      message2bistext: "U kunt het gemarkeerde bericht bekijken door te klikken op de volgende verwijzing:"
+      message2bistext: "U kunt het gemarkeerde bericht bekijken door te klikken op de volgende koppeling:"
       message3: "Ga naar de moderatiepagina om de lijst met gemarkeerde berichten te bekijken:"
       message4: Ga naar de moderatiepagina om de lijst met gemarkeerde berichten te bekijken.
     earned_badge: 
@@ -28,8 +28,8 @@ nl:
       message2: U kunt deze gebruiker ook volgen door op de %{user_page} op "Volgen" te klikken
     give_advice: 
       message1: "%{user} heeft een vraag gesteld die u wellicht kunt beantwoorden:"
-      message2: "Antwoord op het bericht in de volgende verwijzing om de vraag te beantwoorden:"
-      message3: "Of stuur deze verwijzing naar iemand die u kent die de vraag kan beantwoorden:"
+      message2: "Reageer door gewoon op dit bericht te antwoorden:"
+      message3: "Of stuur deze koppeling naar iemand die u kent die de vraag kan beantwoorden:"
       message4: Als we niet snel een antwoord van u krijgen, vragen we iemand anders. U kunt de vraag nog steeds beantwoorden wanneer u maar wilt.
     global: 
       hi: Hallo %{user},

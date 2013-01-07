@@ -33,7 +33,7 @@ nl:
     edit: 
       title: Widget bewerken
     group_networks: 
-      description: Dit widget geeft een lijst weer met verwijzingen naar sociale netwerken zodat uw gebruiker u daar kunnen volgen.
+      description: Dit widget geeft een lijst weer met koppelingen naar sociale netwerken zodat uw gebruiker u daar kunnen volgen.
       title: Volg ons
     groups: 
       description: In deze widget worden de meest recent actieve groepen weergegeven

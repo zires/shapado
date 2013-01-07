@@ -40,13 +40,13 @@ nl:
       button_fg: Voorgrondkleur voor knoppen
       fg_color: Voorgrondkleur
       fluid: Vloeiend (hiermee wordt de achtergrond elastisch en vervormt mee met de afmetingen van het browservenster)
-      link_bg: Achtergrondkleur voor verwijzingen
-      link_fg: Voorgrondkleur voor verwijzingen
+      link_bg: Achtergrondkleur voor koppelingen
+      link_fg: Voorgrondkleur voor koppelingen
       main_color: Hoofdkleur
       modules_color: Kleur voor modules
       not_ready: Dit thema kan nog niet gebruikt worden. Kom binnenkort terug.
       text_color: Tekstkleur
       try: Proberen
-      use_link_bg: Achtergrond gebruiken voor verwijzingen
+      use_link_bg: Achtergrond gebruiken voor koppelingen
       view_bg: Achtergrondkleur van de weergave
       view_fg: Voorgrondkleur van de weergave

@@ -37,7 +37,7 @@ sr:
       random_question: Случајно питање
       search: Претражи
       settings: Поставке
-      signup: Упис
+      signup: Регистрација
       subscribe: Пријави ме
       success_joining_group: Сада сте члан групе %{group}. Хвала вам што сте се придружили!
       tags: Ознаке

@@ -19,4 +19,4 @@ ja:
       version_summary: バージョンサマリー
     model: 
       attributes: 
-        message: 更新メッセージ
+        message: 要約

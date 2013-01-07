@@ -57,7 +57,7 @@ nl:
       title: Werkt uw eigen domein?
       working_domain_link: Ja, ik zie hier beneden dat mijn nieuwe domein werkt.
     create: 
-      flash_error: Het was niet mogelijk die gebruiker aan te maken. Probeer het opnieuw of neem contact op met een beheerder via de verwijzing hierboven.
+      flash_error: Het was niet mogelijk die gebruiker aan te maken. Probeer het opnieuw of neem contact op met een beheerder via de koppeling hierboven.
       flash_notice: Bedankt voor uw aanmelding!
     edit: 
       enable_twitter: Facebook of Twitter inschakelen

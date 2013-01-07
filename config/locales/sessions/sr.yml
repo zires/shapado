@@ -15,7 +15,7 @@ sr:
       registered: Имате налог?
       remember_me: Запамти ме
       sign_in: Пријава
-      signup: Упис
+      signup: Регистрација
       with_authentication: Пријава с нашим системом за потврду
       with_facebook: Пријава преко Фејсбука
       with_openid: Пријава путем OpenID-ја

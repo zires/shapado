@@ -16,11 +16,13 @@ uk:
       feed: Підписки
       followed: Підписки
       forgot: Забули?
+      home: Головна
       join_group: Приєднатися до %{group}
       languages: Мови
       log_in: Увійти
       logout: Вихід
       need_to_signin: Вам спершу необхідно увійти.
+      now: зараз!
       pages: Сторінки
       preferred: Переважні
       questions: Запитання
@@ -30,10 +32,12 @@ uk:
       search: Пошук
       settings: Налаштування
       signup: Зареєструватися
+      subscribe: Підписатись
       tags: Теґи
       title: Запитання та відповіді
       unanswered: Без відповідей
       users: Користувачі
+      welcome_from: Ласкаво просимо! Ви можете
     manage: 
       access: Доступ
       actions: Дії

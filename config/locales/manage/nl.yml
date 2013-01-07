@@ -26,7 +26,7 @@ nl:
         question_prompt: Vraag
         title: Aangepaste inhoud
         top_bar: Balk bovenaan
-        top_bar_tip: Voer een verwijzing per regel in
+        top_bar_tip: Voer één koppeling per regel in
       edit_card: 
         button: Creditcard bijwerken
       invitations: 

@@ -83,7 +83,7 @@ ja:
       title: 新規ユーザ
     show: 
       follow: フォローする
-      title: 利用者%{user}
+      title: ユーザ%{user}
       unfollow: フォロー解除
       views: 回表示
     unfollow: 

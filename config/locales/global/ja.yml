@@ -6,7 +6,7 @@
 ja: 
   feeds: 
     feed: フィード
-    post_new_questions: 新しい質問を以下に投稿：
+    post_new_questions: "新しい質問を以下に投稿:"
     question: この質問をフィードで購読
     questions: すべての質問をフィードで購読
     share_on_twitter: Twitter、Facebookなど
@@ -22,8 +22,10 @@ ja:
     chat: チャット
     current: 現在
     downgrade_to_free: 無料にダウングレード
+    edited_by: 編集者
     edited_by_semi: "編集者:"
     feedback: フィードバック
+    follow: フォローする
     from: "%{site}から"
     group_not_found: このページ%{url}はありません
     home: ホーム
@@ -36,16 +38,21 @@ ja:
     previous: 前へ
     privacy: プライバシー
     share: 共有
+    sign_up: ユーザ登録
     size: サイズ
     sort_by: "並び順:"
     tags_label: "タグ:"
     tos: サービス利用規約
+    unfollow: フォロー解除
     unknown_place: 不明
     upgrade: アップグレード
     view: 閲覧
     view_question: 質問を閲覧
   models: 
     question: 質問
+  preferred_languages: 
+    any: すべて
+    user: 優先言語
   roles: 
     moderator: モデレータ
     owner: 所有者
@@ -66,7 +73,7 @@ ja:
     save: 保存
     send: 送信
     show: 表示
-    sure: 本当に%{model}を削除しますか？
+    sure: "%{model}を本当に削除しますか?"
     update: 更新
   time: 
     ago: "%{time}前"

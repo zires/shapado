@@ -11,7 +11,7 @@ nl:
       answer: 
         body: Tekst
         created_at: Aangemaakt op
-        link: Verwijzing
+        link: Koppeling
     models: 
       answer: Antwoord
       answers: Antwoorden

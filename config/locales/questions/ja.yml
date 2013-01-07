@@ -24,6 +24,7 @@ ja:
   questions: 
     answer: 
       add_comment: コメントする
+      favorite: 保存
       flag: 報告
       pick_answer: 解決に導いてくれた回答としてマーク
       unset_answer: 解決マークを外す
@@ -37,7 +38,10 @@ ja:
       adult_content: この質問はアダルトな内容を含みます
       body_tip: あなたの質問を記述してください
       language_tip: 言語を選択してください
+      remove_attachment: 削除
       tags_tip: 質問を具体的にするためにタグを使ってください（カンマ区切りです）
+    history: 
+      back: ← 質問に戻る
     index: 
       active: アクティブ
       active_tooltip: 最近更新されている質問
@@ -70,6 +74,8 @@ ja:
       title: 新しい質問
     question: 
       accepted_tooltip: この質問は受け入れられた回答があります
+      answer_verb: 回答する
+      retag: タグの編集
     retag: 
       title: タグの編集
     retag_form: 
@@ -95,6 +101,7 @@ ja:
       flagged_as: 報告：
       flags: 報告する
       last_activity: 最終の変更日
+      open: 開く
       related_questions: 関連する質問
       request_closing: 質問の終了申請
       request_closing_details: この質問を終了申請する
