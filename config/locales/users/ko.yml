@@ -32,8 +32,8 @@ ko:
         updated_at: 업데이트 날짜
         website: 웹사이트
     models: 
-      user: 이용자
-      users: 이용자
+      user: 사용자
+      users: 사용자
   users: 
     actions: 
       edit_others_posts: 다른 사용자의 게시글을 수정

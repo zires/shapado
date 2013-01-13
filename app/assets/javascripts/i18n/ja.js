@@ -6,6 +6,7 @@
  */
 
 var I18n = {
-	on_leave_page: "変更内容を失う恐れがあります"
+	on_leave_page: "変更内容を失う恐れがあります",
+	loading: "読み込み中..."
 };
 

@@ -34,6 +34,7 @@ ja:
       users: ユーザ
       welcome_from: ようこそ！あなたは次のことをすることができます
     manage: 
+      access: アクセス
       actions: アクション
       announcements: アナウンス
       constrains: 制約

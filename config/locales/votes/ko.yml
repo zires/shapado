@@ -2,11 +2,12 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Linkr
+# Author: 아라
 ko: 
   activerecord: 
     models: 
       vote: vote
-      votes: votes
+      votes: 투표
   votes: 
     control: 
       have_voted_down: Down 취소하기

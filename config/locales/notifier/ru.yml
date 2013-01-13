@@ -4,10 +4,13 @@
 # Author: Adata80
 # Author: DCamer
 # Author: Grigol
+# Author: Kaganer
 # Author: Lockal
 # Author: Александр Сигачёв
 ru: 
   notifier: 
+    created_flag: 
+      message2bis: Вы можете прочесть отмеченное сообщение здесь.
     earned_badge: 
       message1: Вы заслужили значок %{badge} в %{app}
       message2: "Описание беджа:"
@@ -37,6 +40,8 @@ ru:
       message2: Анонимный пользователь отправил отзыв с IP-адреса %{ip}
       message3: "Адрес электронной почты: %{email}"
       message4: "Тема: %{subject}"
+    new_invitation: 
+      message3: "Сообщение от того, кто пригласившего вас:"
     report: 
       message1: Отчёт для группы %{group}
       message2: С %{date}

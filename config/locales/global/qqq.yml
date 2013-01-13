@@ -3,24 +3,38 @@
 # Export driver: syck-pecl
 # Author: EugeneZelenko
 # Author: Kghbln
+# Author: McDutchie
+# Author: Patcito
+# Author: Shirayuki
 qqq: 
   feeds: 
     share_on_twitter: This message allows only 20 characters in a row. Use a line break if the translation is longer than that.
   global: 
+    actions: "{{Identical|Action}}"
     anonymous: "{{Identical|Anonymous}}"
+    chat: "{{Identical|Chat}}"
     current: "{{Identical|Current}}"
+    feedback: "{{Identical|Feedback}}"
+    following: "This appears on the User profile page. It appears before the list of user followed by someone (like in twitter). eg: Following: bob, bill, jack etc."
+    home: "{{Identical|Home}}"
+    next_button: "{{Identical|Next}}"
+    open: "This the infintive form of the verb (abrir in Spanish, ouvrir in French etc).\n{{Identical|Open}}"
     or: "{{Identical|Or}}"
     permission_denied: "{{Identical|Permission denied}}"
     preview: "{{Identical|Preview}}"
     previous: "{{Identical|Previous}}"
+    sign_up: "{{Identical|Sign up}}"
+    size: "{{Identical|Size}}"
+    sort_by: "{{Identical|Sort by}}"
+    tos: TOS = Terms of service
+    unknown_place: "{{Identical|Unknown}}"
+    view: "{{Identical|View}}"
   number: 
-    x_time: 
-      one: <nowiki>%{count}</nowiki> = 1. Refers to something that has happened once.
-      other: <nowiki>%{count}</nowiki> is a number. Refers to something that has happened more than once.
-      zero: "{{Identical|Never}}"
-  pagination: 
-    next: "{{Identical|Next}}"
-    previous: "{{Identical|Previous}}"
+    x_time: <nowiki>%{count}</nowiki> is a number. Refers to something that has happened either never, or <nowiki>%{count}</nowiki> times.
+  preferred_languages: 
+    any: "{{Identical|Any}}"
+  roles: 
+    owner: "{{Identical|Owner}}"
   scaffold: 
     add: "{{Identical|Add}}"
     back: "{{Identical|Back}}"
@@ -30,7 +44,14 @@ qqq:
     destroy: "{{Identical|Delete}}"
     details: "{{Identical|Details}}"
     edit: "{{Identical|Edit}}"
+    more: "{{Identical|More}}"
     save: "{{Identical|Save}}"
     send: "{{Identical|Send}}"
     show: "{{Identical|Show}}"
     update: "{{Identical|Update}}"
+  views: 
+    pagination: 
+      first: This shows at the bottom of the list of questions and link to the first page of the list.
+      last: This shows at the bottom of the list of questions and link to the last page of the list.
+      next: "{{Identical|Next}}"
+      previous: "{{Identical|Previous}}"

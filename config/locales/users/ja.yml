@@ -45,6 +45,8 @@ ja:
       vote_to_close_any_question: 任意の質問について終了リクエストを出す
       vote_to_close_own_question: 自分の質問について終了リクエストを出す
       vote_up: プラスの投票
+    change_password: 
+      title: パスワードの変更
     create: 
       flash_error: アカウントの作成に失敗しました。以下のエラーメッセージを確認して修正してもらうか、管理者にご連絡ください。
       flash_notice: アカウントを作成しました。登録ありがとうございます！
@@ -86,5 +88,9 @@ ja:
       title: ユーザ%{user}
       unfollow: フォロー解除
       views: 回表示
+    top_user: 
+      connect: 接続
     unfollow: 
       flash_notice: "%{user}があなたの友達リストから除外されました"
+    user_bar: 
+      create_account: アカウント作成

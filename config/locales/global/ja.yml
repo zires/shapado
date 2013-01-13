@@ -67,7 +67,7 @@ ja:
     destroy: 削除
     details: 詳細
     edit: 編集
-    more: " もっと見る"
+    more: 続き...
     new: "%{model}を追加"
     post_as_anonymous: 匿名で投稿
     save: 保存
