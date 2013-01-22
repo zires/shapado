@@ -4,6 +4,7 @@
 # Author: Armando-Martin
 # Author: Crazymadlover
 # Author: Patcito
+# Author: Vivaelcelta
 es: 
   doc: 
     chat: 
@@ -11,9 +12,9 @@ es:
     plans: 
       15millions: 15 millions de paginas vistas/mes
       1million: 1 million de paginas vistas/mes
-      247_all_support: Soporte web, email, chat y telefono las 24/7
+      247_all_support: Soporte basado en la web, correo electrónico, chat y teléfono las 24 horas del día, los 7 días de la semana
       5millions: 5 milliones de paginas vistas/mes
-      all_support: Soporte web, email, chat y telefono
+      all_support: Soporte basado en la web, correo electrónico, chat y teléfono
       basic: Básico
       basic_restrictions: No propagandas ni interfaz personalizable
       basic_styling: Aspecto y función personalizados

@@ -4,6 +4,7 @@
 # Author: Crazymadlover
 # Author: Mor
 # Author: Patcito
+# Author: Vivaelcelta
 es: 
   notifier: 
     admin_login: 
@@ -43,7 +44,7 @@ es:
     new_feedback: 
       message1: El usuario %{user} <%{email}> mando un feedback
       message2: Un usuario anónimo mando un feedback desde la dirección IP %{ip}
-      message3: "Dirección de correo: %{email}"
+      message3: "Dirección de correo electrónico: %{email}"
       message4: "Objeto: %{subject}"
     new_invitation: 
       message1: Haga clic aquí para aceptar la invitación %{link}

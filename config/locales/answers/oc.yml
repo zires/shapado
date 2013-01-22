@@ -1,0 +1,22 @@
+# Messages for Occitan (occitan)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Cedric31
+oc: 
+  activerecord: 
+    attributes: 
+      answer: 
+        body: Còs
+        created_at: Creat lo
+        link: Ligam
+    models: 
+      answer: Responsa
+      answers: Responsas
+  answers: 
+    create: 
+      flash_notice: Mercé !
+    edit: 
+      title: Modificacion de la responsa
+    form: 
+      comment_submit: Comentar
+      submit: Respondre

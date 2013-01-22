@@ -1,0 +1,36 @@
+# Messages for tarandíne (tarandíne)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Joetaras
+roa-tara: 
+  activerecord: 
+    attributes: 
+      page: 
+        css: Fogghie de stile
+        js: JavaScript
+    models: 
+      page: Pàgene
+      pages: Pàggene
+  pages: 
+    actions: 
+      create_page: Ccreje 'na vôsce
+      edit_page: Cange 'a pàgene
+      title: Aziune
+    create: 
+      success: Pàgene ccrejate cu successe.
+    edit: 
+      title: Cangianne 'a vôsce
+    form: 
+      language_tip: Lènghe d'a pàgene
+      title_tip: "Titole d'a pàgene. Ause stu referimende 'a pàgene. Pe esembie: [[FAQ|condrolle 'mbrà le faq]]"
+    index: 
+      create_page: Ccreje 'na vôsce
+      title: Elenghe de le pàggene
+      wiki: Uicchi
+      wiki_pages: Pàggene de Uicchi
+      written_in: Scritte jndr'à %{language}
+    new: 
+      title: Pàgena nova
+    title: Aggiusteme
+    update: 
+      success: Pàgene aggiornate cu successe.

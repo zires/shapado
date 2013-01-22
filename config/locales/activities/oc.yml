@@ -1,0 +1,19 @@
+# Messages for Occitan (occitan)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Cedric31
+oc: 
+  activerecord: 
+    models: 
+      activities: Activitats
+      activity: Activitat
+  activity: 
+    asked: demandat
+    changed: modificat
+    created: creat
+    deleted: suprimit
+    destroyed: suprimit
+    flagged: marcat
+    requested_to_close: demandat de tampar
+    requested_to_open: demandat de dobrir
+    updated: mes a jorn

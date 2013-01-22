@@ -4,6 +4,8 @@
 # Author: Joetaras
 roa-tara: 
   comments: 
+    create: 
+      flash_notice: Grazie pu commende tune
     edit: 
       title: Cange 'u commende
     shared: 
@@ -11,6 +13,8 @@ roa-tara:
       comment_submit: Commende
       reply: Respunne
       said: ditte
+    update: 
+      flash_notice: "'U commende ha state aggiornate cu successe."
   models: 
     comment: Commende
     comments: Commende

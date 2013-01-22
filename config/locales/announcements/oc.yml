@@ -1,0 +1,17 @@
+# Messages for Occitan (occitan)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Cedric31
+oc: 
+  activerecord: 
+    attributes: 
+      announcement: 
+        ends_at: S'acaba lo
+        message: Messatge
+        starts_at: Comença lo
+  announcements: 
+    actions: 
+      delete: Levar
+      title: Accions
+    index: 
+      title: Anoncis

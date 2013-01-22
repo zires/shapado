@@ -178,8 +178,8 @@ es:
     unsolve: 
       flash_notice: La pregunta ahora no esta resuelta.
     unwatch: 
-      success: Ya no recibirás notificaciones via email por cada respuesta a esta pregunta.
+      success: Ya no recibirás notificaciones por correo electrónico para cada respuesta a esta pregunta.
     update: 
       flash_notice: La pregunta fue actualizada exitosamente.
     watch: 
-      success: Ahora usted recibirá notificaciones via email por cada respuesta a esta pregunta.
+      success: Ahora recibirás notificaciones por correo electrónico para cada respuesta a esta pregunta.

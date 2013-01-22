@@ -59,8 +59,8 @@ ja:
     model: 
       messages: 
         empty_tags: タグは必須です。必ず一つは入力してください
-        title_too_long: タイトルが長すぎます。50文字以内にしてください。
-        too_many_tags: タグの数が多すぎます。最大6つまでとなっています
+        title_too_long: タイトルは100文字以内にしてください。
+        too_many_tags: タグの数が多すぎます。最大20個までです。
         too_short: タグが短すぎるようです。最低%{count}文字以上の言葉を使ってみてください
     move: 
       group_label: "スラグを次のようにして移動する:"
@@ -107,7 +107,7 @@ ja:
       request_closing: 質問の終了申請
       request_closing_details: この質問を終了申請する
       retag: タグの編集
-      retract_request: 既にリクエスト済みです。撤回しますか？
+      retract_request: リクエストを撤回
       share: この質問を共有する
       share_on: この質問を%{site}で共有する
       solution: 解決

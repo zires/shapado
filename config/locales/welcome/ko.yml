@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Linkr
+# Author: 아라
 ko: 
   welcome: 
     confirm_age: 
@@ -16,7 +17,7 @@ ko:
       feedback_title: 제목
       title: 귀하의 의견을 보내 주세요
     index: 
-      active: active
+      active: 활성
       create_own_site: 나만의 질의 응답 사이트를 8 초만에 무료로 만들어 드립니다.
       hot: hot
       quick_question: 질문을 남기면 누군가 답변하도록 도와드립니다
