@@ -13,10 +13,14 @@ sv:
       badges: Emblem
   badges: 
     index: 
+      all_tooltip: Visa alla guld-, silver- och bronsemblem.
       bronze: Brons
-      description: Alla emblem som du kan tjäna. Dela din kunskap och tjäna emblem.
+      bronze_tooltip: Bronsemblem är enkla att vinna och uppmuntrar användarna att delta.
+      description: Ju mer du bidrar genom att ställa eller besvara frågor desto fler emblem tjänar du. Dessa kommer att visas på din profilsida.
+      general: Vanliga emblem
       gold: Guld
       silver: Silver
+      tags: Taggemblem
       title: emblem
     shared: 
       addict: 
@@ -25,12 +29,16 @@ sv:
       autobiographer: 
         description: Avslutade alla fälten på användarprofilen
         name: Autobiographer
+      benefactor: 
+        name: Välgörare
       celebrity: 
         description: Fick mer än 100 anhängare
         name: Kändis
       civic_duty: 
         description: Röstade 300 gånger
+        name: Samhällsplikt
       cleanup: 
+        description: Gjorde sin första tillbakarullning
         name: Rensning
       commentator: 
         description: Lämnat 10 kommentarer
@@ -39,13 +47,16 @@ sv:
         description: Röstade negativt för första gången
         name: Kritiker
       disciplined: 
+        description: Raderade egna inlägg med ett poäng på 3 eller högre
         name: Disciplinerad
       editor: 
         description: Redigerade ett inlägg för första gången
         name: Redaktör
       effort_medal: 
         description: Fick 100 positiva röster
+        name: Insatsmedalj
       enlightened: 
+        description: Har ett svar som accepterades med minst 10 uppåtröster
         name: Upplyst
       famous_question: 
         description: Ställde en fråga med 10.000 visningar
@@ -58,7 +69,7 @@ sv:
         name: Favoritsvar
       favorite_question: 
         description: Ställt en fråga som följs av 25 användare
-        name: Favort fråga
+        name: Favoritfråga
       friendly: 
         description: Började följa någon för första gången
         name: Vänlig
@@ -117,9 +128,14 @@ sv:
       popular_question: 
         description: Ställde en fråga med 1.000 visningar
         name: Populära frågor
+      promoter: 
+        name: Främjare
       rockstar: 
         description: Har 1.000 positiva röster, maximalt 10 negativa röster
         name: Rockstjärna
+      self-learner: 
+        description: Besvarade en egen fråga med minst 3 uppåtröster
+        name: Självlärd
       service_medal: 
         description: Har 300 positiva röster
         name: Servicemedalj
@@ -142,7 +158,7 @@ sv:
         name: Felsökaren
       tutor: 
         description: Gav en lösning på en fråga med ett genomsnitt av mer än 2 röster
-        name: Väglädare
+        name: Vägledare
     show: 
       description: "Användare som har tjänat detta emblem. Nyligen tilldelad till:"
       earned: tjänade

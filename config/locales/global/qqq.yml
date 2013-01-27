@@ -37,6 +37,7 @@ qqq:
     owner: "{{Identical|Owner}}"
   scaffold: 
     add: "{{Identical|Add}}"
+    are_you_sure: "{{Identical|Are you sure?}}"
     back: "{{Identical|Back}}"
     cancel: "{{Identical|Cancel}}"
     close: "{{Identical|Close}}"

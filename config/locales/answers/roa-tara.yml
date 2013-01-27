@@ -23,3 +23,5 @@ roa-tara:
       comment_label: Commende sus a sta resposte
       comment_submit: Commende
       submit: Resposte
+    revert: 
+      title: Annulle 'a resposte

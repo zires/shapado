@@ -1,0 +1,22 @@
+# Messages for tarandíne (tarandíne)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Joetaras
+roa-tara: 
+  open_requests: 
+    create: 
+      flash_notice: Richieste de riaperture ccrejate cu successe
+    destroy: 
+      flash_notice: Richieste de riaperture scangellate cu successe
+    edit: 
+      title: Cange 'a richieste de riaperture
+    form: 
+      request_opening_details: Richieste de riaprì sta domande
+    index: 
+      title: Elenghe de le richieste de riaperture
+    model: 
+      prural_name: Richieste de riaperture
+    new: 
+      title: Richieste de riaperture
+    update: 
+      flash_notice: Richieste de riaperture aggiornate cu successe
