@@ -14,6 +14,7 @@ ru:
       question: 
         answers: Ответы
         asked_by: Задано
+        banned: Заблокированно
         body: Текст
         closed: Закрыто
         created_at: Задано
@@ -34,9 +35,15 @@ ru:
       favorite_tooltip: Добавить этот ответ в избранное
       flag: Отметить
       pick_answer: Выбрать в качестве решения
+      unfavorite: Удалить
       unfavorite_tooltip: Удалить этот ответ из избранного
       unset_answer: Аннулировать решение?
+    answer_toolbar: 
+      flagged_by_you: Отмечено вами
+    close: 
+      failure: Этот вопрос имеет активное вознаграждение и не может быть закрыт.
     create: 
+      already_registered: Пользователь с адресом электронной почты %{email} уже зарегистрирован, пожалуйста, войдите с помощью этого адреса электронной почты.
       flash_notice: Вопрос успешно создан.
     disallow_spam: 
       error: Вам нужно подождать 20 секунд, перед отправкой ещё одного вопроса.
@@ -49,6 +56,7 @@ ru:
       adult_content: Этот вопрос содержит материалы для взрослых.
       body_tip: В чём состоит вопрос? Сделайте его более информативным.
       language_tip: Выберите язык вопроса.
+      related_questions_desc: Здесь будут отображаться похожие вопросы.
       remove_attachment: Удалить
       tags_tip: Используйте теги для добавления информации о вашем вопросе.
     history: 
@@ -58,11 +66,7 @@ ru:
       active_tooltip: Недавно обновлённые вопросы
       ask_question: Задать вопрос
       empty: Пока никто не задавал вопросы, станьте первыми!
-      has_followers: 
-        few: "%{count} подписчика"
-        many: "%{count} подписчиков"
-        one: "%{count} подписчик"
-        other: "%{count} подписчиков"
+      followers_tooltip: Вопросы с большинством последователей
       help_to_answer: Помогите ответить на
       hot: Горячие
       hot_tooltip: Вопросы с наибольшей активностью за последние 5 дней
@@ -75,6 +79,7 @@ ru:
     model: 
       messages: 
         empty_tags: Необходимо указать хотя бы один тег.
+        tags_not_added: Теги '%{tags}' не могут быть добавлены. Вам нужна репутация %{reputation_required} чтобы создавать новые тэги
         title_too_long: К сожалению, название не должно содержать более 100 знаков.
         too_many_tags: К сожалению, можно ввести только не более 20 тегов.
         too_short: К сожалению, ваш заголовок должен иметь больше чем %{count} слов.
@@ -86,15 +91,13 @@ ru:
       group_dont_exists: Группа %{group} не существует
       success: Вопрос перемещён в %{group}
     new: 
+      description: Пожалуйста, пишите понятно и убедитесь, что добавили теги, так что ваш вопрос может быть легко обнаружен.
       how_to_ask: Как задавать вопросы
       title: Задать вопрос
     question: 
       accepted_tooltip: На этот вопрос есть принятый ответ
-      has_answers: 
-        few: "%{count} ответа"
-        many: "%{count} ответов"
-        one: "%{count} ответ"
-        other: "%{count} ответов"
+      answer_verb: Ответ
+      retag: Изменить теги
       wiki_title: "Wiki: %{title}"
     retag: 
       title: Изменить теги
@@ -117,10 +120,16 @@ ru:
       ban: Заблокировать
       close: Закрыть
       close_reason: "Вопрос закрыт по следующей причине:"
+      create_reward: Создайте вознаграждение
+      create_reward_description: Награда за лучший ответ с вашей собственной кармы.
       edit_request: Изменить запрос
       flag: Отметить
       flagged_as: С отметкой
       flags: Отмечен как
+      follow_tooltip: Подписаться на этот вопрос
+      follow_up: Подписаться
+      follow_up_description: Создайте новый вопрос, основанный на этом сообщении.
+      follow_up_of: Этот вопрос отслеживается
       history: История
       last_activity: Последние действия
       more_actions: Ещё действия
@@ -139,6 +148,8 @@ ru:
       solution: Решение
       to_answer_question: ответить на этот вопрос
       unauthenticated_retag: Для изменения тегов вопросов необходимо зарегистрировать учётную запись
+      unban: Разблокировать
+      unfollow_tooltip: Отписаться от этого вопроса
       viewed: просмотрено
     solve: 
       flash_notice: Вопрос был решён.
@@ -148,7 +159,9 @@ ru:
       tooltip: Показать вопросы с тегом %{tag}
     toolbar: 
       answer_by_mail: Ответить по электронной почте
+      more_actions: Дополнительные действия
       requests: Запросы
+      your_close_request: Ваш запрос на закрытие
     unanswered: 
       empty: В этой группе нет вопросов без ответов.
       expert: Эксперты

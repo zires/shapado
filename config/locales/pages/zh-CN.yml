@@ -25,6 +25,8 @@ zh-CN:
     index: 
       create_page: 创建新页
       title: 页面的列表
+      wiki: 维基
+      wiki_pages: 维基页面
       written_in: 以 %{language} 写的
     new: 
       title: 新的页面

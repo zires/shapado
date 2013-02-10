@@ -10,7 +10,8 @@ zh-CN:
       under_18: 我 18 岁以下
       warning: 警告：此页可能包含成人内容明显。
     feedback: 
-      captcha_error: 请解决简单的数学操作
+      captcha_error: 请确保填写正确的验证码和提供一个有效的电邮地址。
+      captcha_notice: 感谢您的反馈意见，我们会尽快回应您。
       email_description: 请提供您的电子邮件地址，以便我们可以回答您的消息
       feedback_description: 说明
       feedback_title: 标题

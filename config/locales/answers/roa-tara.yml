@@ -15,6 +15,7 @@ roa-tara:
   answers: 
     create: 
       annon_notice: L'utende jè ggià reggistrate, pe piacere tràse.
+      flash_error: "Quacchecose ha sciute male sus 'a resposta toje. \n  Arrecuèrdete ca: \n - Le resposte vacande e repetute non ge sò permesse \n - Tu è abbesogne de aspettà 20 seconde apprime de mannà 'n'otra resposte. \n - Tu puè sulamende mannà 'na resposte pe domande.."
       flash_notice: Grazie!
     edit: 
       title: Stoche a cange 'a resposte
@@ -25,3 +26,5 @@ roa-tara:
       submit: Resposte
     revert: 
       title: Annulle 'a resposte
+    update: 
+      flash_notice: "'A resposte ha state aggiornate cu successe."

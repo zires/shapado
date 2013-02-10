@@ -1,0 +1,8 @@
+# Messages for Simplified Chinese (中文（简体）‎)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Hydra
+zh-CN: 
+  activemodel: 
+    models: 
+      constrains_config: 名誉约束配置

@@ -61,10 +61,8 @@ ru:
     question: Вопрос
   number: 
     x_time: 
-      few: "%{count} раза"
-      many: "%{count} раз"
       one: "%{count} раз"
-      other: "%{count} раз"
+      other: "%{count} раза"
       zero: Никогда
   preferred_languages: 
     any: Любой

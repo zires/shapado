@@ -10,15 +10,31 @@ zh-CN:
       badges: 徽章
   badges: 
     index: 
-      description: 您可以获得的所有标记。分享你的知识赚取徽章。
+      all_tooltip: 显示所有的金、银和铜牌徽章。
+      bronze: 铜牌
+      bronze_tooltip: 铜牌徽章是最容易获取的，是用来鼓励用户们参与的。
+      description: 您通过问问题或回答问题贡献越多，您所获得的徽章越多。这些徽章会在您的配置文件中显示。
+      general: 正常徽章
+      general_tooltip: 显示所有预定义的徽章。
+      gold: 金牌
+      gold_tooltip: 金牌徽章是最大的一种奖励，也是最难得到的。只有最热诚的用户才能获取。
+      silver: 银牌
+      silver_tooltip: 银牌徽章是由那些很活跃并且参与了相当长的时间的用户获取的。
+      tags: 标记徽章
       title: 徽章
     shared: 
       addict: 
         description: 访问站点的连续 20 天的每一天
         name: 瘾君子
+      altruist: 
+        description: 您亲手在另一个人的问题上颁的第一个奖励
+        name: 信任者
       autobiographer: 
         description: 完成所有用户配置文件字段
         name: 散文家
+      benefactor: 
+        description: 您亲手在自己的问题上颁的第一个奖励
+        name: 恩人
       celebrity: 
         description: 有 100 多个追随者
         name: 名人
@@ -55,6 +71,9 @@ zh-CN:
       fanatic: 
         description: 访问站点连续 100 天的每一天
         name: 狂热
+      favorite_answer: 
+        description: 有个被25个用户受喜欢的答案
+        name: 备受喜欢的答案
       favorite_question: 
         description: 问了一个被25个用户关注的问题
         name: 最喜欢的问题
@@ -82,6 +101,9 @@ zh-CN:
       interesting_person: 
         description: 有 10 多个追随者
         name: 很有趣的人
+      investor: 
+        description: 您在另一个人的问题上提供的第一个奖励
+        name: 投资者
       merit_medal: 
         description: 有二百积极票
         name: 奖章
@@ -115,6 +137,9 @@ zh-CN:
       popular_question: 
         description: 问了一个问题，与 1000 的意见
         name: 热门问题
+      promoter: 
+        description: 您在自己的问题上提供的第一个奖励
+        name: 促销者
       rockstar: 
         description: 有 1000 票赞成、 10 负票最高
         name: 摇滚明星
@@ -129,6 +154,9 @@ zh-CN:
         name: 服务奖章
       shapado: 
         description: 访问站点连续 8 天的每一天
+      stellar_answer: 
+        description: 有个被100个用户受喜欢的答案
+        name: 最受欢迎答案
       stellar_question: 
         description: 问了一个25个用户关注的问题
         name: 恒星的问题

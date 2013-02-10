@@ -1,0 +1,30 @@
+# Messages for Simplified Chinese (中文（简体）‎)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Hydra
+# Author: Hzy980512
+zh-CN: 
+  invitations: 
+    accept: 
+      create_account: 创建一个账户（2步中的第1步）
+      create_account_step2: 创建帐户
+      done: 完成！
+      facebook_connect: 通过您的脸书账户链接
+      final_step: 最后一部（2步中的第2步）
+      find_friends: 找朋友并连接：
+      follow_things: 关注标签与其他用户
+      follow_things_description: 有关这些问题会出现在您的订阅源。
+      other_connect: 或利用以下其中之一。
+      point1: 问问一个主题的专家们。
+      point2: 关注和回答一些让您感兴趣的主题和问题。
+      twitter_connect: 通过您的推特账户链接
+      welcome: 欢迎
+    create: 
+      flash_notice: 您的邀请已成功地被发送。
+      limit_notice: 
+        one: 抱歉，您不能在一次发送超过 %{limit} 个邀请。
+        other: 抱歉，您不能在一次发送超过 %{limit} 个邀请。
+    resend: 
+      flash_notice: 您的邀请已成功地被从新发送。
+    revoke: 
+      flash_notice: 您的邀请已成功地被吊销。

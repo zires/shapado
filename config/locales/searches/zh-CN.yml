@@ -10,5 +10,6 @@ zh-CN:
       tags_tip: 使用 [标签] 来指定标签。
     index: 
       empty: 您的搜索不匹配的任何问题。
+      input_title: 保存此搜索为：
       search_text: 包含的问题
       tags: 这些标记内

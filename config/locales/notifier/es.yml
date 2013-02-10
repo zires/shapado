@@ -42,7 +42,7 @@ es:
     new_comment: 
       message: "%{user} comento %{new_comment} sobre la pregunta %{link}"
     new_feedback: 
-      message1: El usuario %{user} <%{email}> mando un feedback
+      message1: El usuario %{user} <%{email}> envió comentarios
       message2: Un usuario anónimo mando un feedback desde la dirección IP %{ip}
       message3: "Dirección de correo electrónico: %{email}"
       message4: "Objeto: %{subject}"

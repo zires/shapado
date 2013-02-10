@@ -20,4 +20,5 @@ zh-CN:
     create: 
       success: 您的公告成功创立。
     index: 
+      description: 管理和创建在整个网站能被您的访客看到的公告。
       title: 公告

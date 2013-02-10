@@ -1,31 +1,82 @@
-# Messages for Simplified Chinese (‪中文(简体)‬)
+# Messages for Simplified Chinese (中文（简体）‎)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Hydra
 zh-CN: 
   widgets: 
+    about: 
+      title: 关于
+    adsense: 
+      title: AdSense
+    ask_question: 
+      ask: 问
+      footer: 查看在 %{group} 上所有问题
+      title: 问问题：
     badges: 
-      description: 这个工具将显示最近的徽章，赚取的用户或问题
+      description: 这个工具将显示用户最近获得的徽章。
+      see_all: 查看所有的徽章
       title: 最近的徽章
+    create: 
+      notice: 成功创建此构件。
+    edit: 
+      title: 编辑构件
+    group_networks: 
+      title: 关注我们
     groups: 
       description: 这个工具显示最新的组
       title: 最近的组
     index: 
+      add_new: 添加新的构件
       description: 使用箭头移动您的窗口小部件
+      external_widgets: 外部
+      footer: 页脚
+      header: 首段
+      mainlist_widgets: 主要列表
+      name: 构件的名称
+      navbar: 导航栏
+      question_widgets: 问题
       title: 管理的侧边栏窗口
+      type: 类型：
+      welcome_widgets: 欢迎
     pages: 
       description: 这个工具将显示维基页面的列表
       new: 添加新页面
       title: 维基页面
+    question_badges: 
+      title: 问题徽章
+    question_tags: 
+      title: 问题标签
+    related_questions: 
+      title: 相关问题
+    settings: 
+      custom_html: 自定义 HTML：
+      on_questions: 在问题主要列表上显示
+      on_show_question: 在显示问题页面上显示
+      on_welcome: 在欢迎页面上显示
+      preview: 构件预览：
+    sharing_buttons: 
+      title: 分享这个与
+    suggestions: 
+      follow_tag: + 关注标签
+      follow_user: + 关注用户
+      followed_by: 被 %{user} 关注
+      unfollow_tag: "- 停止关注标签"
+      unfollow_user: "- 停止关注用户"
     tag_cloud: 
       description: 这个工具显示标签云
       title: 标签云
+    tag_list: 
+      title: 标签
     top_groups: 
       description: 这个工具将显示最高的五个组别
       title: 前 5 组
     top_users: 
       description: 这个工具将显示在最多五个用户
       title: 前 5 位用户
+    update: 
+      notice: 成功更新此构件。
     users: 
       description: 这个工具将显示新注册的会员
       title: 最新用户
+    widget: 
+      change_position: 更改标记位置：

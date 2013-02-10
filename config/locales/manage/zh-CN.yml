@@ -1,11 +1,19 @@
-# Messages for Simplified Chinese (‪中文(简体)‬)
+# Messages for Simplified Chinese (中文（简体）‎)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Hydra
+# Author: Hzy980512
 # Author: Junmin
 zh-CN: 
   admin: 
     manage: 
+      access: 
+        title: 访问
+      answers: 
+        banning: 
+          title: 禁止答案
+      close_group: 
+        feedback: 请告诉我们您为什么要关闭您的组合：
       content: 
         footer: 页脚
         head: 标题
@@ -14,43 +22,83 @@ zh-CN:
         title: 自定义内容
         top_bar: 顶栏
         top_bar_tip: 输入每行一个链接
+      edit_card: 
+        button: 更新您的信用卡
+      invitations: 
+        invitations: 发送邀请
+        invitations_title: 所有您发送的邀请的列表
+        invite: 邀请其他人
+        invite_title: 通过电邮邀请其他人
+        title: 邀请
       properties: 
+        ask_from_twitter: 
+          asking_from_twitter: 从推特上问问题
+          question_must_include: 问题必须包含以下的标签才能被推文
+          question_must_include_example: "例如 #iAsk"
         constrains: 
           reputation_constrains_description: 你可以在以下表格配置用户执行某动作所需要的威望分数
           reputation_constrains_subtitle: 操作所需的威望分数列表
           title: 需求
         domain: 
-          description: 因此，它可以通过自己的自定义域名访问，您可以将映射您的网站。这是你怎么做：
+          description: 您可以选择一个不同的域名链接至Shapado的网站以通过您的域名访问Shapado。您要做的是：
           instruction1: 这样做首先需要登录到您的域提供商。这是你在哪里买您的域如 %{subdomain}.com 站点。
           instruction2: 那里您需要转到 DNS 部分创建称为一个 CNAME 的东西。
           instruction3: 选择 ‘www’ 或任何其他为您 CNAME 名。
           instruction4: 然后主机或目标领域把当前的 Shapado 域： %{domain}。
-          instruction5: 此操作后一小时左右完成您的域 www.%{subdomain} 后应指向 %{appdomain}。
-          instruction6: 当这是回到这里，把您的域的名称 www.%{subdomain} 在下面的字段并按更新按钮。有的问题要求我们在 %{chat_url} 或对我们的支持论坛。
-          title: 设置您的域
+          instruction5: 此操作后一小时左右完成您的域 %{subdomain} 后应指向 %{appdomain}。
+          instruction6: 当这是回到这里，把您的域的名称 %{subdomain} 在下面的字段并按更新按钮。有的问题要求我们在 %{chat_url} 或对我们的支持论坛。
+          title: 配置您的域名
           warning: 确实要更改您的域吗？
+        facebook_app: 
+          application_id: 应用程序 ID
+          facebook_app: 脸书应用程序设置
+          secret_key: 密钥
         general: 
           title: 组属性
+        invitations: 
+          resend_button: 重新发送
+          revoke_button: 撤销
+        invite: 
+          body_length_warning: 正文不能包含超过 400 个字符
+          invitations: 发送邀请
+          invite: 邀请其他人
+          title: 通过电邮邀请其他人
+        post_to_twitter: 
+          post_to_twitter: 在推特上推文活动
+          send_answers_to_twitter: 在推特上推文所有答案
+          send_badges_to_twitter: 在推特上推文所有刚获得的徽章
+          send_comments_to_twitter: 在推特上推文所有评论
+          send_favorites_to_twitter: 在推特上推文所有备受喜欢的答案
+          send_questions_to_twitter: 在推特上推文所有问题
         rewards: 
           reputation_rewards_description: 此窗体可以配置用户可以如何赢得和失去信誉点为给定的行动
           reputation_rewards_subtitle: 列表中的声誉奖励
           title: 奖励
         share: 
-          add_tags: 为你的 tweets 添加标记
-          application_id: 应用程序 ID
-          asking_from_twitter: 从 Twitter 问的问题
-          ends_with_example: 例如：#shapado
-          facebook_app: Facebook 应用设置
-          question_asked_to: 问到的问题
-          question_must_include: 问题一定要包含以下标记才能通过tweet发布。
-          question_must_include_example: 例如：#iAsk
-          secret_key: 密匙
-          starts_with_example: 比如：#qa
           title: 共享
-          title_on_dlvr: 在Dlvr.it 上共享
-          tweet_ends_with: 将一个标签附加到你的推
-          tweet_starts_with: 开头要你的推的标记
-          twitter_account: Twitter 帐户您的用户会问到的问题。
-        theme: 
-          logo_legend: 为你的组上传一个标志。图片的大小必须小于2mb.
-          title: 设置组的主题
+        tag_your_tweets: 
+          add_tags: 在您的推文上添加标签
+          ends_with_example: "例如 #shapado"
+          starts_with_example: "例如 #qa"
+          title: 标记你的推文
+        title: 组合属性
+        twitter_account: 
+          twitter_account: Twitter帐户
+        twitter_app: 
+          secret: 应用程序密钥
+          twitter_app: 维特应用程序
+      questions: 
+        banning: 
+          title: 禁止问题
+      social: 
+        ask_from_twitter: 从推特上问问题
+        ask_from_twitter_title: 允许您的用户从推特上问问题
+        facebook_app: 脸书应用程序
+        post_to_twitter: 在维特上推文
+        post_to_twitter_title: 自动在推特上推文所有问题和答案
+        tag_your_tweets: 标记你的推文
+        tag_your_tweets_title: 在您的推文上添加标签
+        twitter_account: 推特账户
+      top_admin: 
+        site: 网站
+        title: 管理

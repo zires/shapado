@@ -1,10 +1,12 @@
-# Messages for Simplified Chinese (‪中文(简体)‬)
+# Messages for Simplified Chinese (中文（简体）‎)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Hydra
 zh-CN: 
   admin: 
     moderate: 
+      closing: 
+        title: 关闭问题
       index: 
         all: 全部
         ban: 禁止
@@ -14,3 +16,23 @@ zh-CN:
         item_title: 标题
         need_tags: 重新添加标签
         title: 中度
+      opening: 
+        title: 打开问题
+  moderate: 
+    questions: 
+      flagged: 
+        banned: 禁止
+        banned_tooltip: 只显示禁止问题
+        filters: 筛选器：
+        title: 管理问题
+        unbanned: 解禁
+        unbanned_tooltip: 只显示解禁的问题
+      index: 
+        title: 管理问题
+      subtabs: 
+        retag: 需要标记
+        retag_tooltip: 没有标记的问题
+        to_close: 关闭请求
+        to_close_tooltip: 用户们所要求要关闭的问题
+        to_open: 重新打开请求
+        to_open_tooltip: 用户们所要求要从新打开的关闭问题

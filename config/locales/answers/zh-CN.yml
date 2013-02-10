@@ -16,6 +16,7 @@ zh-CN:
       answers: 答案
   answers: 
     create: 
+      annon_notice: 此用户已经注册了，请登入。
       flash_error: "添加你的回答时出错了。\n记住这些：\n - 不允许空白或者重复的回答。\n - 你需要等待20秒才能在别的问题上提交新的回答。\n - 每个问题你只能提交一个回答。"
       flash_notice: 谢谢！
     edit: 

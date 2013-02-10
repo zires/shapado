@@ -1,0 +1,8 @@
+# Messages for Simplified Chinese (中文（简体）‎)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Hydra
+zh-CN: 
+  custom_html: 
+    question_help: 尽量提供更详细的信息才能避免长期的讨论。尝试明确和简单地表达。
+    question_prompt: 你的问题是什么？请详细说明。

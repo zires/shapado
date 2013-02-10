@@ -7,3 +7,7 @@ roa-tara:
     models: 
       favorite: Favorite
       favorites: Favorite
+  favorites: 
+    create: 
+      success: "'A domande ha state aggiunde a le preferite tune."
+      unauthenticated: Tu è abbesogne de 'nu cunde pe aggiungere le preferite.

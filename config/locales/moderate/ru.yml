@@ -2,12 +2,15 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Adata80
+# Author: DCamer
 # Author: Eleferen
 # Author: Lockal
 # Author: X0040h
 ru: 
   admin: 
     moderate: 
+      closing: 
+        title: Закрыть вопрос
       index: 
         all: Все
         ban: Блокировка
@@ -17,15 +20,25 @@ ru:
         item_title: Заголовок
         need_tags: Изменить теги
         title: Модерация
+      opening: 
+        title: Открыть вопрос
   moderate: 
     questions: 
       flagged: 
         banned: Заблокированно
         banned_tooltip: Показать только заблокированные вопросы
         filters: "Фильтры:"
+        title: Модерация вопросов
+        unbanned: Разблокированный
+        unbanned_tooltip: Показать только разблокированные вопросы
+      index: 
+        title: Модерация вопросов
       subtabs: 
         flagged: Отмеченные
         flagged_tooltip: Вопросы, отмеченные пользователями
         retag: Необходимы Теги
         retag_tooltip: Вопросы, без тегов
+        to_close: Запросы на закрытие
+        to_close_tooltip: Вопросы пользователей, предлагаемые для закрытия
+        to_open: Открыть запросы
         to_open_tooltip: Закрытые вопросы, с запросом пользователя на переоткрытие

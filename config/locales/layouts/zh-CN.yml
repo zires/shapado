@@ -6,45 +6,69 @@
 zh-CN: 
   layouts: 
     application: 
+      all: 全部
       ask_question: 问的问题
       badges: 徽章
+      by_me: 由我
+      collaborate: 合作
+      contributed: 已贡献
+      faq: 常问问题
+      feed: 已关注
+      follow_us_and_share: 跟随我们和共享
+      followed: 已关注
       forgot: 忘了吗？
       home: 首页
+      join_group: 加入 %{group}
       languages: 语言
       log_in: 登录
       logged: "%{login} 作为登录"
       logout: 退出
       manage_ads: 管理广告
       moderate: 中度
+      need_to_signin: 您必须先登入
+      not_member_join_dialog: 您必须加入 %{group} 才能完成此动作，请点击这里来加入组合。
       now: 现在！
       openid: 
         explaination: 如果您希望注册或只需登录，请选择您的 OpenID 提供商：
       pages: 页
+      preferred: 首选
       questions: 问题
       questions_in: 中的问题
       questions_tagged: 使用标记
+      random_question: 随机问题
       search: 搜索
       settings: 设置
       signup: 登记
       subscribe: 订阅
+      success_joining_group: 您现在是 %{group} 的成员，谢谢加入！
       tags: 标签
       title: 科技解答
       unanswered: 无人应答
       users: 用户
       welcome_from: 欢迎！您可以
     manage: 
+      access: 访问
       actions: 行动
       announcements: 公告
+      appearance: 外观
+      close_group: 关闭组合
       constrains: 要求
       content: 内容
       dashboard: 仪表板
       domain: 域
+      edit_layout: 编辑布局
       general: 常规
+      group_features: 功能
+      group_user_management: 用户管理
+      invitations: 邀请
+      invoices: 发票
       members: 成员
       pages: 页
       properties: 属性
       reputation: 声誉
       rewards: 奖励
+      site_management: 网站管理
+      social: 社群
       stats: 统计信息
       theme: 主题
       widgets: 窗口小部件

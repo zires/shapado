@@ -1,13 +1,76 @@
-# Messages for Russian (Русский)
+# Messages for Russian (русский)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Adata80
+# Author: DCamer
+# Author: Eleferen
 # Author: Lockal
 # Author: Александр Сигачёв
 ru: 
   shared: 
+    any_lang: Любой язык
+    by_anon: Аноним
     current_tags: 
       title: Выбранные метки
+    date: Дата
+    description: Описание
+    empty: 
+      activities: 
+        description: 
+          text: Это место занаполнится автоматически, как только люди начнут использовать сайт.
+      answers: 
+        description: 
+          text: Будьте первым!
+        title: Никто не ответил на этот вопрос пока.
+      default: 
+        description: 
+          text: Будьте первым в %{action_link}!
+      filtered_by_language_questions: 
+        description: 
+          action_link: Нажмите здесь, чтобы увидеть вопросы на всех языках.
+        title: Извините, на данном языке вопросов нет.
+      filtered_questions: 
+        description: 
+          action_link: Нажмите здесь, чтобы показать все вопросы
+      questions: 
+        description: 
+          text: Будьте первым, кто <a href="%{url}">задаст вопрос<a/>!
+      themes: 
+        description: 
+          action_link: сейчас
+    filter: "Фильтр:"
+    language: "Язык:"
+    language_filter_tooltip: Попробуйте с другим языком.
+    languages: "Языки:"
+    layout: 
+      footer: 
+        cc_footer: Все содержимое и данные Shapado.com доступны под лицензией %{cc_link}
+    login_drop_down: 
+      openid_url: Адрес OpenID
+      sign_up_user_pass: Зарегистрироваться с E-mail/пароль
+      with_email_pass: Войти с адресом электронной почты
+      with_facebook: с Facebook
+      with_google: с Google
+      with_identica: с Identi.ca
+      with_linked_in: с LinkedIn
+      with_openid: OpenID
+      with_twitter: с Twitter
+    manage_navigation: 
+      title_content: Содержимое группы
+      title_features: Особенности группы
+      title_options: Параметры группы
+    name: Имя
+    preferred_lang: Предпочитаемые языки
+    quick_question: 
+      random_question: Ответ на случайный вопрос
+    social_connect: 
+      find_friends_facebook: Найти друзей на Facebook
+      find_friends_identica: Найти друзей на Identi.ca
+      find_friends_linked_in: Найти друзей на LinkedIn
+      find_friends_twitter: Найти друзей на Twitter
+      or_connect: "Или связаться с:"
     topbar: 
       admin: Администрирование
       logged_as: Вы вошли как %{login}
       user_page: Моя страница
+    view_mode: "Режим просмотра:"

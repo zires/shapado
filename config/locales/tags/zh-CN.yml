@@ -1,0 +1,11 @@
+# Messages for Simplified Chinese (中文（简体）‎)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Hydra
+zh-CN: 
+  tags: 
+    index: 
+      filter: 搜索标签
+    show_json: 
+      edit_it: 为此标签添加说明。
+      no_description: 此标签还未有标签。

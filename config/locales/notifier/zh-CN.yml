@@ -1,0 +1,34 @@
+# Messages for Simplified Chinese (中文（简体）‎)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Hydra
+zh-CN: 
+  notifier: 
+    earned_badge: 
+      message2: 徽章的说明：
+      message3: 您可以看到您所有的徽章在您的 %{user_page}
+    favorited: 
+      message2: 您的问题是：
+      message3: 在这里，您可以看到它：
+    give_advice: 
+      message2: 要回答，只是回复此消息在这里：
+      message3: 或者，如果您知道也许能够回答的人，向其发送此引用链接：
+      message4: 如果我们没有得到答复您很快，我们就会问别人吧。只要你想，你可以仍回答。
+    global: 
+      hi: "%{user} 您好，"
+      hi_no_user: 您好，
+      user_page: 用户页面
+    new_feedback: 
+      message3: 电子邮件地址：%{email}
+      message4: 主题： %{subject}
+    new_invitation: 
+      message2: "%{group} 的团队。"
+    report: 
+      message1: 报告组 %{group}
+      message2: 自 %{date}
+      message3: "%{questions} 问题已被创建"
+      message4: "%{answers} 答案已被创建"
+      message5: "%{votes} 投票已被创建"
+      message6: "%{badges} 徽章已被获颁"
+      message7: 这户口有 %{users} 的用户。
+      message8: 在 %{link} 访问您的组
