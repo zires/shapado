@@ -32,6 +32,7 @@ zh-CN:
       default_tags_message: 你不能拥有 10 多个默认标签
       group: 集团
       groups: 组
+      reputation_rewards_key: 无效密钥
   groups: 
     connect_group_to_twitter: 
       failed_twitter_connection: 抱歉，出了点问题。请再试试。

@@ -84,13 +84,20 @@ ja:
       submit: ユーザ登録
       title: 新規ユーザ
     show: 
+      edit_profile: プロフィールを編集
       follow: フォローする
       title: ユーザ%{user}
       unfollow: フォロー解除
       views: 回表示
     top_user: 
       connect: 接続
+      profile: プロフィール
     unfollow: 
       flash_notice: "%{user}があなたの友達リストから除外されました"
     user_bar: 
       create_account: アカウント作成
+      not_logged_in: ログインしていません
+    user_mini: 
+      admin: "[ 管理者 ]"
+      editor: "[ 編集者 ]"
+      mod: "[ モデレータ ]"

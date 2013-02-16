@@ -1,0 +1,97 @@
+# Messages for Asturian (asturianu)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Xuacu
+ast: 
+  feeds: 
+    feed: Canal
+    post_new_questions: Espublizar entrugues nueves en
+    question: Suscribise a esta entruga
+    questions: Suscribise a toles entrugues
+    share_on_twitter: Twitter, Facebook y más...
+    tag: Suscribise a una etiqueta
+    user: Suscribise a entrugues d'usuariu
+  global: 
+    actions: Aiciones
+    active: Activar
+    alphabetically: Alfabéticamente
+    anonymous: Anónimu
+    blog: Blog
+    by: por
+    by_semi: "Por:"
+    chat: Chat
+    current: Actual
+    downgrade_to_free: Rebaxar a llibre
+    edited: Editáu
+    edited_by: Editáu por
+    edited_by_semi: "Editáu por:"
+    feedback: La so opinión
+    follow: Siguir
+    followed_by: "Siguío por:"
+    following: Siguiendo
+    from: dende %{site}
+    group_not_found: La páxina %{url} nun esiste
+    home: Entamu
+    next_button: Siguiente
+    open: Abrir
+    or: o
+    permission_denied: Permisu refugáu
+    please_login: Por favor anicie sesión
+    preview: Vista previa
+    previous: Anterior
+    privacy: Intimidá
+    share: Compartir
+    sign_up: Dase d'alta
+    size: Tamañu
+    sort_by: "Ordenar por:"
+    tags_label: "Etiquetes:"
+    tos: CDS
+    unfollow: Dexar de siguir
+    unknown_place: Desconocíu
+    upgrade: Actualizar
+    view: Ver
+    view_question: Ver entruga
+    what_to_do: ¿Qué quier facer?
+  models: 
+    question: La entruga
+  number: 
+    x_time: 
+      one: "%{count} vez"
+      other: "%{count} veces"
+      zero: Nunca
+  preferred_languages: 
+    any: Cualesquiera
+    user: Les mios llingües preferíes
+  roles: 
+    moderator: Moderador
+    owner: Propietariu
+    user: Usuariu normal
+  scaffold: 
+    add: Amestar
+    are_you_sure: ¿Ta seguru?
+    back: Volver
+    cancel: Encaboxar
+    close: Zarrar
+    create: Crear
+    destroy: Desaniciar
+    details: Detalles
+    edit: Editar
+    more: Más...
+    new: Amestar %{model} nuevu
+    post_as_anonymous: Publicar cómo anónimu
+    save: Guardar
+    send: Unviar
+    show: Amosar
+    sure: ¿Ta seguru de que quier desaniciar esti %{model}?
+    update: Anovar
+  time: 
+    ago: hai %{time}
+    today: güei
+    yesterday: ayeri
+  views: 
+    pagination: 
+      first: Primera
+      last: Última
+      next: Siguiente &raquo;
+      previous: "&laquo; Anterior"
+      truncate: ...

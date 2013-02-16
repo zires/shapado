@@ -1,0 +1,15 @@
+# Messages for Lezghian (лезги)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Namik
+lez: 
+  activerecord: 
+    attributes: 
+      announcement: 
+        ends_at: кутиагь жеза идал
+        message: Хъагъаз
+        starts_at: Гатlуза идалай
+  announcements: 
+    actions: 
+      delete: Алуд
+      title: Юзун

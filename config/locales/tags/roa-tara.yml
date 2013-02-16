@@ -1,0 +1,13 @@
+# Messages for tarandíne (tarandíne)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Joetaras
+roa-tara: 
+  tags: 
+    index: 
+      filter: Cirche pe le tag
+    show: 
+      title: "Domande taggate: %{tags}"
+    show_json: 
+      edit_it: Aggiunge 'na descrizione a stu tag.
+      no_description: Nisciuna descrizione jè disponibbile pe stu tag.

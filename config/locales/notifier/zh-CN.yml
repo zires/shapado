@@ -23,6 +23,7 @@ zh-CN:
       message4: 主题： %{subject}
     new_invitation: 
       message2: "%{group} 的团队。"
+      message3: 由您的邀请人的信息：
     report: 
       message1: 报告组 %{group}
       message2: 自 %{date}

@@ -1,0 +1,27 @@
+# Messages for Asturian (asturianu)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Xuacu
+ast: 
+  welcome: 
+    confirm_age: 
+      notice: Sólo pue entrar nesta páxina si tien polo menos 18 años d'edá, o polo menos la mayoría d'edá llegal na xurisdicción onde viva o dende la que tien accesu a esta páxina.
+      over_18: Soi mayor de 18 años
+      under_18: Soi menor de 18 años
+      warning: "ATENCIÓN: Esta páxina pue contener material esplícitu p'adultos."
+    feedback: 
+      captcha_error: Por favor, asegurese de rellenar el captcha correutamente y dar una direición de corréu electrónicu válida.
+      captcha_notice: Gracies polos sos comentarios; pondrémonos en contactu con vusté tán pronto como podamos.
+      email_description: Por favor, escriba la so direición de corréu electrónicu pa que podamos responder al so mensaxe
+      feedback_description: Descripción
+      feedback_title: Títulu
+      title: Unvie la so opinión
+    index: 
+      active: Activu
+      browse_all_or_by_tags: Ver la %{full_list_of_questions} o %{browse_by_tags}
+      browse_by_tags: navegar por etiquetes
+      create_own_site: Cree el so propiu sitiu d'entrugues y respuestes en 8 segundos y de baldre
+      full_list_of_questions: llista completa d'entrugues
+      hot: Caldiu
+      quick_question: Faiga una entruga, alcontraremos dalguién que la respuenda
+      recent_questions: Entrugues de recién

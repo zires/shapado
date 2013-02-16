@@ -12,6 +12,7 @@ qqq:
   global: 
     actions: "{{Identical|Action}}"
     anonymous: "{{Identical|Anonymous}}"
+    blog: "{{Identical|Blog}}"
     chat: "{{Identical|Chat}}"
     current: "{{Identical|Current}}"
     feedback: "{{Identical|Feedback}}"
@@ -23,6 +24,8 @@ qqq:
     permission_denied: "{{Identical|Permission denied}}"
     preview: "{{Identical|Preview}}"
     previous: "{{Identical|Previous}}"
+    privacy: "{{Identical|Privacy}}"
+    share: "{{Identical|Share}}"
     sign_up: "{{Identical|Sign up}}"
     size: "{{Identical|Size}}"
     sort_by: "{{Identical|Sort by}}"

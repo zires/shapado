@@ -1,0 +1,22 @@
+# Messages for Asturian (asturianu)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Xuacu
+ast: 
+  wiki: 
+    actions: 
+      all_history: Volver al historial
+      back_to_question: Volver a la entruga
+      revert: Revertir a esta versión
+      show_diff: Comparar les versiones seleicionaes
+    diff: 
+      title: Diferencies ente %{prev} y %{curr}
+    history: 
+      current_version: Versión actual
+      previous_versions: Versiones anteriores
+      title: Historial (%{count})
+      version: Versión
+      version_summary: Resume de la versión
+    model: 
+      attributes: 
+        message: Resume
