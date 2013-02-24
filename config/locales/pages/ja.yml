@@ -28,7 +28,7 @@ ja:
       title: ページ一覧
       wiki: ウィキ
       wiki_pages: ウィキ ページ
-      written_in: 作成言語：%{language}
+      written_in: "作成言語: %{language}"
     new: 
       title: 新しいページ
     title: ページ一覧

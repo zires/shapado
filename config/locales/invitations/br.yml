@@ -1,0 +1,22 @@
+# Messages for Breton (brezhoneg)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Fohanno
+# Author: Gwenn-Ael
+# Author: Y-M D
+br: 
+  invitations: 
+    accept: 
+      create_account: Krouiñ ur gont (1 diwar 2)
+      create_account_step2: Krouiñ ur gont
+      done: Graet eo !
+      facebook_connect: Kevreit gant ho kont Facebook
+      final_step: Tennad diwezhañ (2 diwar 2)
+      find_friends: "Kavit mignoned ha kevreit :"
+      follow_things_description: Ar goulennoù a denn d'ar re-mañ a zeuy war wel en ho kwazh.
+      other_connect: pe implijit ar re-se.
+      other_social_options: Gallout a reot implijout ivez %{linkedin}ha %{identica}.
+      twitter_connect: Kevreit gant ho kont Twitter
+      welcome: Degemer mat
+    resend: 
+      flash_notice: Adkaset eo bet ho pedadenn.

@@ -39,14 +39,14 @@ ja:
       body_tip: あなたの質問を記述してください
       language_tip: 言語を選択してください
       remove_attachment: 削除
-      tags_tip: 質問を具体的にするためにタグを使ってください（カンマ区切りです）
+      tags_tip: 質問を具体的にするためにタグを使用してください (カンマ区切りです)。
     history: 
       back: ← 質問に戻る
     index: 
       active: アクティブ
       active_tooltip: 最近更新されている質問
       ask_question: 質問する
-      empty: まだ質問がありません。ぜひ最初の質問を！
+      empty: まだ質問がありません。ぜひ最初の質問を!
       help_to_answer: すべての質問
       hot: ホット
       hot_tooltip: 最近5日間での最もアクティブな質問
@@ -64,7 +64,7 @@ ja:
         too_short: タグが短すぎるようです。最低%{count}文字以上の言葉を使ってみてください
     move: 
       group_label: "スラグを次のようにして移動する:"
-      submit: 移動！
+      submit: 移動!
       title: "質問の移動: %{title}"
     move_to: 
       group_dont_exists: グループ %{group} はありません
@@ -84,7 +84,7 @@ ja:
       title: タグを更新
     retag_to: 
       failure: タグの更新に失敗しました
-      success: タグを更新しました！
+      success: タグを更新しました!
     revert: 
       title: 質問を戻す
     shared: 
@@ -96,9 +96,9 @@ ja:
       asked_on: 質問日
       ban: 弾く
       close: 閉じる
-      close_reason: この質問は次の理由による閉じられています：
+      close_reason: "この質問は以下の理由により閉じられています:"
       flag: 報告する
-      flagged_as: 報告：
+      flagged_as: "報告:"
       flags: 報告する
       history: 履歴
       last_activity: 最終の変更日

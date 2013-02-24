@@ -9,7 +9,7 @@ ja:
       all: すべて
       ask_question: 質問する
       badges: バッジ
-      forgot: 忘れた？
+      forgot: 忘れましたか?
       home: ホーム
       languages: 言語
       log_in: ログイン
@@ -17,7 +17,7 @@ ja:
       logout: ログアウト
       manage_ads: 広告の管理
       moderate: モデレート
-      now: 今すぐ！
+      now: 今すぐ!
       openid: 
         explaination: 外部サービスを使ってログインする場合は下のサービス一覧から選択してください
       pages: ページ
@@ -32,7 +32,7 @@ ja:
       title: Q&Aコミュニティ
       unanswered: 未回答な質問
       users: ユーザ
-      welcome_from: ようこそ！あなたは次のことをすることができます
+      welcome_from: ようこそ! あなたは次のことをすることができます
     manage: 
       access: アクセス
       actions: アクション

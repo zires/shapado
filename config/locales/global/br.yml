@@ -1,6 +1,7 @@
 # Messages for Breton (brezhoneg)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Fohanno
 # Author: Fulup
 # Author: Y-M D
 br: 
@@ -48,6 +49,7 @@ br:
     tos: AIH
     unfollow: Chom hep heuliañ
     unknown_place: Dianav
+    upgrade: Lakaat a-live
     view: Gwelet
     view_question: Gwelet ar goulenn
     what_to_do: Petra hoc'h eus c'hoant d'ober ?

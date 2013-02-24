@@ -1,11 +1,17 @@
-# Messages for Breton (Brezhoneg)
+# Messages for Breton (brezhoneg)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Fohanno
 # Author: Fulup
+# Author: Gwenn-Ael
 # Author: Y-M D
 br: 
   admin: 
     manage: 
+      access: 
+        title: Moned
+      close_group: 
+        feedback: "Lavarit dimp, mar plij, perak e serrit ho strollad :"
       content: 
         footer: Traoñ pajenn
         head: talbenn
@@ -14,7 +20,18 @@ br:
         title: Danvez personelaet
         top_bar: Barenn uhelañ
         top_bar_tip: Lakait ul liamm dre linenn
+      edit_card: 
+        button: Hizivaat ho kartenn-vank
+      invitations: 
+        invitations: Pedadennoù kaset
+        invitations_title: Roll an holl bedadadennoù ho peus kaset
+        invite: Pediñ tud
+        invite_title: Pedit an dud dre bostel
+        title: Pedadennoù
       properties: 
+        ask_from_twitter: 
+          asking_from_twitter: Ober goulennoù diwar Twitter
+          question_asked_to: Goulenn graet ouzh
         constrains: 
           reputation_constrains_description: Ar furmskrid a aotre da gefluniañ ar c'hementad poentoù brud ret evit seveniñ un obererezh roet
           reputation_constrains_subtitle: Roll ar redioù evit pep obererezh
@@ -27,30 +44,45 @@ br:
           instruction4: "Goude-se, er vaezienn ostiz pe pal, merkit anv ho lec'hienn shapado a-vremañ : %{domain}."
           instruction5: Ur wech graet an dra-mañ, goude un eurvezh pe ziv, e rankfe biziañ ho tomani www.%{subdomain} davet %{appdomain}.
           instruction6: Pa vez kont evel-se e c'hallit distreiñ amañ ha merkañ hoc'h anv domani www.%{subdomain} er vaezienn a-is ha klikañ war ar bouton 'hizivaat'. M'hoc'h eus goulennoù, goulennit ouzhimp dre %{chat_url} pe war hor forom skoazellañ.
-          title: Kefluniañ ho anv domani
+          title: kefluniañ ho anv domani
           warning: Ha sur oc'h kaout c'hoant kemmañ ho domani ?
+        facebook_app: 
+          application_id: ID an arload
+          secret_key: Alc'hwez kuzh
         general: 
           title: Perzhioù ar strollad
+        invitations: 
+          resend_button: Adkas
+          revoke_button: Terriñ
+        invite: 
+          body_length_warning: Ne c'hall ket bezañ ouzhpenn 400 arouezenn e korf an destenn
+          emails_instructions: Ebarzhit ar chomlec'hioù postel, dispartiet gant virgulennoù
+          invitations: Pedadennoù kaset
+          invite: Pediñ tud
+          title: Pedit an dud dre bostel
+        post_to_twitter: 
+          send_answers_to_twitter: Kas an holl respontoù da dTwitter
+          send_questions_to_twitter: Kas an holl c'houlennoù da dTwitter
         rewards: 
           reputation_rewards_description: Ar furmskrid-mañ a servij da gefluniañ penaos e c'hell un implijer gounid pe koll poentoù evit un obererezh resis
           reputation_rewards_subtitle: Roll ar profoù brud
           title: Prizioù
         share: 
-          add_tags: Ouzhpennañ tikedennoù d'ho tweetadennoù
-          application_id: ID ar poellad
-          asking_from_twitter: Sevel goulennoù adalek Twitter
-          ends_with_example: "da skouer #shapado"
-          facebook_app: Perzhioù an arload Facebook
-          question_asked_to: Goulenn savet ouzh
-          question_must_include: Ret eo d'an dikedenn da-heul bezañ merket er goulenn a-raok gallout bezañ kaset war Twitter.
-          question_must_include_example: "da skouer #goulennAran"
-          secret_key: Alc'hwez kuzh
-          starts_with_example: "da sk. #qa"
           title: Rannañ
-          title_on_dlvr: Rannañ war dlvr.it
-          tweet_ends_with: Ouzhpennañ un dikedenn d'ho tweetadennoù
-          tweet_starts_with: Merkañ un dikedenn a-raok ho twitadennoù
-          twitter_account: Anv ar gont Twitter ma vo savet o goulennoù gant hoc'h implijerien.
-        theme: 
-          logo_legend: Enporzhit ul logo evit ho strollad. D'ar muiañ e c'hell bezañ 2 Mo.
-          title: Kefluniañ tem ar strollad
+        tag_your_tweets: 
+          starts_with_example: "da skouer : #qa"
+        twitter_account: 
+          legend: Implijet e vo ar gont-mañ da bostañ goulennoù ha respontoù nevez war dTwitter.
+          twitter_account: Kont Twitter
+        twitter_app: 
+          key: Alc'hwez an arload
+          twitter_app: Arload Twitter
+      social: 
+        description: Kevreit ho strollad gant ho rouedadoù sokial
+        facebook_app: Arload Facebook
+        post_to_twitter: Embann war Twitter
+        title: etrewered mediaoù  sokial
+        twitter_account: Kont Twitter
+      top_admin: 
+        site: Lec'hienn
+        title: Merour

@@ -1,0 +1,22 @@
+# Messages for Message documentation (Message documentation)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: EugeneZelenko
+# Author: Shirayuki
+# Author: Siebrand
+qqq: 
+  activerecord: 
+    attributes: 
+      answer: 
+        body: "{{Identical|Body}}"
+        created_at: "{{Identical|Created at}}"
+        link: "{{Identical|Link}}"
+    models: 
+      answer: "{{Identical|Answer}}"
+      answers: "{{Identical|Answer}}"
+  answers: 
+    create: 
+      flash_notice: "{{Identical|Thanks}}"
+    form: 
+      comment_submit: "The message name \"answers.form.comment_submit\" suggests this is a form submit button, therefore \"Comment\" should be translated as a verb.\n{{Identical|Comment}}"
+      submit: "Verb. Text for submit button.\n{{Identical|Answer}}"

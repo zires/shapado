@@ -1,6 +1,7 @@
 # Messages for Breton (brezhoneg)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Fohanno
 # Author: Y-M D
 br: 
   doc: 
@@ -17,6 +18,8 @@ br:
       custom_ads: Implijout ho bruderezhioù deoc'h
       custom_analytics: Stadegoù an tremenerezh
       custom_domain: Domani personelaet
+      custom_html: "HTML personelaet :"
+      custom_js: Ouzhpennañ ho JavaScript deoc'h-c'hwi
       custom_themes: Implijit hor dodennoù rak-savet
       custom_ui: Etrefas a c'heller personelaat
       free_plan: plan digoust
@@ -25,11 +28,14 @@ br:
       month: miz
       page_views: Evit al lec'hiennoù bihan/prevez
       plans: Planioù
+      private: Prevez
+      private_private: Moned strishaet
       private_site: Gweredekaat ar moned prevez/foran
       start_monetizing: kregiñ da werzhañ
       support: Skor
       title: Steuñvoù rakprenañ ha prizioù
       unlimited: Tremenerezh nann-bevennet bep miz
+      user: implijer
       we_offer: Profañ a reomp ivez ur
       web_support: Skor web
       with_unlimited: gant un tremenerezh didermenet hag hep bruderezhioù na domanioù personelaet.

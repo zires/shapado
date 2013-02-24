@@ -1,6 +1,7 @@
 # Messages for Breton (brezhoneg)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Fohanno
 # Author: Fulup
 # Author: Gwenn-Ael
 # Author: Y-M D
@@ -11,6 +12,7 @@ br:
       search_box_title: Gwiriañ ha n'eo ket bet savet ho koulenn c'hoazh
       tags_tip: Ober gant [tag] evit spisaat tikedennoù.
     index: 
+      advanced_search: klask araokaet
       empty: N'eus bet kavet netra o klotañ gant ar pezh a glaskit.
       input_title: "Enrollañ an enklask evel :"
       search_text: Goulennoù enno

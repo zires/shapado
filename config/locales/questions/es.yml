@@ -165,7 +165,7 @@ es:
       title: Etiquetas
       tooltip: Muestra las preguntas etiquetadas con %{tag}
     toolbar: 
-      answer_by_mail: Responda por email
+      answer_by_mail: Responde por correo electrónico
       more_actions: Más acciones
       requests: Solicitudes
       your_close_request: Su solicitud de cierre

@@ -6,7 +6,7 @@ ja:
   mailers: 
     notifications: 
       earned_badge: 
-        subject: バッジをゲットしました！ %{group}!
+        subject: "%{group}でバッジをゲットしました!"
       favorited: 
         subject: "%{login}があなたの質問をお気に入りに登録しました"
       follow: 

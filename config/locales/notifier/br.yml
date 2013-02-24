@@ -1,6 +1,7 @@
 # Messages for Breton (brezhoneg)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Fohanno
 # Author: Fulup
 # Author: Gwenn-Ael
 # Author: Y-M D
@@ -13,7 +14,7 @@ br:
       message2: "Deskrivadur ar badj :"
       message3: Gellout a rit gwelet ho holl badjoù war ho %{user_page}
     favorited: 
-      message1: "%{user} en deus ouzhpennet ho koulenn d'e sinedoù war %{group}"
+      message1: "%{user} en deus enrollet ho koulenn en e sinedoù war %{group}"
       message2: "Ar goulenn a oa:"
       message3: "Gallout a rit e welet amañ :"
     follow: 
@@ -26,6 +27,7 @@ br:
       message4: Ma ne resevomp ket buan ur respont eus ho perzh e c'houlennimp gant unan bennak all. Gellout a rit c'hoazh respont pa fell deoc'h.
     global: 
       hi: Salud %{user},
+      hi_no_user: Salud deoc'h,
       user_page: pajenn implijer
     new_answer: 
       message: "%{user} en deus respontet %{new_answer} d'ar goulenn %{question}"
@@ -36,6 +38,8 @@ br:
       message2: Un implijer dizanv en deus kaset ur c'hilober eus ar chomlec'h IP %{ip}
       message3: "Chomlec'h postel : %{email}"
       message4: "Danvez : %{subject}"
+    new_invitation: 
+      message1: Klikit amañ evit asantiñ d'ar bedadenn %{link}
     report: 
       message1: Danevell evit ar strollad %{group}
       message2: Abaoe %{date}

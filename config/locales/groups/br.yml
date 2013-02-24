@@ -1,6 +1,7 @@
 # Messages for Breton (brezhoneg)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Fohanno
 # Author: Fulup
 # Author: Gwenn-Ael
 # Author: Y-M D
@@ -11,7 +12,7 @@ br:
         default_tags: Tikedennoù dre ziouer
         description: Deskrivadur
         domain: Domani
-        enable_latex: Gweredekaat LaTeX
+        enable_latex: Gweredekaat LaTeX gant jqmath (herrek, met n'eo ket klok)
         fb_button: Gweredekaat bouton Like Facebook (ne warez ket ho puhez prevez)
         forum: Aotreañ muioc'h eget ur respont dre implijer
         group_created_by: krouet gant
@@ -35,6 +36,8 @@ br:
   groups: 
     create: 
       flash_notice: Krouet eo bet ho strollad ervat. Gallout a rit kregiñ d'e gefluniañ.
+    edit: 
+      title: Aozañ ho strollad
     form: 
       access: Kefluniadur moned
       analytics_engine: Lusker dielfennañ
@@ -59,6 +62,7 @@ br:
       disallow_ads: Nac'hañ ar bruderezhioù
     index: 
       actives: Oberiant
+      create_your_own: krouiñ ho strollad deoc'h
       filter: Klask strolladoù
       most_active: Oberiantañ
       name: Anv
@@ -75,3 +79,7 @@ br:
       group_closed: Serret eo bet ar strollad-mañ.
       title: Diwar-benn %{name}
       visit_group: Gweladenniñ ar strollad-mañ
+    top_grouplist: 
+      active_site: "Lec'hienn oberiant :"
+    update: 
+      notice: Hizivaet eo bet ho strollad.

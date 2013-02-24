@@ -1,12 +1,14 @@
 # Messages for Breton (brezhoneg)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Fohanno
 # Author: Fulup
 # Author: Gwenn-Ael
 # Author: Y-M D
 br: 
   shared: 
     any_lang: Ne vern pe yezh
+    by_anon: Gant unan dizanv
     current_tags: 
       title: Tikedennoù diuzet
     date: Deiziad
@@ -15,9 +17,22 @@ br:
       answers: 
         description: 
           text: Bezit an hini gentañ !
+        title: Den ebet n'en deus respontet d'ar goulenn-mañ c'hoazh.
+      default: 
+        description: 
+          text: Bezit an hini kentañ o %{action_link}!
+        title: Ho tigarez ! N'eus ket kalz a dra da welet amañ.
+      filtered_by_language_questions: 
+        description: 
+          action_link: Klikit amañ da welet ar goulennoù en holl yezhoù.
+        title: Ho tigarez, n'eus goulenn ebet er yezh-mañ.
+      filtered_questions: 
+        description: 
+          action_link: Klikit amañ da ziskouez an holl c'houlennoù
       themes: 
         description: 
           action_link: bremañ
+          text: krouiñ ur %{action_link}
     filter: "Sil:"
     language: "Yezh :"
     language_filter_tooltip: Klaskit gant ur yezh nevez !

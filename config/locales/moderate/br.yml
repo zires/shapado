@@ -1,12 +1,15 @@
 # Messages for Breton (brezhoneg)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Fohanno
 # Author: Fulup
 # Author: Gwenn-Ael
 # Author: Y-M D
 br: 
   admin: 
     moderate: 
+      closing: 
+        title: Serriñ ar goulenn
       index: 
         all: Pep tra
         ban: Forbannañ
@@ -32,5 +35,6 @@ br:
       subtabs: 
         flagged: Merket
         flagged_tooltip: Goulennoù merket gant an implijerien.
+        retag_tooltip: Goulennoù hep balizennoù
         to_close: Rekedoù serriñ
         to_open: Rekedoù digor

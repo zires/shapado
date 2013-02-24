@@ -1,6 +1,7 @@
 # Messages for Japanese (日本語)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Shirayuki
 ja: 
   doc: 
     chat: 
@@ -31,4 +32,4 @@ ja:
       unlimited: PV制限なし
       we_offer: 私たちは
       web_support: Webベースのサポート
-      with_unlimited: も用意してあります（転送料無制限、広告あり、カスタムドメイン不可）
+      with_unlimited: も用意してあります (転送料無制限、広告あり、カスタムドメイン不可)。

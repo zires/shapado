@@ -8,7 +8,7 @@ ja:
       explanation: このページにアクセスルための権限がありません
       title: アクセスできません
     go_to: "%{link}ページに移動する"
-    help_us_answer: 質問に答えてみてください！%{link}
+    help_us_answer: 質問に答えてみてください! %{link}
     internal_error: 
       explanation: このエラーは管理者に通知されます。対応をお待ちください。
       title: 申し訳ありません。何かのエラーが発生しました。

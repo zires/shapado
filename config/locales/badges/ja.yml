@@ -128,7 +128,7 @@ ja:
       tutor: 
         description: 質問への回答が平均2以上の投票があったら
     show: 
-      description: このバッジを持っているユーザ。最後にバッジを得たユーザ：
+      description: "このバッジを持っているユーザ。最後にバッジを得たユーザ:"
       earned: 取得
       for_tag_bronze: タグ%{tag}に200の投票
       for_tag_gold: タグ%{tag}に1,000の投票
