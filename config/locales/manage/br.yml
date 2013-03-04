@@ -53,7 +53,7 @@ br:
           title: Perzhioù ar strollad
         invitations: 
           resend_button: Adkas
-          revoke_button: Terriñ
+          revoke_button: Disteuler
         invite: 
           body_length_warning: Ne c'hall ket bezañ ouzhpenn 400 arouezenn e korf an destenn
           emails_instructions: Ebarzhit ar chomlec'hioù postel, dispartiet gant virgulennoù

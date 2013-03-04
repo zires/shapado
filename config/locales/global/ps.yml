@@ -4,6 +4,7 @@
 # Author: Ahmed-Najib-Biabani-Ibrahimkhel
 ps: 
   global: 
+    actions: کړنې
     active: چارندول
     anonymous: ورکنومی
     blog: بلاګ
@@ -14,7 +15,9 @@ ps:
     next_button: راتلونکی
     open: پرانيستل
     or: يا
+    preview: مخليدنه
     previous: پخوانی
+    privacy: پټنتيا
     share: شريکول
     sign_up: نومليکل
     size: کچه

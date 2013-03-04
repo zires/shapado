@@ -11,7 +11,10 @@ el:
       badges: Τίτλοι
   badges: 
     index: 
+      bronze: Χάλκινο
       description: Όλοι οι τίτλοι που μπορείτε να κερδίσετε. Μοιραστείτε τις γνώσεις σας και κερδίστε τίτλους.
+      gold: Χρυσό
+      silver: Αργυρό
       title: Τίτλοι
     shared: 
       addict: 
@@ -103,10 +106,10 @@ el:
       pioneer: 
         description: Γίνετε από τα πρώτα μέλη που θα εγγραφείτε
       popstar: 
-        description: 500 θετικές ψήφοι, 10 αρνητικές ψήφοι το πολύ
+        description: Έχει 500 θετικές ψήφοι, 10 αρνητικές ψήφους το μέγιστο
         name: Ποπ αστέρι
       popular_person: 
-        description: Αποκτήστε περισσότερους από 50 οπαδούς
+        description: Απόκτησε περισσότερους από 50 οπαδούς
         name: Δημοφιλές πρόσωπο
       popular_question: 
         description: Κάντε ερώτηση που θα φτάσει τις 1000 προβολές
@@ -120,7 +123,7 @@ el:
         description: Απαντήστε στη δική σας ερώτηση με τουλάχιστον 3 θετικές ψήφους
         name: Αυτοδίδακτος
       service_medal: 
-        description: 300 θετικές ψήφοι
+        description: Έχει 300 θετικές ψήφους
       shapado: 
         description: Επισκεφθείτε το site κάθε μέρα για 8 συνεχόμενες ημέρες
       stellar_question: 

@@ -18,7 +18,7 @@ ko:
       edit_page: 페이지 수정
       title: 액션
     create: 
-      success: 페이지가 성공적으로 만들었습니다.
+      success: 페이지를 성공적으로 만들었습니다.
     edit: 
       title: 페이지 수정
     form: 
@@ -32,4 +32,4 @@ ko:
       title: 새 페이지
     title: FIXME
     update: 
-      success: 페이지가 성공적으로 업데이트 되었습니다.
+      success: 페이지가 성공적으로 업데이트되었습니다.

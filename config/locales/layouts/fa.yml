@@ -4,6 +4,7 @@
 # Author: Ebraminio
 # Author: Huji
 # Author: MindHammerGames
+# Author: ZxxZxxZ
 fa: 
   layouts: 
     application: 
@@ -11,7 +12,7 @@ fa:
       badges: نشانها
       forgot: فراموش کردید؟
       home: خانه
-      languages: زبانها
+      languages: زبان‌ها
       log_in: ورود
       logged: وارد شده به عنوان %{login}
       logout: خروج

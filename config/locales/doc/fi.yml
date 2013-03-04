@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Centerlink
+# Author: Shirayuki
 fi: 
   doc: 
     chat: 
@@ -24,7 +25,7 @@ fi:
       custom_domain: Mukautettu toimialue
       custom_domain_tip: Käytä omaa verkko-osoitetta kuten omayritys.fi eikä omayritys.shapado.com
       custom_html: Oma HTML
-      custom_html_tip: Paranna sivustosi koko HMTL-koodi kokonaan ja tee se sen näköiseksi kuin haluat.
+      custom_html_tip: Paranna sivustosi koko HTML-koodi kokonaan ja tee se sen näköiseksi kuin haluat.
       custom_js: Lisää oma JavaScript
       custom_js_tip: Lisää omaa JavaScript-koodia, kuten multimediakäyttöliittymäkomponentit tai jQuery-liitännäiset.
       custom_themes: Käytä esivalmistettuja räätälöityjä teemojamme

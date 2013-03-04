@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Bjankuloski06
+# Author: Shirayuki
 mk: 
   widgets: 
     about: 
@@ -74,7 +75,7 @@ mk:
       title: Поврзани прашања
     settings: 
       code: "Прекопирајте го кодов на вашето мреж. место или блог, како да речеме посреднички елемент со текст во вашиот Wordpress:"
-      content: "Тука стевете HMTL-код по ваша желба:"
+      content: "Тука стевете HTML-код по ваша желба:"
       custom_external_css: "Вклучете прилагодена CSS во вашиот елемент (се препорачува ако не ја вклучувате CSS од Shapado):"
       custom_html: "Прилагоден HTML:"
       exclude_css_on_external: Исклучете го CSS на Shapado од вашиот елемент

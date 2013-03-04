@@ -1,0 +1,12 @@
+# Messages for Bengali (বাংলা)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Runab
+bn: 
+  activity: 
+    asked: অনুরোধ করা হয়েছে
+    changed: পরিবর্তিত
+    created: নির্মিত
+    deleted: মুছে ফেলা হয়েছে
+    destroyed: মুছে ফেলা হয়েছে
+    updated: আপডেট করা হয়েছে
