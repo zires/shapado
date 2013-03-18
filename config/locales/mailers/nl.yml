@@ -23,7 +23,7 @@ nl:
         subject_other: "%{login} heeft de vraag %{title} beantwoord"
         subject_owner: "%{login} heeft uw vraag %{title} beantwoord"
       new_comment: 
-        subject: "%{login} heeft een opmerking toegevoegd aan %{group}"
+        subject: "%{login} heeft een reactie toegevoegd aan %{group}"
       new_invitation: 
         subject: "%{user} heeft u uitgenodigd om lid te worden van %{group}"
       report: 

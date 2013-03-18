@@ -24,8 +24,8 @@ nl:
       title: Antwoord bewerken
     form: 
       answer_label: Vraag beantwoorden
-      comment_label: Opmerking bij dit antwoord plaatsen
-      comment_submit: Opmerking plaatsen
+      comment_label: Reactie plaatsen bij dit antwoord
+      comment_submit: Reactie plaatsen
       submit: Beantwoorden
     revert: 
       title: Antwoord terugdraaien

@@ -32,6 +32,7 @@ br:
         ask_from_twitter: 
           asking_from_twitter: Ober goulennoù diwar Twitter
           question_asked_to: Goulenn graet ouzh
+          question_must_include_example: "da sk. #iAsk"
         constrains: 
           reputation_constrains_description: Ar furmskrid a aotre da gefluniañ ar c'hementad poentoù brud ret evit seveniñ un obererezh roet
           reputation_constrains_subtitle: Roll ar redioù evit pep obererezh
@@ -71,6 +72,7 @@ br:
           title: Rannañ
         tag_your_tweets: 
           starts_with_example: "da skouer : #qa"
+        title: Perzhioù ar strollad
         twitter_account: 
           legend: Implijet e vo ar gont-mañ da bostañ goulennoù ha respontoù nevez war dTwitter.
           twitter_account: Kont Twitter

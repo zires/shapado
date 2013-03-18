@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Fohanno
+# Author: Fulup
 # Author: Y-M D
 br: 
   doc: 
@@ -31,7 +32,8 @@ br:
       private: Prevez
       private_private: Moned strishaet
       private_site: Gweredekaat ar moned prevez/foran
-      start_monetizing: kregiñ da werzhañ
+      small_basic: Kregiñ ganti
+      start_monetizing: Kregiñ da c'hounit un tamm moneiz
       support: Skor
       title: Steuñvoù rakprenañ ha prizioù
       unlimited: Tremenerezh nann-bevennet bep miz

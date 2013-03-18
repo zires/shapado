@@ -23,7 +23,7 @@ nl:
       title: Lijst met sluitingsverzoeken
     model: 
       attributes: 
-        comment: Opmerking
+        comment: Reactie
         reason: Reden
         user: Gebruiker
       messages: 

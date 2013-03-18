@@ -23,6 +23,8 @@ br:
       hello: Demat
       reset_password: 
         link: Cheñch ma ger-tremen
+      unlock: 
+        link: Dibrennañ ma c'hont
     passwords: 
       link: Ankouaet ho ker-tremen ganeoc'h ?
       send_button: Kasit din ar c'hemennoù adderaouekaat evit ar ger-tremen

@@ -7,16 +7,16 @@
 nl: 
   comments: 
     create: 
-      flash_notice: Bedankt voor uw opmerking
+      flash_notice: Bedankt voor uw reactie
     edit: 
-      title: Opmerking bewerken
+      title: Reactie bewerken
     shared: 
-      add_comment: Opmerking toevoegen...
-      comment_submit: Opmerking plaatsen
+      add_comment: Reactie toevoegen...
+      comment_submit: Reactie plaatsen
       reply: Antwoord
       said: schreef
     update: 
-      flash_notice: De opmerking is aangepast.
+      flash_notice: De reactie is aangepast.
   models: 
-    comment: Opmerking
+    comment: Reactie
     comments: Opmerkingen

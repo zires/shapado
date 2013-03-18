@@ -49,6 +49,7 @@ br:
       with_twitter: gant Twitter
     manage_navigation: 
       title_content: Endalc'had ar strollad
+      title_features: Perzhioù ar strollad
       title_options: Dibab ar strollad
     name: Anv
     preferred_lang: Ma yezhoù karetañ

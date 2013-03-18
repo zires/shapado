@@ -27,7 +27,7 @@ nl:
       questions: Vragen
   questions: 
     answer: 
-      add_comment: Opmerking toevoegen...
+      add_comment: Reactie toevoegen
       favorite: Opslaan
       favorite_tooltip: Dit antwoord toevoegen aan uw favorieten
       flag: Markeren

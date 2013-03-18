@@ -45,6 +45,7 @@ br:
       users: Implijerien
       welcome_from: Degemer mat ! Gouest oc'h
     manage: 
+      access: Moned
       actions: Oberoù
       announcements: Kemennoù
       appearance: Neuz
@@ -54,6 +55,7 @@ br:
       dashboard: dashboard
       domain: Domani
       general: Dre-vras
+      group_features: Perzhioù heverk
       group_user_management: Merañ an implijerien
       invitations: Pedadennoù
       invoices: Fakturennoù
