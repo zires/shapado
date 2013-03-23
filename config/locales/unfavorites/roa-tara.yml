@@ -7,3 +7,7 @@ roa-tara:
     models: 
       favorite: Preferite
       favorites: Preferite
+  unfavorites: 
+    create: 
+      success: "'A domande ha state luate da le preferite tune"
+      unauthenticated: Tu è abbesogne de 'nu cunde pe luà 'nu preferite

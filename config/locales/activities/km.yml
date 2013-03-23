@@ -1,0 +1,12 @@
+# Messages for Khmer (ភាសាខ្មែរ)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: វ័ណថារិទ្ធ
+km: 
+  activity: 
+    asked: បានសួរ
+    changed: បានផ្លាស់ប្តូរ
+    created: បានបង្កើត
+    deleted: បានលុប
+    destroyed: បានលុប
+    updated: បានបន្ទាន់សម័យ​
