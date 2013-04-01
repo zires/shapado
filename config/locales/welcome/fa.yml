@@ -3,6 +3,7 @@
 # Export driver: syck-pecl
 # Author: Ebraminio
 # Author: MindHammerGames
+# Author: جواد
 fa: 
   welcome: 
     confirm_age: 
@@ -11,7 +12,7 @@ fa:
       under_18: من زیر ۱۸ سال سن دارم
       warning: "هشدار: این صفحه ممکن است محتوای جنسی واضحی داشته باشد."
     feedback: 
-      captcha_error: لطفاً، یک عملیات سادهٔ ریاضی را حل کنید
+      captcha_error: لطفا اطمینان حاصل کنید که کد امنیتی را به درستی وارد کرده‌اید و یک آدرس رایانامهٔ معتبر ارائه دهید.
       email_description: لطفا آدرس ایمیلتان را در اختیار ما بگذارید تا بتوانیم به پیغامتان پاسخ دهیم
       feedback_description: توضیحات
       feedback_title: عنوان

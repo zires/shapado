@@ -57,7 +57,7 @@ ko:
       filter: 그룹 검색
       most_active: 가장 활발
       name: "이름:"
-      pendings: 보류
+      pendings: 보류 중
       request_group: 새 그룹을 요청
       title: 그룹
     new: 

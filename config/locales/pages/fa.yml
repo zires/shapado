@@ -3,6 +3,7 @@
 # Export driver: syck-pecl
 # Author: Ebraminio
 # Author: MindHammerGames
+# Author: جواد
 fa: 
   activerecord: 
     attributes: 
@@ -27,6 +28,8 @@ fa:
     index: 
       create_page: ایجاد صفحهٔ جدید
       title: فهرست صفحه‌ها
+      wiki: ویکی
+      wiki_pages: صفحه‌های ویکی
       written_in: نوشته شده در %{language}
     new: 
       title: صفحهٔ جدید

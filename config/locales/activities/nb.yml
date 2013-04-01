@@ -1,0 +1,19 @@
+# Messages for Norwegian Bokmål (norsk bokmål)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Laaknor
+nb: 
+  activerecord: 
+    models: 
+      activities: Aktiviteter
+      activity: Aktivitet
+  activity: 
+    asked: spurt
+    changed: endret
+    created: opprettet
+    deleted: slettet
+    destroyed: slettet
+    flagged: flagget
+    requested_to_close: forespurt å lukke
+    requested_to_open: forespurt å åpne
+    updated: oppdatert

@@ -12,7 +12,7 @@ af:
       languages: Tale
       log_in: Meld aan
       logged: Aangeteken as %{login}
-      logout: Meld af
+      logout: Teken af
       manage_ads: Bestuur advertensies
       moderate: Modereer
       now: nou!

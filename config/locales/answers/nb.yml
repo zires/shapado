@@ -1,19 +1,21 @@
 # Messages for Norwegian Bokmål (norsk bokmål)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Laaknor
 # Author: Nghtwlkr
 nb: 
   activerecord: 
     attributes: 
       answer: 
         body: Brødtekst
-        created_at: Besvart
+        created_at: Opprettet den
         link: Lenke
     models: 
       answer: Svar
       answers: Svar
   answers: 
     create: 
+      annon_notice: Brukeren er allerede registrert. Vennligst logg inn.
       flash_error: "Noe gikk galt da du la til svaret ditt.\n  Husk at:\n - Tomme og gjentatte svar er ikke tillatt.\n - Du må vente 20 sekund før du poster et nytt svar.\n - Du kan bare poste ett svar per spørsmål."
       flash_notice: Takk!
     edit: 

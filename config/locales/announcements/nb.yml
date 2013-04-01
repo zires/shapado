@@ -1,6 +1,7 @@
 # Messages for Norwegian Bokmål (norsk bokmål)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Laaknor
 # Author: Nghtwlkr
 nb: 
   activerecord: 
@@ -15,6 +16,7 @@ nb:
       delete: Fjern
       title: Handlinger
     create: 
-      success: Kunngjøringen ble opprettet.
+      success: Kunngjøringen  din ble opprettet.
     index: 
+      description: Administrer og opprette nye kunngjøringer som vil bli vist på hele nettstedet for dine besøkende.
       title: Kunngjøringer

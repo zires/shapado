@@ -7,6 +7,6 @@
 
 var I18n = {
 	on_leave_page: "Ding Änderonge künnte verschött jonn",
-	loading: "Aam Laade\x26nbsp;\x26hellip;"
+	loading: "Ben aam Laade\x26nbsp;\x26hellip;"
 };
 

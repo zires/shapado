@@ -1,0 +1,16 @@
+# Messages for Arabic (العربية)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: OsamaK
+# Author: ترجمان05
+ar: 
+  comments: 
+    create: 
+      flash_notice: شكرا لتعليقك
+    shared: 
+      add_comment: أضف تعليقًا...
+      comment_submit: علّق
+      reply: رُد
+      said: قال
+  models: 
+    comments: تعليقات

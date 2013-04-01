@@ -8,7 +8,12 @@ fo:
       activities: Aktivitetir
       activity: Aktivitetur
   activity: 
+    asked: spurdi
     changed: broytt
     created: stovnað
     deleted: er strikað
+    destroyed: er strikað
+    flagged: meldað
+    requested_to_close: afturlating er umbiðin
+    requested_to_open: upplating er umbiðin
     updated: dagført

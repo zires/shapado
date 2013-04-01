@@ -3,6 +3,7 @@
 # Export driver: syck-pecl
 # Author: Meno25
 # Author: OsamaK
+# Author: ترجمان05
 ar: 
   activerecord: 
     attributes: 
@@ -13,7 +14,9 @@ ar:
       pages: صفحات
   pages: 
     actions: 
-      edit_page: عدل الصفحة
+      create_page: أنشئ صفحة جديدة
+      edit_page: عدّل الصفحة
+      title: الإجراءات
     create: 
       success: أنشئت الصفحة بنجاح.
     edit: 
@@ -23,6 +26,9 @@ ar:
     index: 
       create_page: أنشئ صفحة جديدة
       title: قائمة الصفحات
+      wiki: ويكي
+      wiki_pages: صفحات الويكي
+      written_in: كتبت بـ %{language}
     new: 
       title: صفحة جديدة
     update: 
