@@ -13,7 +13,7 @@ nl:
     feedback: 
       captcha_error: Voer de captcha correct in en geef een geldig e-mailadres op.
       captcha_notice: Dank u wel voor uw terugkoppeling. We laten zo snel mogelijk iets van ons horen.
-      email_description: Geef alstublieft uw e-mailadres op zodat we u kunnen antwoorden
+      email_description: Geef uw e-mailadres op zodat we u kunnen antwoorden
       feedback_description: Beschrijving
       feedback_title: Naam
       title: Geef ons uw terugkoppeling

@@ -77,7 +77,7 @@ nl:
         description: Heeft de site 100 dagen achter elkaar bezocht
         name: Fanaticus
       favorite_answer: 
-        description: Heeft een antwoord dat door 25 gebruikers als favoriet is aangegeven
+        description: Heeft een antwoord dat door 25 gebruikers als favoriet is opgegeven
         name: Favoriet antwoord
       favorite_question: 
         description: Heeft een vraag gesteld die door 25 gebruikers gevolgd wordt
@@ -160,7 +160,7 @@ nl:
       shapado: 
         description: Heeft de site 8 dagen achter elkaar bezocht
       stellar_answer: 
-        description: Heeft een antwoord dat door 100 gebruikers als favoriet is aangegeven
+        description: Heeft een antwoord dat door 100 gebruikers als favoriet is opgegeven
         name: Fantastisch antwoord
       stellar_question: 
         description: Heeft een vraag gesteld die door 100 gebruikers gevolgd wordt

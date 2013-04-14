@@ -4,6 +4,9 @@
 # Author: Robby
 lb: 
   wiki: 
+    actions: 
+      back_to_question: Zréck op d'Fro
+      revert: Op dës Versioun zrécksetzen
     diff: 
       title: Ënnerscheed tëschent %{prev} a(n) %{curr}
     history: 

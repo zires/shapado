@@ -20,7 +20,7 @@ nl:
       title: Markering van %{model} bewerken
     form: 
       attention: Heeft aandacht van een moderator nodig
-      label: Markeer alstublieft alleen als het nodig is
+      label: Markeer alleen als het nodig is
       offensive: Aanstootgevend, beledigend of haatdragend
       spam: Spam
     model: 
