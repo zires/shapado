@@ -53,6 +53,8 @@ qqq:
     send: "{{Identical|Send}}"
     show: "{{Identical|Show}}"
     update: "{{Identical|Update}}"
+  time: 
+    today: "{{Identical|Today}}"
   views: 
     pagination: 
       first: This shows at the bottom of the list of questions and link to the first page of the list.

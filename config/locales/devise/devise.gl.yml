@@ -50,7 +50,7 @@ gl:
       link: Acceder
       new: 
         openid_url: O URL do seu OpenID
-        remember_me: Permanecer conectado
+        remember_me: Lembrádeme
       registered_only: Debe iniciar sesión para ver os contidos.
       sign_out: Saír
       signed_in: Accedeu ao sistema.

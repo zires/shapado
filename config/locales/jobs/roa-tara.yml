@@ -1,0 +1,21 @@
+# Messages for tarandíne (tarandíne)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Joetaras
+roa-tara: 
+  jobs: 
+    answers: 
+      on_create_answer: 
+        group_send_twitter: "%{user} ave resposte a: %{question}"
+        send_twitter: "'A risposta meje sus a %{question}"
+      on_favorite_answer: 
+        group_send_twitter: "%{user} l'ha piaciute 'na resposte de %{author} sus a: %{question}"
+        send_twitter: "M'ha piaciute 'na resposte de %{author} sus a: %{question}"
+    base: 
+      create_badge: 
+        group_send_twitter: "%{user} ha probbie vinde 'u tesserine %{token} sus a %{group_name} %{link}"
+        send_twitter: Agghie probbie vinde 'u tesserine %{token} sus a %{group_name} %{link}
+    comments: 
+      on_comment: 
+        group_on_comment: "%{user} ha commendate sus a: %{question}"
+        send_twitter: "'U commende mije sus a %{question}"

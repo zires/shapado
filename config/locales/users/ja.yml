@@ -51,7 +51,7 @@ ja:
       flash_error: アカウントの作成に失敗しました。以下のエラーメッセージを確認して修正してもらうか、管理者にご連絡ください。
       flash_notice: アカウントを作成しました。登録ありがとうございます!
     edit: 
-      enable_twitter: Enable your facebook or twitter accounts
+      enable_twitter: Enable your Facebook or Twitter accounts
       submit: 保存
       title: 設定
     follow: 
