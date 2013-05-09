@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Giro720
+# Author: Luckas
 # Author: Luckas Blade
 # Author: Nighto
 # Author: Vgeorge
@@ -48,12 +49,15 @@ pt-BR:
       vote_up: Votar positivo
     anonymous_form: 
       never_shown: nunca mostrado
+    change_password: 
+      submit: Alterar minha senha
+      title: Alterar senha
     create: 
       flash_error: Desculpe, não foi possível criar essa conta. Tente novamente ou contate um administrador (link está acima), por favor.
       flash_notice: Obrigado por seu registro!
     edit: 
       enable_twitter: Ativar as suas contas no Facebook ou no Twitter
-      submit: Gravar
+      submit: Salvar
       title: Definições
     follow: 
       flash_notice: O usuário %{user} foi adicionado a sua lista de amigos
@@ -86,11 +90,17 @@ pt-BR:
       submit: Registar
       title: Registrar como um novo usuário
     show: 
+      edit_profile: Editar perfil
       follow: Seguir
       followers: Seguidores
       following: Seguindo
       title: Usuário %{user}
       unfollow: Deixar de seguir
       views: visitas
+    top_user: 
+      connect: Conectar
+      profile: Perfil
     unfollow: 
       flash_notice: O usuário %{user} foi removido da sua lista de amigos
+    user_mini: 
+      editor: "[ Editor ]"

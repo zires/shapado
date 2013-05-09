@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Hamilton Abreu
+# Author: Luckas
 pt-PT: 
   welcome: 
     confirm_age: 
@@ -16,7 +17,7 @@ pt-PT:
       feedback_title: Título
       title: Enviar o seu comentário
     index: 
-      active: Activo
+      active: Ativo
       browse_all_or_by_tags: Ver a %{full_list_of_questions} ou %{browse_by_tags}
       browse_by_tags: navegar por categoria
       create_own_site: Crie o seu próprio site de perguntas e respostas em 8 segundos, grátis

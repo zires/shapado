@@ -3,6 +3,7 @@
 # Export driver: syck-pecl
 # Author: GTNS
 # Author: Hamilton Abreu
+# Author: Luckas
 # Author: Waldir
 pt-PT: 
   activerecord: 
@@ -11,7 +12,10 @@ pt-PT:
       badges: Condecorações
   badges: 
     index: 
+      bronze: Bronze
       description: Todos as condecorações que pode ganhar. Partilhe o seu conhecimento, ganhe condecorações.
+      gold: Ouro
+      silver: Prata
       title: condecorações
     shared: 
       addict: 
@@ -56,6 +60,8 @@ pt-PT:
       fanatic: 
         description: Visitou o site em 100 dias consecutivos
         name: Fanático
+      favorite_answer: 
+        name: Resposta favorita
       favorite_question: 
         description: Fez uma pergunta adicionada aos favoritos por 25 utilizadores
         name: Pergunta favorita
@@ -83,6 +89,8 @@ pt-PT:
       interesting_person: 
         description: Obteve mais de 10 seguidores
         name: Pessoa interessante
+      investor: 
+        name: Investidor
       merit_medal: 
         description: Obter 200 votos positivos
         name: Medalha de mérito

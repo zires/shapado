@@ -1,7 +1,8 @@
-# Messages for Portuguese (Português)
+# Messages for Portuguese (português)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Hamilton Abreu
+# Author: Luckas
 # Author: Waldir
 pt-PT: 
   feeds: 
@@ -13,22 +14,58 @@ pt-PT:
     tag: Subscrever a categoria
     user: Subscrever as perguntas do utilizador
   global: 
+    actions: Ações
     active: Activar
+    alphabetically: Em ordem alfabética
     anonymous: Anónimo
+    blog: Blog
     by: por
-    current: Actual
+    by_semi: "Por:"
+    current: Atual
+    edited: Editado
+    edited_by: Editado por
+    edited_by_semi: "Editado por:"
+    follow: Seguir
+    followed_by: "Seguido por:"
+    following: Seguindo
     from: de %{site}
     group_not_found: A página %{url} não existe
+    home: Início
+    next_button: Seguinte
+    open: Abrir
     or: ou
     permission_denied: Permissão negada
     please_login: Inicie uma sessão, por favor
     preview: Antevisão
     previous: Anterior
+    privacy: Privacidade
     share: Partilhar
+    size: Tamanho
+    sort_by: "Ordenar por:"
+    tags_label: "Etiquetas:"
+    unfollow: Deixar de seguir
+    unknown_place: Desconhecido
+    upgrade: Atualizar
+    view: Ver
+    view_question: Ver pergunta
+    what_to_do: O que quer fazer?
   models: 
     question: A pergunta
+  number: 
+    x_time: 
+      one: "%{count} vez"
+      other: "%{count} vezes"
+      zero: Nunca
+  preferred_languages: 
+    any: Qualquer
+    user: Meus idiomas preferidos
+  roles: 
+    moderator: Moderador
+    owner: Proprietário
+    user: Usuário normal
   scaffold: 
     add: Adicionar
+    are_you_sure: Tem certeza?
     back: Voltar
     cancel: Cancelar
     close: Fechar
@@ -43,7 +80,12 @@ pt-PT:
     send: Enviar
     show: Mostrar
     sure: Tem a certeza de que pretende apagar este %{model}?
-    update: Actualizar
+    update: Atualizar
   time: 
     ago: "%{time} atrás"
     today: hoje
+    yesterday: ontem
+  views: 
+    pagination: 
+      first: Primeiro
+      last: Último

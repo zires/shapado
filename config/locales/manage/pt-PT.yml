@@ -3,6 +3,7 @@
 # Export driver: syck-pecl
 # Author: Analuisa
 # Author: Hamilton Abreu
+# Author: Luckas
 pt-PT: 
   admin: 
     manage: 
@@ -51,6 +52,7 @@ pt-PT:
           title: Propriedades do grupo
         invitations: 
           resend_button: Reenviar
+          revoke_button: Revogar
         invite: 
           emails_instructions: Digite os e-mails separados por vírgulas
           invitations: Convites enviados

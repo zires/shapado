@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Hamilton Abreu
+# Author: Luckas
 # Author: Luckas Blade
 pt-PT: 
   activerecord: 
@@ -27,6 +28,8 @@ pt-PT:
     index: 
       create_page: Criar página nova
       title: Lista de páginas
+      wiki: Wiki
+      wiki_pages: Páginas wiki
       written_in: Escrita em %{language}
     new: 
       title: Página nova

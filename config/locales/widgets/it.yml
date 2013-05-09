@@ -1,6 +1,7 @@
 # Messages for Italian (italiano)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Beta16
 # Author: Danmaz74
 # Author: Giallu
 # Author: GreenFox
@@ -9,7 +10,7 @@ it:
   widgets: 
     about: 
       description: Questo widget visualizza una breve descrizione del tuo gruppo.
-      title: About
+      title: Informazioni
     adsense: 
       description: Questo widget permette di visualizzare gli annunci di Google AdSense.
       title: AdSense

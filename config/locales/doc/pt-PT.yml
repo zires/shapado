@@ -3,6 +3,7 @@
 # Export driver: syck-pecl
 # Author: Giro720
 # Author: Hamilton Abreu
+# Author: Luckas
 # Author: Luckas Blade
 pt-PT: 
   doc: 
@@ -14,6 +15,7 @@ pt-PT:
       247_all_support: Suporte baseado na internet, correio electrónico, canais de conversação e telefone de disponibilidade permanentemente
       5millions: 5 milhões de visitas/mês
       all_support: Suporte baseado na internet, correio electrónico, canais de conversação e telefone
+      basic: Básico
       basic_restrictions: Sem anúncios personalizados e sem interface totalmente personalizável
       big_sites: Sites de Alto Tráfego
       custom_ads: Usar anúncios próprios
@@ -24,14 +26,18 @@ pt-PT:
       free_plan: Plano Grátis
       getting_popular: A Tornar-se Popular
       huge_sites: Sites de Tráfego Enorme
+      maximum: Máximo
       month: mês
+      optimum: Ótimo
       page_views: Para Sites Pequenos/Particulares
       plans: Planos
+      private: Privado
       private_site: Permitir acesso público/privado
       start_monetizing: comece a ganhar dinheiro
       support: Suporte
       title: Planos e preços
       unlimited: Tráfego ilimitado a cada mês
+      user: usuário
       we_offer: Também oferecemos
       web_support: Suporte baseado na internet
       with_unlimited: com tráfego ilimitado, sem anúncios personalizados e sem domínio próprio.

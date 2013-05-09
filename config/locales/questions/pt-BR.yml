@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Giro720
+# Author: Luckas
 # Author: Luckas Blade
 # Author: Vgeorge
 pt-BR: 
@@ -10,6 +11,7 @@ pt-BR:
       question: 
         answers: Respostas
         asked_by: Perguntado por
+        banned: Banido
         body: Conteúdo
         closed: Fechada
         created_at: Perguntado
@@ -26,6 +28,7 @@ pt-BR:
   questions: 
     answer: 
       add_comment: Adicionar comentário...
+      favorite: Salvar
       flag: Reportar
       pick_answer: Escolher como solução
       unset_answer: Retirar como solução?
@@ -39,6 +42,7 @@ pt-BR:
       adult_content: Esta pergunta envolve conteúdo para adultos.
       body_tip: Qual é a sua pergunta? Seja descritivo.
       language_tip: Selecione o idioma da sua pergunta.
+      remove_attachment: Remover
       tags_tip: Use tags para acrescentar informação sobre a sua pergunta.
     index: 
       active: Ativas
@@ -72,6 +76,7 @@ pt-BR:
       title: Perguntar
     question: 
       accepted_tooltip: Esta pergunta tem uma resposta que foi aceita
+      answer_verb: Responder
     retag: 
       title: Alterar tag
     retag_form: 
@@ -97,7 +102,9 @@ pt-BR:
       flag: Reportar
       flagged_as: Reportada como
       flags: Reportada como
+      history: Histórico
       last_activity: Atividade mais recente
+      more_actions: Mais ações
       open: Aberta
       related_questions: Perguntas relacionadas
       request_closing: Pedir encerramento
@@ -120,6 +127,9 @@ pt-BR:
       filter: Pesquisar tags
       title: Tags
       tooltip: Mostrar perguntas na tag %{tag}
+    toolbar: 
+      more_actions: Mais ações
+      requests: Pedidos
     unanswered: 
       empty: Este grupo não contém perguntas sem resposta.
       expert: Peritos

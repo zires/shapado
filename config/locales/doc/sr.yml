@@ -1,6 +1,7 @@
 # Messages for Serbian (Cyrillic script) (српски (ћирилица)‎)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Milicevic01
 # Author: Rancher
 sr: 
   doc: 
@@ -28,7 +29,7 @@ sr:
       custom_js: Додајте свој јаваскрипт
       custom_js_tip: Додајте прилагођени јаваскрипт код као што су мултимедијални елементи или jQuery прикључци.
       custom_themes: Користите наше прилагођене теме
-      custom_ui: Потпуно прилагодљиво сучеље
+      custom_ui: Потпуно прилагодљиви кориснички интерфејс
       free_plan: бесплатан план
       getting_popular: Стицање популарности
       huge_sites: Мрежна места с огромним прометом

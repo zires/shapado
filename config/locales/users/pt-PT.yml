@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Hamilton Abreu
+# Author: Luckas
 # Author: Waldir
 pt-PT: 
   activerecord: 
@@ -29,7 +30,7 @@ pt-PT:
         preferred_tags: Categorias preferidas
         reputation: Reputação
         timezone: Localização
-        updated_at: actualizado em
+        updated_at: atualizado em
         website: Site na internet
     models: 
       user: Utilizador
@@ -70,6 +71,8 @@ pt-PT:
       filter: Pesquisar utilizadores
       name: Nome
       name_tooltip: Utilizadores por ordem alfabética
+      near: Perto de você
+      near_tooltip: Usuários que estão perto de você
       newest: Mais recentes
       newest_tooltip: Utilizadores que acabam de aderir
       oldest: Mais antigos
@@ -84,11 +87,19 @@ pt-PT:
       submit: Registar
       title: Registar-se como novo utilizador
     show: 
+      edit_profile: Editar perfil
       follow: Seguir
       followers: Seguidores
       following: A seguir
       title: Utilizador %{user}
       unfollow: Deixar de seguir
       views: visitas
+    top_user: 
+      connect: Conectar
+      profile: Perfil
     unfollow: 
       flash_notice: O utilizador %{user} foi removido dos seus amigos
+    user_mini: 
+      admin: "[ Administrador ]"
+      editor: "[ Editor ]"
+      mod: "[ Moderador ]"

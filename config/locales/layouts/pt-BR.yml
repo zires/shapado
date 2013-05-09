@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Giro720
+# Author: Luckas
 # Author: Luckas Blade
 # Author: Vgeorge
 pt-BR: 
@@ -46,6 +47,7 @@ pt-BR:
       properties: Propriedades
       reputation: Reputação
       rewards: Recompensas
+      social: Social
       stats: Estatísticas
       theme: Tema
       widgets: Widgets

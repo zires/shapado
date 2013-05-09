@@ -3,6 +3,7 @@
 # Export driver: syck-pecl
 # Author: Analuisa
 # Author: Hamilton Abreu
+# Author: Luckas
 # Author: Waldir
 pt-PT: 
   activerecord: 
@@ -47,7 +48,7 @@ pt-PT:
       remove_attachment: Remover
       tags_tip: Use categorias para fornecer mais informação sobre a sua pergunta.
     index: 
-      active: Activas
+      active: Ativas
       active_tooltip: Perguntas actualizadas recentemente
       ask_question: Fazer pergunta
       empty: Ainda ninguém fez nenhuma pergunta. Seja o primeiro!
@@ -80,12 +81,13 @@ pt-PT:
       title: Fazer pergunta
     question: 
       accepted_tooltip: Esta pergunta tem uma resposta que foi aceite
+      answer_verb: Responder
       wiki_title: "Wiki: %{title}"
     retag: 
       title: Recategorizar
     retag_form: 
       cancel: Cancelar
-      submit: Actualizar categorias!
+      submit: Atualizar etiquetas!
       title: Actualizar categorias
     retag_to: 
       failure: Desculpe, não foi possível actualizar as categorias.
@@ -106,7 +108,9 @@ pt-PT:
       flag: Reportar
       flagged_as: Reportada como
       flags: Reportada como
+      history: Histórico
       last_activity: Actividade mais recente
+      more_actions: Mais ações
       open: Aberta
       related_questions: Perguntas relacionadas
       request_closing: Pedir encerramento
@@ -129,6 +133,9 @@ pt-PT:
       filter: Pesquisar categorias
       title: Categorias
       tooltip: Mostrar perguntas na categoria %{tag}
+    toolbar: 
+      more_actions: Mais ações
+      requests: Pedidos
     unanswered: 
       empty: Este grupo não contém perguntas sem resposta.
       expert: Peritos

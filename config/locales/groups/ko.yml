@@ -12,7 +12,7 @@ ko:
         domain: 도메인
         fb_button: 페이스 북의 Like 버튼을 활성화 (프라이버시 노출 위험이 있음)
         forum: 개별 사용자가 둘 이상의 대답을 게시할 수 있도록 허용
-        group_created_by: 만든 이
+        group_created_by: 만든이
         language: 언어
         legend: 범례
         logo: 로고

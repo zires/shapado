@@ -2,12 +2,19 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Hamilton Abreu
+# Author: Luckas
 # Author: Luckas Blade
 pt-PT: 
   layouts: 
     application: 
+      all: Todos
       ask_question: Fazer pergunta
       badges: Condecorações
+      by_me: Por mim
+      collaborate: Colaborar
+      contributed: Contribuído
+      follow_us_and_share: Siga-nos e compartilhe
+      followed: Seguido
       forgot: Esqueceu-se?
       home: Início
       languages: Línguas
@@ -20,9 +27,11 @@ pt-PT:
       openid: 
         explaination: "Se pretende registar-se ou entrar, seleccione o seu fornecedor de OpenID, por favor:"
       pages: Páginas
+      preferred: Preferido
       questions: Perguntas
       questions_in: Perguntas em
       questions_tagged: categorizada em
+      random_question: Pergunta aleatória
       search: Pesquisar
       settings: Definições
       signup: Registar-se
@@ -33,20 +42,25 @@ pt-PT:
       users: Utilizadores
       welcome_from: Bem-vindo(a)! Pode
     manage: 
+      access: Acesso
       actions: Acções
       announcements: Notificações do site
+      appearance: Aparência
       constrains: Requisitos
       content: Conteúdo
       dashboard: Painel
       domain: Domínio
       general: Geral
+      invitations: Convites
       members: Membros
       pages: Páginas
       properties: Propriedades
       reputation: Reputação
       rewards: Prémios
+      social: Social
       stats: Estatísticas
       theme: Tema
+      themes: Temas
       widgets: Widgets
     notifications: 
       message: Se não pretende voltar a receber notificações automáticas de %{group}, altere as suas preferências na página das notificações.

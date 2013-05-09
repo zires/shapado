@@ -1,6 +1,7 @@
 # Messages for Brazilian Portuguese (português do Brasil)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Luckas
 # Author: Vgeorge
 pt-BR: 
   notifier: 
@@ -22,6 +23,7 @@ pt-BR:
       message4: Se não recebermos uma resposta sua tão cedo, perguntaremos a outra pessoa; Você ainda poderá responder quando quiser.
     global: 
       hi: Olá %{user},
+      hi_no_user: Olá,
       user_page: página de usuário
     new_answer: 
       message: "%{user} deu a resposta %{new_answer} à pergunta %{question}"

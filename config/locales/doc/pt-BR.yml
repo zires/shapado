@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Giro720
+# Author: Luckas
 # Author: Luckas Blade
 pt-BR: 
   doc: 
@@ -33,6 +34,7 @@ pt-BR:
       support: Suporte
       title: Planos e preços
       unlimited: Tráfego ilimitado a cada mês
+      user: usuário
       we_offer: Também oferecemos um
       web_support: Suporte baseado na internet
       with_unlimited: com tráfego ilimitado, sem anúncios personalizados e sem domínio próprio.

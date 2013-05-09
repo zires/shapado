@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Hamilton Abreu
+# Author: Luckas
 pt-PT: 
   notifier: 
     earned_badge: 
@@ -22,6 +23,7 @@ pt-PT:
       message4: Se não recebermos uma resposta sua rapidamente, perguntaremos a outra pessoa. Continuará a poder responder quando quiser.
     global: 
       hi: Olá %{user},
+      hi_no_user: Olá,
       user_page: página de utilizador
     new_answer: 
       message: "%{user} deu a resposta %{new_answer} à pergunta %{question}"

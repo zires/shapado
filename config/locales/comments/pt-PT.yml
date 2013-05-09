@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Hamilton Abreu
+# Author: Luckas
 pt-PT: 
   comments: 
     create: 
@@ -14,7 +15,7 @@ pt-PT:
       reply: Resposta
       said: disse
     update: 
-      flash_notice: O comentário foi actualizado.
+      flash_notice: O comentário foi atualizado.
   models: 
     comment: Comentário
     comments: Comentários

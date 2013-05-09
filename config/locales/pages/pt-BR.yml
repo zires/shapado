@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Giro720
+# Author: Luckas
 # Author: Luckas Blade
 pt-BR: 
   activerecord: 
@@ -27,6 +28,8 @@ pt-BR:
     index: 
       create_page: Criar nova página
       title: Lista de páginas
+      wiki: Wiki
+      wiki_pages: Páginas wiki
       written_in: Escrita em %{language}
     new: 
       title: Nova página

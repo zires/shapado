@@ -3,6 +3,7 @@
 # Export driver: syck-pecl
 # Author: Giro720
 # Author: Hamilton Abreu
+# Author: Luckas
 pt-PT: 
   wiki: 
     actions: 
@@ -13,7 +14,7 @@ pt-PT:
     diff: 
       title: Diferenças entre %{prev} e %{curr}
     history: 
-      current_version: Versão actual
+      current_version: Versão atual
       previous_versions: Versões anteriores
       title: Histórico (%{count})
       version: Versão

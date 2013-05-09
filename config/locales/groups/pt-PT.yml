@@ -3,6 +3,7 @@
 # Export driver: syck-pecl
 # Author: Analuisa
 # Author: Hamilton Abreu
+# Author: Luckas
 # Author: Malafaya
 pt-PT: 
   activerecord: 
@@ -30,6 +31,7 @@ pt-PT:
       default_tags_message: Não pode ter mais do que 10 categorias predefinidas
       group: Grupo
       groups: Grupos
+      reputation_rewards_key: Chave inválida
   groups: 
     connect_group_to_twitter: 
       failed_twitter_connection: Desculpe, algo correu mal. Por favor, tente novamente.
@@ -62,7 +64,7 @@ pt-PT:
       close_group: Fechar este grupo
       disallow_ads: Não permitir anúncios
     index: 
-      actives: Activos
+      actives: Ativos
       create_your_own: Crie o seu próprio grupo
       filter: Pesquisar grupos
       most_active: Mais activos
