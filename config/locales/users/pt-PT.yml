@@ -8,7 +8,7 @@ pt-PT:
   activerecord: 
     attributes: 
       user: 
-        activated_at: activado em
+        activated_at: ativado em
         activation_code: Código de activação
         age: Idade
         asked_by: feita por

@@ -17,7 +17,7 @@ pt-PT:
     actions: 
       create_page: Criar página nova
       edit_page: Editar página
-      title: Acções
+      title: Ações
     create: 
       success: A página foi criada.
     edit: 
