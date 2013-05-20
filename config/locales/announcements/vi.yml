@@ -1,0 +1,21 @@
+# Messages for Vietnamese (Tiếng Việt)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Tuankiet65
+vi: 
+  activerecord: 
+    attributes: 
+      announcement: 
+        ends_at: Kết thúc vào lúc
+        message: Nhắn tin
+        only_anonymous: Chỉ dành cho những người dùng vô danh
+        starts_at: Bắt đầu vào lúc
+  announcements: 
+    actions: 
+      delete: Xóa
+      title: Các hành động
+    create: 
+      success: Thông báo của bạn đã được tạo thành công.
+    index: 
+      description: Quản lý và tạo ra các thông báo mà sẽ được hiển thị tới người dùng trên trang web
+      title: Các thông báo

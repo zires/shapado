@@ -1,0 +1,8 @@
+# Messages for Vietnamese (Tiếng Việt)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Tuankiet65
+vi: 
+  custom_html: 
+    question_help: Cung cấp càng nhiều thông tin càng tốt để tránh những cuộc thảo luận dài vô tận. Cố gắng để làm câu hỏi rõ ràng và đơn giản.
+    question_prompt: câu hỏi của bạn là gì? nhớ câu hỏi phải có tính mô tả.

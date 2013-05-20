@@ -1,0 +1,19 @@
+# Messages for Vietnamese (Tiếng Việt)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Tuankiet65
+vi: 
+  activerecord: 
+    models: 
+      activities: Các hoạt động
+      activity: Hoạt động
+  activity: 
+    asked: đã yêu cầu
+    changed: đã thay đổi
+    created: đã tạo
+    deleted: đã xóa
+    destroyed: đã xóa
+    flagged: đã gắn cờ
+    requested_to_close: đã yêu cầu để đóng
+    requested_to_open: đã yêu cầu để mở
+    updated: đã cập nhật

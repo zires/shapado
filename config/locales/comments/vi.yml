@@ -1,0 +1,20 @@
+# Messages for Vietnamese (Tiếng Việt)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Tuankiet65
+vi: 
+  comments: 
+    create: 
+      flash_notice: Cảm ơn vì bình luận của bạn
+    edit: 
+      title: Sửa bình luận
+    shared: 
+      add_comment: Thêm bình luận...
+      comment_submit: Gửi bình luận
+      reply: Trả lời
+      said: nói
+    update: 
+      flash_notice: Đã cập nhật bình luận.
+  models: 
+    comment: Bình luận
+    comments: Các bình luận

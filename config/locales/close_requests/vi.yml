@@ -1,0 +1,34 @@
+# Messages for Vietnamese (Tiếng Việt)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Tuankiet65
+vi: 
+  close_requests: 
+    create: 
+      flash_notice: Đã tạo yêu cầu đóng câu hỏi
+    destroy: 
+      flash_notice: Đã xóa yêu cầu đóng câu hỏi
+    edit: 
+      title: Chỉnh sửa yêu cầu đóng
+    form: 
+      close_with_reason: Đóng câu hỏi bằng cách sử dụng lý do này
+      dupe: Trùng lặp
+      no_question: Không phải là một câu hỏi
+      not_relevant: Không có liên quan
+      ot: Không thuộc chủ đề
+      request_closing_details: Yêu cầu đóng câu hỏi này
+      retract: Rút lại
+      spam: spam
+    index: 
+      title: Danh sách các yêu cầu đóng câu hỏi
+    model: 
+      attributes: 
+        comment: Bình luận
+        reason: Lí do
+        user: Thành viên
+      messages: 
+        already_requested: Bạn đã yêu cầu đóng câu hỏi này rồi
+      name: Các yêu cầu đóng câu hỏi
+      prural_name: Các yêu cầu đóng câu hỏi
+    update: 
+      flash_notice: Đã cập nhật yêu cầu đóng câu hỏi

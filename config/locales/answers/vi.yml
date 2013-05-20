@@ -1,0 +1,30 @@
+# Messages for Vietnamese (Tiếng Việt)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Tuankiet65
+vi: 
+  activerecord: 
+    attributes: 
+      answer: 
+        body: Nội dung
+        created_at: Tạo ra vào lúc
+        link: Liên kết
+    models: 
+      answer: Câu trả lời
+      answers: Câu trả lời
+  answers: 
+    create: 
+      annon_notice: Người dùng với tên này đã đăng kí, xin vui lòng đăng nhập
+      flash_error: "Có gì đó đã xảy ra khi thêm câu trả lời của bạn.\n Hãy nhớ rằng\n - Bạn không được phép đăng câu trả lời không có nội dung hay lặp lại nội dung của câu trả lời khác\n - Bạn cần chờ 20 giây trước khi đăng thêm câu trả lời khác\n - Bạn chỉ có thể đăng 1 câu trả lời cho mỗi câu hỏi"
+      flash_notice: Cám ơn!
+    edit: 
+      title: Chỉnh sửa câu trả lời
+    form: 
+      answer_label: Trả lời câu hỏi này
+      comment_label: Bình luận về câu trả lời này
+      comment_submit: Gửi bình luận
+      submit: Gửi câu trả lời
+    revert: 
+      title: Lùi lại câu trả lời
+    update: 
+      flash_notice: Câu trả lời đã được cập nhật thành công.
