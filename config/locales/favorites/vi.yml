@@ -1,0 +1,13 @@
+# Messages for Vietnamese (Tiếng Việt)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Tuankiet65
+vi: 
+  activerecord: 
+    models: 
+      favorite: Câu hỏi yêu thích
+      favorites: Các câu hỏi yêu thích
+  favorites: 
+    create: 
+      success: Câu hỏi đã được thêm vào danh sách yêu thích
+      unauthenticated: Bạn cần một tài khoản để thêm vào danh sách yêu thích.

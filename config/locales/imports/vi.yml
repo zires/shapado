@@ -1,0 +1,10 @@
+# Messages for Vietnamese (Tiếng Việt)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Tuankiet65
+vi: 
+  imports: 
+    subtabs: 
+      need_confirmation: 
+        name: Cần phải xác nhận
+        title: Gửi email xác nhận

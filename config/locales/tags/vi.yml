@@ -1,0 +1,13 @@
+# Messages for Vietnamese (Tiếng Việt)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Tuankiet65
+vi: 
+  tags: 
+    index: 
+      filter: Tìm thẻ
+    show: 
+      title: Câu hỏi được dán nhãn %{tags}
+    show_json: 
+      edit_it: Thêm miêu tả cho thẻ này.
+      no_description: Chưa có miêu tả cho thẻ này.

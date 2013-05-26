@@ -1,11 +1,20 @@
-# Messages for Polish (Polski)
+# Messages for Polish (polski)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Ty221
 # Author: Woytecr
 pl: 
+  activerecord: 
+    models: 
+      activities: Aktywność
+      activity: Aktywność
   activity: 
     asked: zadano
     changed: zmieniono
     created: utworzono
     deleted: usunięto
+    destroyed: usunięty
+    flagged: oflagowany
+    requested_to_close: zgłoszony do zamknięcia
+    requested_to_open: zgłoszony do otwarcia
     updated: zmodyfikowano

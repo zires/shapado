@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Sp5uhe
+# Author: Ty221
 pl: 
   activerecord: 
     attributes: 
@@ -17,4 +18,5 @@ pl:
     create: 
       success: Ogłoszenie zostało utworzone.
     index: 
+      description: Zarządzanie i tworzenie nowych ogłoszeń, które będą wyświetlane strony internetowej dla odwiedzających.
       title: Ogłoszenia
