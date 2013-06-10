@@ -1,0 +1,12 @@
+# Messages for tarandíne (tarandíne)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Joetaras
+roa-tara: 
+  rewards: 
+    close: 
+      error: Tu è abbesògne de aspettà %{time} apprime de premià sta ricombense.
+    start: 
+      active_notice: Sta domande tène ggià 'na ricombense attive.
+      reputation_notice: Non ge tìne abbastanze reputazione pe ccrejà 'nu premie sus a sta domande.
+      wait_notice: Tu è abbesògne de aspettà pe 2 sciurne apprime de offrì 'nu premie sus a sta domande.

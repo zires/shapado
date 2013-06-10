@@ -26,7 +26,7 @@ el:
         description: Συμπληρώστε όλα τα πεδία στο προφίλ σας
         name: Αυτοβιογράφος
       celebrity: 
-        description: Αποκτήστε περισσότερους από 100 οπαδούς
+        description: Αποκτήστε περισσότερους από 100 ακόλουθους
         name: Διασημότητα
       citizen_patrol: 
         description: Αναφέρετε ανάρτηση για πρώτη φορά
@@ -48,6 +48,7 @@ el:
         name: Πειθαρχημένος
       editor: 
         description: Επεξεργαστείτε ανάρτηση για πρώτη φορά
+        name: Συντάκτης
       effort_medal: 
         description: Αποκτήστε 100 θετικές ψήφους
       enlightened: 
@@ -81,8 +82,10 @@ el:
       inquirer: 
         description: Κάνατε  μια ερώτηση για πρώτη φορά
       interesting_person: 
-        description: Αποκτήστε περισσότερους από 10 οπαδούς
+        description: Αποκτήστε περισσότερους από 10 ακόλουθους
         name: Ενδιαφέρον πρόσωπο
+      investor: 
+        name: Επενδυτής
       merit_medal: 
         description: Αποκτήστε 200 θετικές ψήφους
       necromancer: 
@@ -127,7 +130,7 @@ el:
       shapado: 
         description: Επισκεφθείτε το site κάθε μέρα για 8 συνεχόμενες ημέρες
       stellar_question: 
-        description: Κάντε ερώτηση που θα αγαπηθεί από 100 μέλη
+        description: Κάντε ερώτηση που θα ακολουθήσουν 100 μέλη
         name: Ερώτηση αστέρι
       student: 
         description: Κάντε την πρώτη σας ερώτηση που θα πάρει τουλάχιστον μία θετική ψήφο

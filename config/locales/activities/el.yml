@@ -3,6 +3,10 @@
 # Export driver: syck-pecl
 # Author: Glavkos
 el: 
+  activerecord: 
+    models: 
+      activities: Δραστηριότητες
+      activity: Δραστηριότητα
   activity: 
     asked: ρωτήθηκε
     changed: αλλάχτηκε

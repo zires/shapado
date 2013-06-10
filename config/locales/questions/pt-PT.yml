@@ -18,7 +18,7 @@ pt-PT:
         language: Língua
         tags: Categorias
         title: Título
-        updated_at: actualizada
+        updated_at: atualizada
         updated_by: actualizada por
         views: Visitas
         votes: Votos
@@ -88,9 +88,9 @@ pt-PT:
     retag_form: 
       cancel: Cancelar
       submit: Atualizar etiquetas!
-      title: Actualizar categorias
+      title: Atualizar categorias
     retag_to: 
-      failure: Desculpe, não foi possível actualizar as categorias.
+      failure: Desculpe, não foi possível atualizar as categorias.
       success: As categorias foram actualizadas.
     revert: 
       title: Reverter a pergunta
