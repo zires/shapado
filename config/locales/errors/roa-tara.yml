@@ -9,9 +9,14 @@ roa-tara:
       title: Accesse negate
     go_to: Vèje sus 'a pàgene %{link}
     help_us_answer: Danne 'na màne a responnere %{link}
+    internal_error: 
+      explanation: Nuje amme notificate sus a 'u probbleme e sce ddame 'n'occhiate subbete subbete.
+      title: Ne despiace, ma quaccheccose ha sciute stuèrte.
     not_found: 
+      explanation: Tu puè avè scritte male l'indirizze o 'a pàgene pò essere ca ha state spustate.
       title: Pàgene none acchiate.
     options_label: "Otre cose da pruvà:"
     search: Cirche
     unprocessable_entity: 
+      explanation: Pò essere ca è pruvate a cangià quacchecose addò tu non ge tìne l'accesse.
       title: "'U cangiamende ca tu vulive ha state scettate."

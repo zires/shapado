@@ -1,0 +1,23 @@
+# Messages for Lithuanian (lietuvių)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Eitvys200
+# Author: Mantak111
+lt: 
+  welcome: 
+    confirm_age: 
+      over_18: Man daugiau nei 18
+      under_18: Man mažiau nei 18
+      warning: "DĖMESIO: Šiame puslapyje gali būti aiški erotinė medžiaga."
+    feedback: 
+      captcha_notice: Dėkojame už jūsų atsiliepimus, mes susisieksime su jums kuo greičiau.
+      email_description: Prašome pateikti savo elektroninio pašto adresą, mes galime atsakyti į jūsų laišką
+      feedback_description: Aprašymas
+      feedback_title: Pavadinimas
+      title: Siųskite atsiliepimus
+    index: 
+      active: Aktyvus
+      browse_by_tags: naršyti pagal žymes
+      full_list_of_questions: Pilnas klausymų sąrašas
+      quick_question: Užduokite klausimą, mes surasime ką nors atsakyti į klausimą
+      recent_questions: Naujausi klausymai

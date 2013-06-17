@@ -1,0 +1,110 @@
+# Messages for Lithuanian (lietuvių)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Eitvys200
+# Author: Mantak111
+lt: 
+  activerecord: 
+    models: 
+      badge: Ženklelis
+      badges: Ženkleliai
+  badges: 
+    index: 
+      bronze: Bronza
+      description: Visi ženkleliai, kuriuos galite uždirbti. Pasidalinkite savo žiniomis, užsidirbkite ženklelius.
+      gold: Auksas
+      silver: Sidabras
+      title: ženkleliai
+    shared: 
+      addict: 
+        description: Aplankė svetainę kiekvieną dieną 20 dienų iš eilės
+        name: Narkomanas
+      autobiographer: 
+        name: Autobiograferis
+      celebrity: 
+        name: Garsenybė
+      cleanup: 
+        name: Valymas
+      commentator: 
+        description: Liko 10 komentarų
+        name: Komentatorius
+      critic: 
+        description: Balsavo neigiamai, pirmą kartą
+        name: Kritikas
+      editor: 
+        description: Redaguota pranešimą pirmą kartą
+        name: Redaktorius
+      effort_medal: 
+        description: Gavo 100 teigiamų balsų
+      famous_question: 
+        description: Paklaustas klausimas su 10.000 peržiūrų
+        name: Populiarus klausimas
+      fanatic: 
+        description: Aplankė svetainę kiekvieną dieną 100 dienų iš eilės
+        name: Fanatikas
+      favorite_question: 
+        description: Paklausė klausimą kuri mėgsta 25 vartotojai
+        name: Mėgstamiausias klausimas
+      friendly: 
+        name: Draugiškas
+      good_answer: 
+        description: Parašė atsakymą, kuris pasiekė daugiau kaip 25 balsų vidurkį
+        name: Geras atsakymas
+      good_question: 
+        description: Paklausė, klausimo, kuris pasiekė daugiau nei 25 balsų vidurkį
+        name: Geras klausimas
+      great_answer: 
+        name: Puikus atsakymas
+      great_question: 
+        name: Puikus klausimas
+      guru: 
+        description: Išsprendė klausimą su daugiau nei 40 balsų vidurkiu
+        name: Guru
+      inquirer: 
+        description: Uždavė klausimą, pirmą kartą
+      investor: 
+        name: Investuotojas
+      merit_medal: 
+        description: Gavo 200 teigiamų balsų
+      nice_answer: 
+        name: Geras atsakymas
+      notable_question: 
+        description: Paklaustas klausimas su 2.500 peržiūrų
+      organizer: 
+        name: Organizatorius
+      pioneer: 
+        description: Buvo vienas iš pirmųjų užsiregistravusiu vartotojų
+        name: Pionierius
+      popstar: 
+        description: Turi 500 teigiamų balsų, 10 neigiamų balsų daugiausia
+        name: Pop žvaigždė
+      popular_person: 
+        description: Gavo daugiau nei 50 pasekėjų
+        name: Populiarus asmuo
+      popular_question: 
+        description: Paklaustas klausimas su 1.000 peržiūrų
+        name: Populiarus klausimas
+      rockstar: 
+        description: Turi 1000 teigiamų balsų, 10 neigiamų balsų daugiausia
+        name: Roko žvaigždė
+      service_medal: 
+        description: Turi 300 teigiamu balsų
+        name: Paslaugų medalis
+      shapado: 
+        description: Aplankė svetainę kiekvieną dieną 8 dienas iš eilės
+      student: 
+        name: Studentas
+      supporter: 
+        description: Balsavo teigiamai, pirmą kartą
+        name: Rėmėjas
+      troubleshooter: 
+        description: Atsakė pirmą kartą
+      tutor: 
+        description: Išsprendė klausimą su daugiau nei 2 balsų vidurkiu
+    show: 
+      description: "Vartotojai, kurie uždirbo šį ženklelį. Paskutiniai apdovanoti:"
+      earned: uždirbo
+      for_tag_bronze: 200 balsų žymėje %{tag}
+      for_tag_gold: 1000 balsų žymėje %{tag}
+      for_tag_silver: 400 balsų žymėje %{tag}
+      title: Ženklelis %{type}

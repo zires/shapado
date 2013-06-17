@@ -1,6 +1,7 @@
 # Messages for Swedish (svenska)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Jopparn
 # Author: WikiPhoenix
 sv: 
   themes: 
@@ -13,12 +14,12 @@ sv:
       custom_css_legend: Om du kan koda i CSS, använd detta för att anpassa utseendet på din webbplats. Du kan antingen använda vanlig CSS eller SCSS.
       layout_html: Lägg till din anpassade mall för layouten
       main_color_legend: Detta är en av de mest använda färgen på varje sida, se till att du väljer den rätta för ditt varumärke eller gemenskap.
-      modules_color_legend: Se till att denna färg och huvudfärgen stämmer överens fint.
+      modules_color_legend: Se till att denna färg och huvudfärgen överensstämmer på ett fint sätt.
       questions_index_html: Lägg till din anpassade mall för frågeindexet
       questions_show_html: Lägg till din anpassade mall för frågeshowen
       submit_update: Uppdatera tema
       text_color_legend: Se till att din text är lättläst och är kompatibel med bakgrundsfärgen.
-      title: Du redigerar ett tema, var god kontrollera att din färg- och bakgrundsuppsättning stämmer överens.
+      title: Du redigerar ett tema, var god kontrollera att din färg- och bakgrundsuppsättning överensstämmer.
       update: Uppdatera tema
     index: 
       description: Här hittar du din teman och ändra utseendet på din app.

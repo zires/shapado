@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Eitvys200
+# Author: Mantak111
 lt: 
   activerecord: 
     attributes: 
@@ -24,5 +25,7 @@ lt:
       comment_label: Komentuoti šį atsakymą
       comment_submit: Komentuoti
       submit: Atsakyti
+    revert: 
+      title: Grąžinti atsakymą
     update: 
       flash_notice: Atsakymas buvo sėkmingai atnaujintas.

@@ -1,0 +1,22 @@
+# Messages for tarandíne (tarandíne)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Joetaras
+roa-tara: 
+  activerecord: 
+    attributes: 
+      member: 
+        role: Ruole
+  members: 
+    create: 
+      error: Ne dispiace, l'utende **%{user_id}** non g'esiste.
+      notice: "%{login} ha state aggiunde cu successe cumme %{role}."
+    form: 
+      destroy_confirm: Sì secure? Stu utende non g'è cchiù 'nu membre de stu gruppe.
+      login_tip: Cirche cumme l'è scritte tu
+    index: 
+      manage_members_title: Gestisce le membre
+      title: Membre d'u gruppe %{name}
+      title_isolate: Membre de %{name}
+    update: 
+      error: Ne despiace, tu non ge tìne abbastanze permesse pe cangià le **%{login}** de le membre.
