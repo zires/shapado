@@ -11,9 +11,11 @@ lt:
   badges: 
     index: 
       bronze: Bronza
-      description: Visi ženkleliai, kuriuos galite uždirbti. Pasidalinkite savo žiniomis, užsidirbkite ženklelius.
+      description: Kuo daugiau jūs prisidėsite paklausdami ir atsakydami į klausimus, tuo labiau ženkleliai jums bus atlyginta. Jie bus rodomi jūsų profilyje.
+      general: Reguliarūs ženkleliai
       gold: Auksas
       silver: Sidabras
+      tags: Žymės ženkleliai
       title: ženkleliai
     shared: 
       addict: 
@@ -42,8 +44,10 @@ lt:
       fanatic: 
         description: Aplankė svetainę kiekvieną dieną 100 dienų iš eilės
         name: Fanatikas
+      favorite_answer: 
+        name: Mėgstamiausia atsakymas
       favorite_question: 
-        description: Paklausė klausimą kuri mėgsta 25 vartotojai
+        description: Paklausė klausimą kurie sekė 25 vartotojai
         name: Mėgstamiausias klausimas
       friendly: 
         name: Draugiškas
@@ -66,8 +70,12 @@ lt:
         name: Investuotojas
       merit_medal: 
         description: Gavo 200 teigiamų balsų
+      necromancer: 
+        name: Burtininkas
       nice_answer: 
         name: Geras atsakymas
+      nice_question: 
+        name: Geras klausimas
       notable_question: 
         description: Paklaustas klausimas su 2.500 peržiūrų
       organizer: 
@@ -99,6 +107,7 @@ lt:
         name: Rėmėjas
       troubleshooter: 
         description: Atsakė pirmą kartą
+        name: Trikčių diagnostikos priemonė
       tutor: 
         description: Išsprendė klausimą su daugiau nei 2 balsų vidurkiu
     show: 

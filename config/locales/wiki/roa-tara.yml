@@ -1,0 +1,22 @@
+# Messages for tarandíne (tarandíne)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Joetaras
+roa-tara: 
+  wiki: 
+    actions: 
+      all_history: Tuèrne a 'u cunde
+      back_to_question: Tuèrne a 'a domande
+      revert: Annulle a sta versione
+      show_diff: Combronde le versiune scacchiate
+    diff: 
+      title: Differnze 'mbrà %{prev} e %{curr}
+    history: 
+      current_version: Versione de mò
+      previous_versions: Versiune precedende
+      title: Cunde (%{count})
+      version: Versione
+      version_summary: Riepiloghe d'a versione
+    model: 
+      attributes: 
+        message: Riepiloghe

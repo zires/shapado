@@ -1,0 +1,94 @@
+# Messages for tarandíne (tarandíne)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Joetaras
+roa-tara: 
+  widgets: 
+    about: 
+      title: Sus a
+    adsense: 
+      description: Stu ggegge te permette de fà vedè le pubblecetà de Google AdSense.
+      title: AdSense
+    ask_question: 
+      ask: Cirche
+      footer: "'Ndruche tutte le domande sus a %{group}"
+      title: "Fà 'na domande:"
+    badges: 
+      description: Stu ggegge face vedè le badge recende guadagnate da l'utinde.
+      see_all: "'Ndruche tutte le badge"
+      title: Badge recende
+    contributors: 
+      title: Condrebbutore de domande
+    create: 
+      notice: "'U ggegge ha state ccrejate cu successe."
+    custom_html: 
+      description: Aggiunge ogne tipe de HTML ca vuè aqquà.
+    edit: 
+      title: Cange 'u Ggegge
+    group_networks: 
+      description: Stu ggegge face vedè 'n'elenghe de collegaminde de rete suggiale accussì le utinde no ponne seguì d'addà.
+      title: Fatta cu nuje
+    groups: 
+      description: Stu ggegge face vedè le urteme gruppe.
+      title: Gruppe recende
+    index: 
+      add_new: Aggiunge 'nu ggegge nuève
+      description: Ause le frecce pe spustà le ggegge tune.
+      external_widgets: De fore
+      external_widgets_title: Le ggegge ca puè ausà pe 'ngapsulà 'u site tune
+      footer: Pede d'a pàgene
+      header: Testate
+      mainlist_widgets: Elenghe prengepàle
+      mainlist_widgets_title: Le ggegge ca iessene sus 'a l'elenghe prengepàle de le domande
+      name: Nome d'u ggegge
+      navbar: Barre de navigazione
+      question_widgets: Domande
+      question_widgets_title: Le ggegge ca iessene sus a ogne pàgene de domande
+      sidebar: Barre laterale
+      title: Gestisce 'a barre laterale de le ggegge
+      type: "Tipe:"
+      welcome_widgets: Bovègne
+      zone: "Sezione d'a pàgene:"
+    pages: 
+      description: Stu ggegge face vedè l'elenghe de le pàggene de uicchi.
+      new: Aggiunge 'na pàgena nove
+      title: Pàggene de uicchi
+    question_badges: 
+      title: Badge de le domande
+    question_tags: 
+      title: Tag de le domande
+    related_questions: 
+      title: Domande collegate
+    settings: 
+      content: "Mitte l'HTML ca vuè aqquà:"
+      custom_html: "HTML personalizzate:"
+      exclude_css_on_external: Esclude 'u site shapado CSS tune da 'u ggegge tune
+      limit: "Quanditate da fà vedè:"
+      on_questions: Fà vedè sus 'a pàgene de l'elenghe de le domande prengepàle
+      on_show_question: Fà vedè sus 'a visualizzazzione de 'na domande
+      on_welcome: Fà vedè sus 'a pàgene de Bovègne
+      preview: "Andeprime d'u ggegge:"
+    share: 
+      title: Condivide jndr'à
+    sharing_buttons: 
+      title: Condivide quiste sus a
+    tag_cloud: 
+      description: "'U ggegge face vedè 'na nuvole de tag."
+      title: Nuvole de tag
+    tag_list: 
+      title: Tag
+    top_groups: 
+      description: Stu ggegge face vedè le megghie cinghe gruppe.
+      has_members: 
+        other: "'nu=%{count} membre"
+      title: Le megghie 5 gruppe
+    top_users: 
+      description: Stu ggegge face vedè le megghie cinghe utinde.
+      title: Le megghie 5 utinde
+    update: 
+      notice: "'U ggegge ha state aggiornate."
+    users: 
+      description: Stu ggegge face vedè le membre reggistrate nuève nuève.
+      title: Utinde recende
+    widget: 
+      change_position: "Cange 'a posizione d'u ggegge:"

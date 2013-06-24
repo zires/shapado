@@ -1,0 +1,8 @@
+# Messages for Lithuanian (lietuvių)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Mantak111
+lt: 
+  activemodel: 
+    models: 
+      constrains_config: Reputacijos priverstos konfigūracijos

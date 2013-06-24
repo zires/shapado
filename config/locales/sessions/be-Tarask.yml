@@ -3,6 +3,7 @@
 # Export driver: syck-pecl
 # Author: EugeneZelenko
 # Author: Jim-by
+# Author: Red Winged Duck
 be-Tarask: 
   sessions: 
     create: 
@@ -14,7 +15,7 @@ be-Tarask:
       log_in: Увайсьці
       not_registered: Яшчэ не зарэгістраваны?
       registered: Ужо зарэгістраваны?
-      remember_me: Запамятаць мяне
+      remember_me: Запомніць мяне
       sign_in: Увайсьці
       signup: Зарэгіструйцеся
       with_authentication: Увайсьці праз нашую сыстэму аўтэнтыфікацыі
