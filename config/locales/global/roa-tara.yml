@@ -1,0 +1,61 @@
+# Messages for tarandíne (tarandíne)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Joetaras
+roa-tara: 
+  feeds: 
+    feed: Feed
+    question: Scrivete a sta domande
+    questions: Scrivete a tutte le domande
+  global: 
+    actions: Aziune
+    anonymous: Anonime
+    blog: Blog
+    by: da
+    by_semi: "Da:"
+    chat: Ciat
+    edited: Cangiate
+    edited_by: "Cangiate da:"
+    edited_by_semi: "Cangiate da:"
+    feedback: Segnalazione
+    followed_by: "Seguite da:"
+    from: da %{site}
+    home: Pàgena Prengepàle
+    open: Iapre
+    or: o
+    privacy: Privacy
+    share: Condivide
+    sign_up: Reggìstrate
+    size: Dimenzione
+    sort_by: "Urdenate pe:"
+    tags_label: "Tag:"
+    tos: TOS
+    unknown_place: Scanusciute
+    view: Vide
+  preferred_languages: 
+    any: Tutte
+  roles: 
+    moderator: Moderatore
+    owner: Titolare
+  scaffold: 
+    add: Aggiunge
+    back: Rrete
+    cancel: Annulle
+    close: Achiude
+    create: Ccreje
+    destroy: Scangille
+    details: Dettaglie
+    edit: Cange
+    more: De cchiù...
+    save: Reggìstre
+    send: Manne
+    show: Fà vedè
+    update: Aggiorne
+  time: 
+    today: osce
+    yesterday: ajere
+  views: 
+    pagination: 
+      first: Prime
+      last: Urteme
+      truncate: ...

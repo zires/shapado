@@ -1,0 +1,28 @@
+# Messages for tarandíne (tarandíne)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Joetaras
+roa-tara: 
+  mailers: 
+    notifications: 
+      created_flag: 
+        subject: Messàgge nuève signate sus a %{group}
+      earned_badge: 
+        subject: Tu è guadagnate 'nu badge sus a %{group}!
+      favorited: 
+        subject: "%{login} aggiunde 'a domanda toje cumme a 'na preferite!"
+      follow: 
+        subject: "%{login} mò te ste segue sus a %{app}"
+      give_advice: 
+        friend_subject: "L'amiche tune ave abbesògne de 'na màne: %{question_title}"
+        subject: "Nuje amme abbesògne d'u consiglie tune: %{question_title}"
+      new_answer: 
+        subject_friend: L'amiche tune %{login} ave resposte 'a domande %{title}
+        subject_other: "%{login} ave resposte 'a domande %{title}"
+        subject_owner: "%{login} ave resposte 'a domanda toje %{title}"
+      new_comment: 
+        subject: "%{login} ave commendate sus a %{group}"
+      new_invitation: 
+        subject: "%{user} te ste invite a collegarte jndr'à %{group}"
+      report: 
+        subject: Segnale 'u gruppe %{group} de %{app}

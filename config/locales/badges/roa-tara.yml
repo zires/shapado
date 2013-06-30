@@ -1,0 +1,113 @@
+# Messages for tarandíne (tarandíne)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Joetaras
+roa-tara: 
+  activerecord: 
+    models: 
+      badge: Cartelline
+      badges: Cartelline
+  badges: 
+    index: 
+      bronze: Bronze
+      general: Cartelline regolare
+      gold: Ore
+      silver: Argende
+      title: Cartelline
+    shared: 
+      altruist: 
+        name: Altruiste
+      benefactor: 
+        name: Benefattore
+      celebrity: 
+        name: Celebbrità
+      civic_duty: 
+        description: Vutate 300 vote
+        name: Dovere civiche
+      cleanup: 
+        name: Sdevache
+      commentator: 
+        description: Lassate 10 commende
+        name: Commendatore
+      critic: 
+        name: Critiche
+      disciplined: 
+        name: Disciplinate
+      editor: 
+        name: Cangiatore
+      effort_medal: 
+        description: Avute 100 vote positive
+      enlightened: 
+        name: Illuminate
+      famous_question: 
+        description: Resposte a 'na domande cu 10.000 visite
+        name: Domande famose
+      fanatic: 
+        name: Fanatiche
+      favorite_answer: 
+        name: Resposte favorite
+      friendly: 
+        name: Amichevolmende
+      good_answer: 
+        name: Resposta bbone
+      great_answer: 
+        name: Granne resposte
+      great_question: 
+        name: Granne domande
+      guru: 
+        name: Sape tutte
+      inquirer: 
+        name: Inguisitore
+      interesting_person: 
+        name: Crestiane inderessande
+      investor: 
+        name: Investitore
+      merit_medal: 
+        description: Avute 200 vote positive
+        name: Medaglie a 'u merite
+      necromancer: 
+        name: Necromande
+      nice_answer: 
+        name: Bella resposte
+      nice_question: 
+        name: Bella domande
+      notable_question: 
+        description: Resposte a 'na domande cu 2.500 visite
+        name: Domande 'mbortande
+      organizer: 
+        name: Organizzatore
+      peer_pressure: 
+        name: Punde de pressione
+      pioneer: 
+        name: Pioniere
+      popstar: 
+        name: Stelle d'u pop
+      popular_person: 
+        name: Crestiane popolare
+      popular_question: 
+        description: Resposte a 'na domande cu 1.000 visite
+        name: Domande popolare
+      promoter: 
+        name: Promotore
+      rockstar: 
+        name: Stelle d'u rock
+      scholar: 
+        name: Scolare
+      service_medal: 
+        description: E' 300 vote positive
+        name: Medaglie de servizie
+      stellar_answer: 
+        name: Risposte stellare
+      stellar_question: 
+        name: Domande stellare
+      student: 
+        name: Studende
+      supporter: 
+        name: Sostenitore
+      tutor: 
+        name: Tutore
+    show: 
+      earned: guadagnate
+      for_tag_bronze: 200 vote jndr'à 'u tag %{tag}
+      for_tag_gold: 1000 vote jndr'à 'u tag %{tag}
+      for_tag_silver: 400 vote jndr'à 'u tag %{tag}

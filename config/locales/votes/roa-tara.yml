@@ -1,0 +1,37 @@
+# Messages for tarandíne (tarandíne)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Joetaras
+roa-tara: 
+  activerecord: 
+    models: 
+      vote: Vote
+      votes: Vote
+  votes: 
+    comments: 
+      title: 
+        has_no_user_vote: 
+          one: Sulamende %{count} utende ave vutate stu commende, cazze pe vutarle pure tu.
+          other: Cchiù de %{count} crestiane onne vutate stu commende have upvoted this comment, cazze pe vutarle pure tu.
+          zero: Cazze pe vutà stu commende.
+        has_user_vote: 
+          one: Tu e otre %{count} utende onne vutate stu commende.
+          other: Tu e otre %{count} utinde onne vutate stu commende.
+          zero: Sulamende tu è vutate stu commende.
+    control: 
+      have_voted_down: Cazze pe annullà 'u vote negative tune
+      have_voted_up: Cazze pe annullà 'u vote positive tune
+      to_vote_down: Cazze pe vutà negative
+      to_vote_up: Cazze pe vutà positive
+    create: 
+      average: 
+        other: "'nu=%{count} vote"
+      flash_error: Non ge puè vutà quiste
+      flash_notice: Grazie pu vote!
+      unauthenticated: Le utinde anonime non ge ponne vutà
+    destroy: 
+      flash_notice: "'U vote tune ha state luate cu successe."
+    model: 
+      messages: 
+        closed_question: Non ge puè vutà sus a le messàgge de 'na domande achiuse
+        vote_down_comment: Le commedne non ge ponne essere vutate negative

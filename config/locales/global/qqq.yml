@@ -8,6 +8,7 @@
 # Author: Shirayuki
 qqq: 
   feeds: 
+    feed: "{{Identical|Feed}}"
     share_on_twitter: This message allows only 20 characters in a row. Use a line break if the translation is longer than that.
   global: 
     actions: "{{Identical|Action}}"
