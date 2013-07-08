@@ -1,0 +1,22 @@
+# Messages for tarandíne (tarandíne)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Joetaras
+roa-tara: 
+  sessions: 
+    create: 
+      flash_error: Non ge puè trasè cumme '%{login}'
+      flash_notice: E' trasute!
+    destroy: 
+      flash_notice: E' assute fore.
+    new: 
+      log_in: Tràse
+      not_registered: None angore reggistrate?
+      registered: Ggià reggistrate?
+      remember_me: Arrecuèrdame
+      sign_in: Tràse
+      signup: Reggistrate
+      with_authentication: Tràse cu le autendicaziune nuèstre d'u sisteme
+      with_facebook: Tràse cu Feisbuk
+      with_openid: Tràse cu OpenID
+      with_twitter: Tràse cu Tuitter

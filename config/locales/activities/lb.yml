@@ -1,0 +1,14 @@
+# Messages for Luxembourgish (Lëtzebuergesch)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Robby
+lb: 
+  activerecord: 
+    models: 
+      activities: Aktivitéiten
+      activity: Aktivitéit
+  activity: 
+    changed: geännert
+    deleted: geläscht
+    destroyed: geläscht
+    updated: aktualiséiert
