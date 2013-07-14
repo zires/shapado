@@ -1,0 +1,19 @@
+# Messages for tarandíne (tarandíne)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Joetaras
+roa-tara: 
+  searches: 
+    form: 
+      clear: Pulizze
+      search_box_title: Verifiche ce 'a domanda toje ha state ggià respunnute
+      tags_tip: Ause [tag] pe specificà le tag.
+    index: 
+      advanced_search: ricerche avanzate
+      description: Ause le opziune %{link} pe avè resultate cchiù specifice.
+      empty: "'A ricerca toje non ge soddisfe nisciune resultate."
+      found_results: "%{quantity} resultate onne state acchiate."
+      input_legend: Sta ricerce reggistrate adda assè sus 'a barre de navigazione pe 'n'accesse veloce veloce.
+      input_title: "Reggìstre sta ricerche cumme:"
+      search_text: Domande ca tènene
+      tags: jndr'à ste tag

@@ -2,11 +2,12 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Linkr
+# Author: 아라
 ko: 
   activerecord: 
     attributes: 
       answer: 
-        body: 내용
+        body: 본문
         created_at: 답변
         link: 링크
     models: 

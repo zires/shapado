@@ -4,18 +4,31 @@
 # Author: Joetaras
 roa-tara: 
   close_requests: 
+    create: 
+      flash_notice: Richieste de chiusure ccrejate
+    destroy: 
+      flash_notice: Richieste de chiusure scangellate
     edit: 
       title: Cange ìa richieste de chiusure
     form: 
+      close_with_reason: Stoche a chiude sta domande ausanne stu mutive
       dupe: A doppie
       no_question: None 'na domande
       not_relevant: None rilevande
       ot: Fore argomende
+      request_closing_details: Richieste de chiudere sta domande
+      retract: Ritratte
       spam: rummàte
+    index: 
+      title: Elenghe de le richieste de chiusure
     model: 
       attributes: 
         comment: Commende
         reason: Mutive
         user: Utende
+      messages: 
+        already_requested: Tu è ggià richieste de chiudere sta domande
       name: Richieste de chiusure
       prural_name: Richieste de chiusure
+    update: 
+      flash_notice: Richieste de chiusure aggiornate
