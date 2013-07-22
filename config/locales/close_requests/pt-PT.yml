@@ -3,6 +3,7 @@
 # Export driver: syck-pecl
 # Author: Giro720
 # Author: Hamilton Abreu
+# Author: Luckas
 pt-PT: 
   close_requests: 
     create: 
@@ -31,4 +32,4 @@ pt-PT:
       name: Pedido de encerramento
       prural_name: Pedidos de encerramento
     update: 
-      flash_notice: O pedido de encerramento foi actualizado
+      flash_notice: O pedido de encerramento foi atualizado

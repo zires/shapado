@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Hamilton Abreu
+# Author: Luckas
 # Author: Waldir
 pt-PT: 
   activerecord: 
@@ -30,4 +31,4 @@ pt-PT:
     new: 
       title: Reportar o %{model}
     update: 
-      flash_notice: A marcação da questão foi actualizada com sucesso.
+      flash_notice: A marcação da questão foi atualizada com sucesso.

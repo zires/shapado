@@ -70,6 +70,7 @@ br:
       new_answer_notification: Degemer ur postel kelaouiñ pa vez respontoù nevez
       notifications: Kemennoù
       reports_notification: Resev un danevell gant oberiantizoù diwezhañ ar strollad (evit merour ar strollad nemetken)
+      send_comments_to_twitter: Kas ma evezhiadennoù da dTwitter
       show_more_lang: Diskouez yezhoù all
     index: 
       empty: N'eus ezel ebet er strollad-mañ evit ar poent. Kemerit perzh er strollad.
@@ -103,6 +104,7 @@ br:
       no_description: N'en deus ket skrivet an implijer-mañ istor e vuhez c'hoazh.
     top_user: 
       connect: Kevreañ
+      my_karma: "Ma c'harma: %{karma}"
       profile: Profil
     unfollow: 
       flash_notice: Lamet eo bet an implijer %{user} kuit eus ho roll mignoned

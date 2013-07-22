@@ -7,6 +7,7 @@ br:
   jobs: 
     answers: 
       on_create_answer: 
+        group_send_twitter: "%{user} en deus respontet da : %{question}"
         send_twitter: Ma respont da %{question}
       on_favorite_answer: 
         send_twitter: "Plijet on bet gant ur respont digant %{author} diwar-benn : %{question}"

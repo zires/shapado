@@ -51,7 +51,7 @@ pt-PT:
       flash_error: Desculpe, não foi possível criar essa conta. Tente novamente ou contacte um administrador (link está acima), por favor.
       flash_notice: Obrigado por se ter registado!
     edit: 
-      enable_twitter: Activar as suas contas no Facebook ou no Twitter
+      enable_twitter: Ativar as suas contas no Facebook ou no Twitter
       submit: Gravar
       title: Definições
     follow: 

@@ -19,7 +19,7 @@ pt-PT:
         tags: Categorias
         title: Título
         updated_at: atualizada
-        updated_by: actualizada por
+        updated_by: atualizada por
         views: Visitas
         votes: Votos
     models: 
@@ -49,7 +49,7 @@ pt-PT:
       tags_tip: Use categorias para fornecer mais informação sobre a sua pergunta.
     index: 
       active: Ativas
-      active_tooltip: Perguntas actualizadas recentemente
+      active_tooltip: Perguntas que foram atualizadas recentemente
       ask_question: Fazer pergunta
       empty: Ainda ninguém fez nenhuma pergunta. Seja o primeiro!
       help_to_answer: Ajude-nos a responder
@@ -91,7 +91,7 @@ pt-PT:
       title: Atualizar categorias
     retag_to: 
       failure: Desculpe, não foi possível atualizar as categorias.
-      success: As categorias foram actualizadas.
+      success: As categorias foram atualizadas com sucesso.
     revert: 
       title: Reverter a pergunta
     shared: 
@@ -147,6 +147,6 @@ pt-PT:
     unwatch: 
       success: Deixará de receber notificações por correio electrónico por cada nova resposta a esta pergunta.
     update: 
-      flash_notice: A pergunta foi actualizada.
+      flash_notice: A pergunta foi atualizada com sucesso.
     watch: 
       success: Passará a receber notificações por correio electrónico a cada nova resposta a esta pergunta.

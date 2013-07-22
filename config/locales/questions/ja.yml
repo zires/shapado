@@ -70,7 +70,7 @@ ja:
       group_dont_exists: グループ %{group} はありません
       success: 質問はグループ %{group} へ移動しました
     new: 
-      how_to_ask: 質問の方法
+      how_to_ask: 質問方法
       title: 新しい質問
     question: 
       accepted_tooltip: この質問は受け入れられた回答があります

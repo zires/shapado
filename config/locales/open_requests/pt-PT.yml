@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Hamilton Abreu
+# Author: Luckas
 # Author: Waldir
 pt-PT: 
   open_requests: 
@@ -20,4 +21,4 @@ pt-PT:
     new: 
       title: Solicitar a reabertura
     update: 
-      flash_notice: O pedido de reabertura foi actualizado
+      flash_notice: O pedido de reabertura foi atualizado

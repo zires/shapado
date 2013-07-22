@@ -96,7 +96,7 @@ ko:
       flag: 플래그
       flagged_as: "플래그 :"
       flags: reported as
-      last_activity: 최근 활동
+      last_activity: 마지막 활동
       related_questions: 관련된 질문들
       request_closing: 마감 요청
       request_closing_details: 이 질문의 마감 요청

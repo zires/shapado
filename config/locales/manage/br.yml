@@ -56,6 +56,7 @@ br:
           resend_button: Adkas
           revoke_button: Disteuler
         invite: 
+          body_instructions: Skrivañ ur gemennadenn d'an dud a bedit (ma fell deoc'h)
           body_length_warning: Ne c'hall ket bezañ ouzhpenn 400 arouezenn e korf an destenn
           emails_instructions: Ebarzhit ar chomlec'hioù postel, dispartiet gant virgulennoù
           invitations: Pedadennoù kaset

@@ -13,6 +13,7 @@ br:
     create: 
       error: Ho tigarez, n'eus ket eus an implijer **%{user_id}**
     form: 
+      destroy_confirm: Daoust ha sur oc'h ? Ne vo ket ken an implijer-mañ un ezel eus ar strollad-mañ.
       login_tip: Klask en ur vizskrivañ
     index: 
       manage_members_title: Izili merañ

@@ -10,7 +10,7 @@ pt-PT:
       all_history: Retornar ao histórico
       back_to_question: Voltar à pergunta
       revert: Reverter para esta versão
-      show_diff: Compare as versões seleccionadas
+      show_diff: Comparar as versões selecionadas
     diff: 
       title: Diferenças entre %{prev} e %{curr}
     history: 

@@ -14,6 +14,7 @@ br:
       inactive: N'eo ket bet kadarnaet ho kont c'hoazh.
       invalid: Chomlec'h postel pe ger-tremen direizh
       locked: Prennet eo ho kont dija.
+      timeout: Lostennet eo ho talc'h. Adkevreit evit kenderc'hel, mar plij.
       unauthenticated: Rankout a rit bezañ anavezet pe lakaat hoc'h anv evit kenderc'hel.
       unconfirmed: Rankout a rit kadarnaat ho kont a-raok kenderc'hel.
     mailer: 
@@ -24,6 +25,7 @@ br:
       reset_password: 
         link: Cheñch ma ger-tremen
       unlock: 
+        instruction2: "Klikit war al liamm amañ dindan da zibrennañ ho kont :"
         link: Dibrennañ ma c'hont
     passwords: 
       link: Ankouaet ho ker-tremen ganeoc'h ?

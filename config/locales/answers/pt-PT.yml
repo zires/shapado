@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Hamilton Abreu
+# Author: Luckas
 pt-PT: 
   activerecord: 
     attributes: 
@@ -26,4 +27,4 @@ pt-PT:
     revert: 
       title: Reverter a resposta
     update: 
-      flash_notice: A resposta foi actualizada.
+      flash_notice: A resposta foi atualizada com sucesso.

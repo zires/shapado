@@ -1,0 +1,126 @@
+# Messages for Polish (polski)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: BeginaFelicysym
+# Author: Sp5uhe
+# Author: Ty221
+# Author: Woytecr
+pl: 
+  activerecord: 
+    models: 
+      badge: Odznaka
+      badges: Odznaki
+  badges: 
+    index: 
+      all_tooltip: Pokaż wszytskie złote, srebrne i brązowe odznaczenia.
+      bronze: Brąz
+      bronze_tooltip: Brązowe odznaczenia są łatwe do zdobycia i zachęcają użytkowników do udzielania się w społeczności
+      description: Przez większą ilość edytowania, poprzez zadawania pytań i odpowiadania na pytania, zdobywasz więcej odznaczeń, które zostaną wyświetlone na Twojej stronie profilowej.
+      general: Zwykłe ikony
+      general_tooltip: Pokaż wszytskie predefiniowane odznaczenia
+      gold: Złoto
+      gold_tooltip: Złote odznaczenia są największą nagrodą, lecz są również najtrudniejsze do uzyskania. Tylko najbardziej zdeterminowani użytkownicy je otrzymują.
+      silver: Srebro
+      silver_tooltip: Srebrne odznaki są zdobywane przez aktywnych użytkowników, którzy zostali wtajemniczeni w projekt i są w nim aktywni od dłuższego czasu.
+      tags: Tag odznaki
+      tags_tooltip: Kiedy pytanie otagowane X zdobędzie odpowiedzi z ilością głosów "za" większą niż 100, odznaczenie X jest tworzone z nazwą tego tagu.
+      title: Odznaki
+    shared: 
+      addict: 
+        description: Odwiedzali witrynę codziennie przez kolejnych 20 dni
+      autobiographer: 
+        description: Wypełnione wszystkie pola profilu użytkownika
+        name: Autobiograf
+      celebrity: 
+        description: Ma ponad 100 zwolenników
+        name: Celebryta
+      civic_duty: 
+        description: Głosowano 300 razy
+      cleanup: 
+        description: Wykonał pierwsze wycofanie
+        name: Oczyszczanie
+      commentator: 
+        description: Pozostało 10 komentarzy
+        name: Komentator
+      critic: 
+        description: Głosował negatywnie po raz pierwszy
+      disciplined: 
+        description: Usunął własną wiadomość z punktacją 3 lub wyższą
+        name: Zdyscyplinowany
+      editor: 
+        description: Pierwszy edytowany post
+        name: Edytor
+      effort_medal: 
+        description: Otrzymał 100 pozytywnych głosów
+      enlightened: 
+        description: Udzielił odpowiedzi, która została przyjęta z co najmniej 10 głosami za
+        name: Oświecony
+      famous_question: 
+        description: Zadać pytanie z 10 tysiącami wyświetleń
+        name: Popularne pytanie
+      fanatic: 
+        description: Odwiedzić tą stronę przez kolejnych 100 dni
+        name: Fanatyk
+      favorite_answer: 
+        description: Ma odpowiedź, która jest ulubiona przez 25 użytkowników
+        name: Ulubiona odpowiedź
+      favorite_question: 
+        description: Zadał pytanie lubiane przez 25 użytkowników
+        name: Ulubione pytanie
+      friendly: 
+        name: Przyjazny
+      good_answer: 
+        description: Udzielił odpowiedzi, która osiągnęła średnio ponad 25 głosów
+      great_answer: 
+        description: Na odpowiedź głosowano aż 100 razy
+        name: Znakomita odpowiedź
+      guru: 
+        description: Podał rozwiązanie pytania o średnio więcej niż 40 głosach
+        name: Guru
+      inquirer: 
+        description: Zapytał po raz pierwszy
+      notable_question: 
+        description: Zadać pytanie, które ma 2500 wyświetleń
+        name: Pytanie godne uwagi
+      organizer: 
+        description: Pierwszy zmienił znacznik
+        name: Organizator
+      peer_pressure: 
+        description: Usunął własną wiadomość z punktacją -3 lub niższą
+        name: Presja otoczenia
+      popstar: 
+        description: Uzyskało 500 głosów za, nie więcej niż 10 głosów przeciw
+        name: Gwiazda popu
+      popular_person: 
+        description: Ma ponad 50 zwolenników
+        name: Popularna osoba
+      popular_question: 
+        description: Zadał pytanie o 1000 odsłon
+        name: Popularne pytanie
+      rockstar: 
+        description: Uzyskało 1000 pozytywnych głosów i 10 negatywnych głosów maksymalnie
+        name: Gwiazda rocka
+      self-learner: 
+        name: Samokształcący się
+      service_medal: 
+        description: Ma 300 pozytywnych głosów
+        name: Medal usługi
+      shapado: 
+        description: Odwiedzali witrynę codziennie przez kolejnych 8 dni
+      stellar_answer: 
+        description: Ma odpowiedź, która jest ulubiona przez 100 użytkowników
+        name: Błyskotliwa odpowiedź
+      student: 
+        description: Zadał pytanie z co najmniej jednym do głosem pozytywnym
+        name: Uczeń
+      supporter: 
+        description: Pozytywnie głosowali po raz pierwszy
+      tutor: 
+        name: Tutor
+    show: 
+      description: "Użytkownicy, którzy otrzymali tę odznakę. Niedawno przyznana:"
+      earned: zdobyte
+      for_tag_bronze: 200 głosów w tagu %{tag}
+      for_tag_gold: 1000 głosów w tagu %{tag}
+      for_tag_silver: 400 głosów w tagu %{tag}
+      title: Odznaczenia %{type}
