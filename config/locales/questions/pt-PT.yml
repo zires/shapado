@@ -44,7 +44,7 @@ pt-PT:
       add_attachment: Adicionar anexo
       adult_content: Esta pergunta envolve conteúdo para adultos.
       body_tip: Qual é a sua pergunta? Seja descritivo.
-      language_tip: Seleccione a língua da pergunta.
+      language_tip: Selecione a língua da pergunta.
       remove_attachment: Remover
       tags_tip: Use categorias para fornecer mais informação sobre a sua pergunta.
     index: 
@@ -54,7 +54,7 @@ pt-PT:
       empty: Ainda ninguém fez nenhuma pergunta. Seja o primeiro!
       help_to_answer: Ajude-nos a responder
       hot: Populares
-      hot_tooltip: Perguntas com maior actividade dos últimos 5 dias
+      hot_tooltip: Perguntas com maior atividade dos últimos 5 dias
       newest: Mais recentes
       newest_tooltip: Perguntas mais recentes
       oldest: Mais antigas
@@ -97,7 +97,7 @@ pt-PT:
     shared: 
       flag: Reportar
     show: 
-      accepted_tooltip: Uma das respostas foi aceite como sendo a resposta correcta.
+      accepted_tooltip: Uma das respostas foi aceite como sendo a resposta correta.
       another_answers: Outras respostas
       answers: Respostas
       asked_on: colocada a
@@ -109,7 +109,7 @@ pt-PT:
       flagged_as: Reportada como
       flags: Reportada como
       history: Histórico
-      last_activity: Actividade mais recente
+      last_activity: Última atividade
       more_actions: Mais ações
       open: Aberta
       related_questions: Perguntas relacionadas

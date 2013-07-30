@@ -58,7 +58,7 @@ qqq:
     today: "{{Identical|Today}}"
   views: 
     pagination: 
-      first: This shows at the bottom of the list of questions and link to the first page of the list.
-      last: This shows at the bottom of the list of questions and link to the last page of the list.
+      first: "This shows at the bottom of the list of questions and link to the first page of the list.\n{{Identical|First}}"
+      last: "This shows at the bottom of the list of questions and link to the last page of the list.\n{{Identical|Last}}"
       next: "{{Identical|Next}}"
       previous: "{{Identical|Previous}}"

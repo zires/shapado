@@ -98,8 +98,8 @@ ko:
       flags: reported as
       last_activity: 마지막 활동
       related_questions: 관련된 질문들
-      request_closing: 마감 요청
-      request_closing_details: 이 질문의 마감 요청
+      request_closing: 종료 요청
+      request_closing_details: 이 질문의 종료 요청
       retag: retag
       retract_request: 이미 요청하셨습니다. 취소할까요?
       share: "이 질문을 공유:"
