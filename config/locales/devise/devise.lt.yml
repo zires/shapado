@@ -1,0 +1,68 @@
+# Messages for Lithuanian (lietuvių)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Eitvys200
+# Author: Mantak111
+lt: 
+  devise: 
+    confirmations: 
+      confirmed: Jūsų sąskaita buvo patvirtinta. Jūs dabar esate prisijungę.
+      send_instructions: Jūs gausite el. laišką su instrukcijomis, kaip patvirtinti savo sąskaitą per kelias minutes.
+    failure: 
+      inactive: Jūsų paskyra dar neaktyvuota.
+      invalid: Negalimas el. pašto adresas ar slaptažodis.
+      invalid_token: Negalimas autentifikavimo raktas.
+      locked: Jūsų paskyra užrakinta.
+      timeout: Jūsų sesija baigėsi, prašome vėl prisijungti, kad galėtumėte tęsti.
+      unauthenticated: Turite prisijungti ar prisiregistruoti prieš tęsiant.
+      unconfirmed: Turite patvirtinti savo paskyrą prieš tęsiant.
+    mailer: 
+      confirm_account: 
+        instruction1: "Jūs galite patvirtinti savo paskyrą per žemiau esančią nuorodą:"
+        link: Patvirtinti mano paskyrą
+        welcome: Sveiki atvykę
+      confirmation_instructions: 
+        subject: Patvirtinimo instrukcijos
+      hello: Sveiki
+      reset_password: 
+        instruction1: Kažkas paprašė nuorodos jūsų slaptažodžio pakeitimui, ir jūs galite tai padaryti per žemiau esančią nuorodą.
+        link: Keisti manp slaptažodį
+        nonrequested: Jei jūs to neprašėte, prašome ignoruoti ši el. laišką.
+        warning: Jūsų slaptažodis nepasikeis kol jus neatidarysite nuorodos aukščiau ir sukursite naują.
+      reset_password_instructions: 
+        subject: Slaptažodžio perstatymo instrukcijos
+      unlock: 
+        instruction1: Jūsų paskyra buvo užrakinta dėl per didelio skaičiaus nesėkmingu prisijungimo bandymų.
+        instruction2: "Paspauskite nuorodą žemiau, norėdami atrakinti savo paskyrą:"
+        link: Atrakinti mano paskyrą
+      unlock_instructions: 
+        subject: Atrakinimo Instrukcijos
+    passwords: 
+      link: Pamiršote slaptažodį?
+      send_button: Atsiųskite man slaptažodžio perstatymo instrukcijas
+      send_instructions: Jus gausite el. laišką su instrukcijomis kaip perstatyti slaptažodį už kelių minučių.
+      updated: Jūsų slaptažodis buvo pakeistas. Jūs esate dabar prisijungęs.
+    registrations: 
+      destroyed: Iki! Jūsų paskyra buvo sėkmingai atšaukta. Mes tikimės, kad netrukus vėl jus pamatysim.
+      link: Užsiregistruoti
+      signed_up: Jūs sėkmingai užsiregistravote.  Jei įgalinta patvirtinimas buvo išsiųstas į jūsų el. paštą.
+      updated: Jūs sėkmingai atnaujinote savo paskyrą.
+    sessions: 
+      link: Prisijungti
+      new: 
+        openid_url: Jūsų OpenID URL
+        remember_me: Prisiminti mane
+      registered_only: Jūs turite būti prisijunges, kad galėtumėte matyti turinį.
+      sign_out: Atsijungti
+      signed_in: Prisijungėte sėkmingai.
+      signed_out: Atsijungėte sėkmingai.
+      signin_group: Prisijungti prie %{group}
+    unlocks: 
+      link: Negavote atblokavimo instrukcijų?
+      send_instructions: Jūs gausite el. laišką su instrukcijomis, kaip atrakinti savo sąskaitą per kelias minutes.
+      unlocked: Jūsų sąskaita buvo atblokuota. Jūs dabar esate prisijungę.
+  errors: 
+    messages: 
+      already_confirmed: jau buvo patvirtintas
+      not_found: nerasta
+      not_locked: buvo neužrakintas

@@ -1,0 +1,23 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Andriykopanytsia
+# Author: SteveR
+uk: 
+  sessions: 
+    create: 
+      flash_error: Не вдається увійти в якості '%{login}'
+      flash_notice: Увійшли в систему успішно
+    destroy: 
+      flash_notice: Ви вийшли.
+    new: 
+      log_in: Увійти
+      not_registered: Ще не зареєстровані?
+      registered: Вже зареєстровані?
+      remember_me: Запам'ятати мене
+      sign_in: Увійти
+      signup: Зареєструватися
+      with_authentication: Увійти через нашу систему аутентифікації
+      with_facebook: Увійти за допомогою Facebook
+      with_openid: Увійти з допомогою OpenID
+      with_twitter: Увійти за допомогою Twitter

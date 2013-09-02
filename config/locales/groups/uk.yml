@@ -1,0 +1,101 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Andriykopanytsia
+# Author: SteveR
+uk: 
+  activerecord: 
+    attributes: 
+      group: 
+        daily_cap: Щоденне обмеження
+        default_tags: Типові теги
+        description: Опис
+        domain: Домен
+        enable_latex: Увімкнути LaTeX з jqmath (швидко, але не з усіма можливостями)
+        enable_mathjax: Увімкнути LaTeX з mathjax (повільніше, але з усіма можливостями)
+        fb_button: Увімкнути кнопку „подобається“ від Facebook (недружня щодо конфіденційності)
+        forum: Дозволити кілька відповідей користувача
+        group_created_by: створено
+        language: Мова за замовчуванням
+        languages: Додаткові мови
+        legend: Легенда
+        logo: Логотип
+        may_contain_adult_content: Цей сайт може містити матеріали для дорослих
+        name: Ім'я
+        owner: Ця група була створена %{login}
+        registered_only: Тільки зареєстровані користувачі можуть отримати доступ до сайту
+        signup_type: "Які методи можуть використовувати користувачі для реєстрації:"
+        state: Статус
+        subdomain: URL
+        track_users: Запитати у користувачів їх фізичне розташування
+        wysiwyg_editor: Увімкнути дружній до користувача редактор
+    models: 
+      default_tags_message: Ви не можете мати типово більше 10 теги
+      duplicate_domain_message: На жаль, цей домен вже зайнятий.
+      group: Група
+      groups: Групи
+      reputation_rewards_answer_constrain: Обмеження на нагороди за відповіді повинно бути від'ємним
+      reputation_rewards_ask_constrain: Обмеження для запитань повинне бути від'ємним
+      reputation_rewards_key: Невірний ключ
+  groups: 
+    connect_group_to_twitter: 
+      failed_twitter_connection: Вибачте, щось пішло не так. Спробуйте ще раз, будь ласка.
+      success_twitter_connection: Вітаємо, ви успішно підключили ваш профіль на Twitter!
+    create: 
+      flash_notice: Ваша група була успішно створена. Тепер можна приступати до налаштування.
+    downgrade: 
+      notice: Ви успішно відписалися, ви використовуєте наш безкоштовний план.
+    edit: 
+      title: Редагувати свою групу
+    form: 
+      access: Параметри доступу
+      analytics_engine: Рушій аналітики
+      analytics_legend: Група буде мати можливість використовувати свій власний код відстеження
+      any_language: Будь-який
+      custom_analytics: Дозволити користувацьку аналітику
+      custom_html: Дозволити користувацький HTML
+      custom_js: Дозволити користувацький JavaScript
+      default_tags_legend: Відокремте теги комами. Типово дозволено лише 10 тегів.
+      description_legend: У вас є 400 символів для опису групу.
+      isolate_group: Ізолювати групу від інших груп
+      legend_legend: Він буде використаний у заголовку. У вас є 40 символів.
+      logo_legend: Ви можете завантажити логотип групи. Максимальний розмір файлу - 2 Мб.
+      members_only: Тільки члени групи будуть мати доступ до цієї групи
+      signup_all: Всі вибрані постачальники плюс користувач/пароль
+      signup_email: Тільки користувач/пароль
+      signup_noemail: Всі вибрані постачальники мінус користувач/пароль
+      signup_social: Користувачі змушені використовувати Facebook, Twitter, LinkedIn або Identica
+      website_analytics_id: ID аналітики веб-сайту
+    group: 
+      about: Про групу
+      accept_group: Прийняти цю групу
+      allow_ads: Дозволити рекламу
+      close: Закрити
+      close_group: Закрити цю групу
+      disallow_ads: Заборонити рекламу
+    index: 
+      actives: Активні
+      create_your_own: створити власну групу
+      description: Це список спільних груп, які були створені. Використовуйте поле пошуку нижче для фільтру груп. Ви також можете %{link}.
+      filter: Пошук груп
+      most_active: Найбільш активні
+      name: Ім'я
+      pendings: У стані розгляду
+      request_group: Запит нової групи
+      title: Групи
+    new: 
+      title: Створити свою групу
+    show: 
+      accept_group: Прийняти цю групу
+      accept_group_with_custom_ads: Прийняти групу і дозволені спеціальну рекламу
+      close_group: Закрити цю групу
+      group_awaiting_acceptance: Ця група очікує прийняття модератором.
+      group_closed: Ця група була закрита.
+      title: Про %{name}
+      visit_group: Завітати до цієї групи
+    top_grouplist: 
+      active_site: "Активний сайт:"
+    update: 
+      notice: Вашу групу успішно оновлено.
+    upgrade: 
+      error: Ви вже підписалися на цей план

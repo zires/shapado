@@ -1,0 +1,20 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Andriykopanytsia
+# Author: SteveR
+uk: 
+  searches: 
+    form: 
+      clear: Очистити
+      search_box_title: Перевірити, чи ваше запитання вже задавали
+      tags_tip: Використовуйте [tag], щоб вказати теги.
+    index: 
+      advanced_search: розширений пошук
+      description: Використовуйте параметри %{link}, щоб отримати детальні результати.
+      empty: Вашому пошуку не відповідає жодне питання.
+      found_results: Знайдено %{quantity} результатів.
+      input_legend: Цей збережений пошук буде відображатися на панелі навігації для швидкого доступу.
+      input_title: "Зберегти пошук як:"
+      search_text: Питання, що містять
+      tags: в рамках цих тегів

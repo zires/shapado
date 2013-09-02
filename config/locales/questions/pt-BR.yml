@@ -1,6 +1,7 @@
 # Messages for Brazilian Portuguese (português do Brasil)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Dianakc
 # Author: Giro720
 # Author: Luckas
 # Author: Luckas Blade
@@ -61,8 +62,8 @@ pt-BR:
     model: 
       messages: 
         empty_tags: Desculpe, você tem que usar pelo menos uma tag.
-        title_too_long: O título é muito longo. Não pode conter mais do que 100 caracteres.
-        too_many_tags: Desculpe, mas você só pode introduzir até 9 tags.
+        title_too_long: Desculpe, mas o título não pode conter mais de 100 caracteres.
+        too_many_tags: Desculpe, mas você só pode entrar até 20 tags no máximo.
         too_short: Parece demasiado curta. Use mais do que %{count} palavras para ser mais específico.
     move: 
       group_label: "Mover para o grupo:"

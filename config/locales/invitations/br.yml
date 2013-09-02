@@ -16,7 +16,13 @@ br:
       follow_things_description: Ar goulennoù a denn d'ar re-mañ a zeuy war wel en ho kwazh.
       other_connect: pe implijit ar re-se.
       other_social_options: Gallout a reot implijout ivez %{linkedin}ha %{identica}.
+      point3: Votit hag aozit ar respontoù hag ar pajennoù wiki da wellaat anezho. Gounezit badjoù.
+      point4: Respontit diardoù dre bostel.
       twitter_connect: Kevreit gant ho kont Twitter
       welcome: Degemer mat
+    create: 
+      flash_notice: Kaset eo bet ho pedadennoù.
     resend: 
       flash_notice: Adkaset eo bet ho pedadenn.
+    revoke: 
+      flash_notice: Tennet eo bet ho pedadenn.

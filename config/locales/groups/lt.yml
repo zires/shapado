@@ -1,0 +1,97 @@
+# Messages for Lithuanian (lietuvių)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Eitvys200
+lt: 
+  activerecord: 
+    attributes: 
+      group: 
+        daily_cap: Dieninis Limitas
+        default_tags: Numatytosios žymės
+        description: Aprašymas
+        domain: Domenas
+        enable_latex: Įgalinti LaTeX su jqmath (greitas, bet nebaigtas)
+        enable_mathjax: Įgalinti LaTeX su mathjax (lėtas, bet baigtas)
+        fb_button: Įgalinti Facebook Patinka mygtuką (kenkia privatumui)
+        forum: Leisti daugiau nei vieną atsakymą iš vartotojo
+        group_created_by: sukūrė
+        language: Numatytoji Kalba
+        languages: Papildomos Kalbos
+        legend: Legenda
+        logo: Logotipas
+        may_contain_adult_content: Šioje svetainėje gali būti suaugusiesiems skirto turinio
+        name: Pavadinimas
+        owner: Ši grupė buvo sukurta %{login}
+        registered_only: Tik registruoti vartotojai gali naudotis svetaine
+        signup_type: "Kokius metodus gali naudoti jūsų vartotojai registracijai:"
+        state: Valstija
+        subdomain: URL
+        track_users: Klausti vartotoju apie jų fizinę vietovę
+        wysiwyg_editor: Įgalinti vartotojui draugišką redaktorių
+    models: 
+      default_tags_message: Jūs negalite turėti daugiau nei 10 numatytąjų Žymių
+      duplicate_domain_message: Deja, šis domenas jau yra naudojamas.
+      group: Grupė
+      groups: Grupės
+      reputation_rewards_key: Neleistinas raktas
+  groups: 
+    connect_group_to_twitter: 
+      failed_twitter_connection: Atsiprašome, kažkas nutiko. Bandykite dar kartą.
+      success_twitter_connection: Sveikiname, jūs sėkmingai prijungėte savo Twitter paskyrą!
+    create: 
+      flash_notice: Jūsų grupė buvo sėkmingai sukurta. Jus galite pradėti ją konfigūruoti.
+    downgrade: 
+      notice: Jūs sėkmingai atsisakėte ir dabar naudojate mūsų nemokamą planą.
+    edit: 
+      title: Redaguoti savo grupę
+    form: 
+      access: Prieigos Nustatymai
+      analytics_engine: Analizės variklis
+      analytics_legend: Grupė galės naudoti savo stebėjimo kodą
+      any_language: Bet kokia
+      custom_analytics: Leisti pasirinktinę analizę
+      custom_html: Leisti pasirinktinį HTML
+      custom_js: Leisti pasirinktinį JavaScript
+      default_tags_legend: Atskirkite žymes kableliais. Leidžiama tik 10 numatytųjų žymių.
+      description_legend: Turite 400 simbolių apibūdinti savo grupę.
+      isolate_group: Izoliuoti grupę nuo kitų grupių
+      legend_legend: tai bus naudojama antraštėje. Turite 40 simbolių
+      logo_legend: Jus galite įkelti grupės logotipą. Maksimalus failo dydis yra 2MB.
+      members_only: Tik grupės nariai galės prieiti prie šios grupės
+      signup_all: Visi pasirinkti tiekėjai plius vartotojas/slaptažodis
+      signup_email: Tik vartotojas/slaptažodis
+      signup_noemail: Visi pasirinkti tiekėjai atėmus vartotojas/slaptažodis
+      signup_social: Vartotojai yra priversti naudoti Facebook, Twitter, LinkedIn ar Identica
+      website_analytics_id: Svetainės Analizės ID
+    group: 
+      about: Apie
+      accept_group: Priimti šią grupę
+      allow_ads: Leisti reklamas
+      close: Uždaryti
+      close_group: Uždaryti šią grupę
+      disallow_ads: Neleisti reklamų
+    index: 
+      actives: Aktyvus
+      create_your_own: sukurkite savo grupę
+      filter: Ieškokite grupių
+      most_active: Aktyviausios
+      name: Pavadinimas
+      pendings: Laukiama
+      request_group: Prašyti naujos grupės
+      title: Grupės
+    new: 
+      title: Sukurti savo grupę
+    show: 
+      accept_group: Priimti šią grupę
+      accept_group_with_custom_ads: Priimti grupę ir leisti pasirinktinas reklamas
+      close_group: Uždaryti šią grupę
+      group_awaiting_acceptance: Ši grupė laukia moderatoriaus priėmimo.
+      group_closed: Ši grupė buvo uždaryta.
+      title: Apie %{name}
+      visit_group: Apsilankyti šioje grupėje
+    top_grouplist: 
+      active_site: "Aktyvus puslapis:"
+    update: 
+      notice: Jūsų grupė buvo sėkmingai atnaujinta.
+    upgrade: 
+      error: Jūs jau naudojate šį planą

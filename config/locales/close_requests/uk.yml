@@ -1,0 +1,36 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Andriykopanytsia
+# Author: SteveR
+# Author: Тест
+uk: 
+  close_requests: 
+    create: 
+      flash_notice: Запит на закриття успішно створено
+    destroy: 
+      flash_notice: Запит на закриття успішно вилучено
+    edit: 
+      title: Редагувати запит на закриття
+    form: 
+      close_with_reason: Закриття питання на основі цієї причини
+      dupe: Дублікат
+      no_question: Не є питанням
+      not_relevant: Неістотно
+      ot: Не по темі
+      request_closing_details: Запит на закриття цього питання
+      retract: Відкликати
+      spam: спам
+    index: 
+      title: Перелік запитів на закриття
+    model: 
+      attributes: 
+        comment: Коментар
+        reason: Причина
+        user: Користувач
+      messages: 
+        already_requested: Ви вже попросили закрити це питання
+      name: Запит на закриття
+      prural_name: Запити на закриття
+    update: 
+      flash_notice: Запит на закриття успішно оновлено

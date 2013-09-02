@@ -1,32 +1,83 @@
-# Messages for Breton (Brezhoneg)
+# Messages for Breton (brezhoneg)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Fohanno
 # Author: Fulup
 # Author: Y-M D
 br: 
   widgets: 
+    about: 
+      title: Diwar-benn
+    adsense: 
+      title: AdSense
+    ask_question: 
+      ask: Goulenn
+      footer: Gwelet an holl c'houlennoù war %{group}
+      title: "Ober ur goulenn :"
     badges: 
-      description: Ar widget-mañ a ziskouez ar badjoù gounezet nevez zo gant an implijerien pe gant ar goulennoù
+      description: Ar widjed-mañ a ziskouez ar badjoù gounezet nevez zo gant an implijerien.
+      see_all: Gwelet an holl badjoù
       title: Badjoù diwezhañ
+    create: 
+      notice: Krouet eo bet ar widjed.
+    edit: 
+      title: Kemmañ ar widjed
+    group_networks: 
+      title: Heuliañ ac'hanomp
     groups: 
       description: Ar widget-mañ a ziskouez ar strolladoù ziwezhañ
       title: Strolladoù nevez
     index: 
+      add_new: Ouzhpennañ ur widjed nevez
       description: Implijout ar biroù evit fiñval ar widgetoù
+      external_widgets: Diavaez
+      footer: Traoñ pajenn
+      header: Talbenn
+      mainlist_widgets: Roll pennañ
+      name: Anv ar widjed
+      navbar: Barenn verdeiñ
+      question_widgets: Goulenn
+      sidebar: barrenn gostez
       title: Melestriñ widgetoù ar varenn kostez
+      type: "Seurt :"
+      welcome_widgets: Degemer mat
+      zone: "Rann ar bajenn :"
     pages: 
       description: Ar widget-mañ a roll ar pajennoù wiki
       new: Ouzhpennañ ur bajenn nevez
       title: Pajennoù wiki
+    related_questions: 
+      title: Goulennoù kenstag
+    settings: 
+      custom_html: "HTML personelaet :"
+      limit: "Kementad da ziskwel :"
+      on_questions: Diskouez war bajenn bennañ ar goulennoù
+      on_welcome: Diskouez war ar bajenn degemer
+    share: 
+      title: Rannañ
+    sharing_buttons: 
+      title: Rannañ an dra-mañ war
+    suggestions: 
+      follow_user: + Heuliañ an implijer
+      followed_by: Heuliet gant %{user}
     tag_cloud: 
       description: Ar widget-mañ a ziskouez ur goumoulenn merkoù
       title: Nivlennad tikedennoù
+    tag_list: 
+      title: Balizennoù
     top_groups: 
       description: Ar widget-mañ a ziskouez top 5 ar strolladoù
+      has_members: 
+        one: "%{count} ezel"
+        other: "%{count} ezel"
       title: Ar 5 strollad wellañ
     top_users: 
       description: Ar widget-mañ a ziskouez top 5 an implijerien
       title: Ar 5 implijer wellañ
+    update: 
+      notice: Hizivaet eo bet ar widjed.
     users: 
       description: Ar widget-mañ a ziskouez an izili nevez enrollet
       title: Implijerien diwezhañ
+    widget: 
+      change_position: "Cheñch lec'hiadur ar widjed :"

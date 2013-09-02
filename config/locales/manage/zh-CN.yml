@@ -4,6 +4,7 @@
 # Author: Hydra
 # Author: Hzy980512
 # Author: Junmin
+# Author: Qiyue2001
 zh-CN: 
   admin: 
     manage: 
@@ -12,6 +13,9 @@ zh-CN:
       answers: 
         banning: 
           title: 禁止答案
+      appearance: 
+        logo_legend: 上传您的组的徽标。它必须小于2MB。
+        title: 选择并自定义您的主题
       close_group: 
         feedback: 请告诉我们您为什么要关闭您的组合：
       content: 
@@ -60,9 +64,11 @@ zh-CN:
           revoke_button: 撤销
         invite: 
           body_length_warning: 正文不能包含超过 400 个字符
+          emails_instructions: 输入由逗号分隔的电子邮件地址
           invitations: 发送邀请
           invite: 邀请其他人
           title: 通过电邮邀请其他人
+          user_role: 邀请用户作为
         post_to_twitter: 
           post_to_twitter: 在推特上推文活动
           send_answers_to_twitter: 在推特上推文所有答案
@@ -81,6 +87,7 @@ zh-CN:
           ends_with_example: "例如 #shapado"
           starts_with_example: "例如 #qa"
           title: 标记你的推文
+          tweet_ends_with: 将标签附加到您的推文
         title: 组合属性
         twitter_account: 
           twitter_account: Twitter帐户

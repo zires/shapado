@@ -1,0 +1,20 @@
+# Messages for Maltese (Malti)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Chrisportelli
+mt: 
+  comments: 
+    create: 
+      flash_notice: Grazzi għall-kummenti tiegħek
+    edit: 
+      title: Immodifika l-kumment
+    shared: 
+      add_comment: Żid kumment
+      comment_submit: Kumment
+      reply: Irrispondi
+      said: qal
+    update: 
+      flash_notice: Il-kumment ġie aġġornat b'suċċess.
+  models: 
+    comment: Kumment
+    comments: Kummenti

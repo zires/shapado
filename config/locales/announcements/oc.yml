@@ -8,6 +8,7 @@ oc:
       announcement: 
         ends_at: S'acaba lo
         message: Messatge
+        only_anonymous: Pas que pels utilizaires anonims
         starts_at: Comença lo
   announcements: 
     actions: 

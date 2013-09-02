@@ -1,6 +1,7 @@
 # Messages for Ukrainian (українська)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Andriykopanytsia
 # Author: Base
 # Author: Steve.rusyn
 # Author: SteveR
@@ -15,15 +16,22 @@ uk:
       contributed: Внесок
       faq: ЧаП
       feed: Підписки
+      follow_us_and_share: Слідкуйте за нами та діліться інформацією
       followed: Підписки
       forgot: Забули?
       home: Головна
       join_group: Приєднатися до %{group}
       languages: Мови
       log_in: Увійти
+      logged: Ви увійшли в систему як %{login}
       logout: Вихід
+      manage_ads: Управління рекламою
+      moderate: Модерування
       need_to_signin: Вам спершу необхідно увійти.
+      not_member_join_dialog: Ви повинні приєднатися до %{group}, щоб виконати цю дію, натисніть тут, щоб зробити це.
       now: зараз!
+      openid: 
+        explaination: "Якщо ви хочете зареєструватися або просто увійти у систему, виберіть OpenID-провайдера:"
       pages: Сторінки
       preferred: Переважні
       questions: Запитання
@@ -34,6 +42,7 @@ uk:
       settings: Налаштування
       signup: Зареєструватися
       subscribe: Підписатись
+      success_joining_group: Ви стали членом %{group}, дякуємо, що приєдналися!
       tags: Теґи
       title: Запитання та відповіді
       unanswered: Без відповідей
@@ -67,3 +76,5 @@ uk:
       theme: Тема
       themes: Теми
       widgets: Віджети
+    notifications: 
+      message: Якщо ви не хочете отримувати автоматичні повідомлення %{group} більше, змініть свої уподобання в екрані повідомлення.

@@ -1,0 +1,33 @@
+# Messages for Maltese (Malti)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Chrisportelli
+mt: 
+  close_requests: 
+    create: 
+      flash_notice: Ir-rikjesta ta' għeluq inħolqot b'suċċess
+    destroy: 
+      flash_notice: Ir-rikjesta ta' għeluq ġiet imħassra b'suċċess
+    edit: 
+      title: Immodifika r-rikjesta ta' għeluq
+    form: 
+      close_with_reason: Din il-mistoqsija se tingħalaq b'din ir-raġuni
+      dupe: Duplikat
+      no_question: Mhux mistoqsija
+      not_relevant: Mhux rilevanti
+      ot: Barra s-suġġett
+      request_closing_details: Rikjesta biex tagħlaq il-mistoqsija
+      spam: spam
+    index: 
+      title: Lista ta' rikjesti magħluqa
+    model: 
+      attributes: 
+        comment: Kumment
+        reason: Raġuni
+        user: Utent
+      messages: 
+        already_requested: Inti diġà tlabt għall-għeluq ta' din il-mistoqsija
+      name: Rikjesta ta' għeluq
+      prural_name: Rikjesti ta' għeluq
+    update: 
+      flash_notice: Ir-rikjesta ta' għeluq ġiet aġġornata b'suċċess

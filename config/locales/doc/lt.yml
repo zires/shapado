@@ -1,0 +1,50 @@
+# Messages for Lithuanian (lietuvių)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Eitvys200
+lt: 
+  doc: 
+    plans: 
+      15millions: 15 milijonai peržiūrų per mėnesį
+      1million: 1 milijonas peržiūrų per mėnesį
+      247_all_support: Internetinis, el. pašto, pokalbių ir telefono 24/7 palaikymas
+      5millions: 5 milijonai peržiūrų per mėnesį
+      all_support: Internetinis, el. pašto, pokalbių ir telefono palaikymas
+      basic: Bazinis
+      basic_restrictions: Neindividualizuotos reklamas ir nepilnai pritaikoma vartotojo sąsaja
+      basic_styling: Pritaikyta išvaizda
+      basic_styling_tip: Lengvai keiskite savo puslapio spalvų schemą, pridėkite savo logotipą ar net pakeiskite CSS kodą.
+      big_sites: Didelio srauto svetainės
+      custom_ads: Naudokite savo reklamas
+      custom_ads_tip: Naudokite savo reklamas ir užsidirbkite pinigų!
+      custom_analytics: Eismo statistika
+      custom_analytics_tip: Naudokite Google Analytics ir sužinokite daugiau apie savo lankytojus.
+      custom_domain: Pasirinktinis domenas
+      custom_domain_tip: Naudokite savo domeną toki kaip jūsų-kompanija.com vietoj jūsų-kompanija.shapado.com
+      custom_html: Pasirinktinis HTML
+      custom_html_tip: Visiškai perorganizuokite visa savo puslapio HTML kodą ir padarykite, kad jis atrodytu kaip jums patinka.
+      custom_js: Pridėti savo JavaScript
+      custom_js_tip: Pridėkite savo pasirinktinius JavaScript kodus tokius kaip multimedijos valdikliai ar jQuery papildiniai.
+      custom_themes: Naudokite mūsų jau sukurtas temas
+      custom_ui: Pilnai pertvarkomas UI
+      free_plan: nemokamas planas
+      getting_popular: Populiarėjantys
+      huge_sites: Didžiulio srauto svetainės
+      maximum: Maksimalus
+      month: mėnesis
+      page_views: Mažiems/Privatiems puslapiams
+      plans: Planai
+      plus: Plius
+      premium: Premium
+      private: Privatus
+      private_private: Ribotos priėmimas
+      private_site: Įgalinti privatų/viešą priėjimą
+      small_basic: Darbo pradžia
+      start_monetizing: Pradėkite gauti pajamas
+      support: Parama
+      title: Planai ir kainos
+      unlimited: Neribotas srautas kiekviena mėnesi
+      user: vartotojas
+      we_offer: Mes taip pat siūlome
+      web_support: Internetinis palaikymas
+      with_unlimited: su neribotu srautu, jokių reklamų ir nepasirinktinis domenas.

@@ -1,0 +1,32 @@
+# Messages for tarandíne (tarandíne)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Joetaras
+roa-tara: 
+  activerecord: 
+    attributes: 
+      flag: 
+        reason: Mutive
+    models: 
+      flag: Bandiere
+      flags: Bandiere
+  flags: 
+    create: 
+      flash_error: Non ge puè signà quiste
+      flash_notice: Grazie pa segnalaziona toje
+    destroy: 
+      flash_notice: "'U segne tune ha state luate cu successe."
+    edit: 
+      title: Cange 'u segne d'u %{model}
+    form: 
+      attention: Richiede l'attenzione de 'nu moderatore
+      label: Pe piacere signe cu cure
+      offensive: Offensuve, abbusive o parole d'odie
+      spam: Rummàte
+    model: 
+      messages: 
+        already_requested: Tu è ggià signate stu %{model}
+    new: 
+      title: Signe %{model}
+    update: 
+      flash_notice: "'U segne d'a domande ha state aggiornate."

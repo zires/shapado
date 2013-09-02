@@ -1,6 +1,7 @@
 # Messages for Brazilian Portuguese (português do Brasil)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Dianakc
 # Author: Giro720
 # Author: Luckas
 # Author: Luckas Blade
@@ -14,11 +15,17 @@ pt-BR:
       247_all_support: Suporte baseado na internet, e-mail, canais de conversação e telefone de disponibilidade permanentemente
       5millions: 5 milhões de visitas/mês
       all_support: Suporte baseado na internet, e-mail, canais de conversação e telefone
+      basic: Básico
       basic_restrictions: Sem anúncios personalizados e sem interface totalmente personalizável
       big_sites: Sites de Alto Tráfego
       custom_ads: Usar seus próprios anúncios
       custom_analytics: Estatísticas de tráfego
       custom_domain: Domínio personalizado
+      custom_domain_tip: Use seu próprio domínio, como suaempresa.com em vez de suaempresa.shapado.com
+      custom_html: HTML personalizado
+      custom_html_tip: Reformule completamente todo o código HTML de seu site e para deixá-lo como você quiser.
+      custom_js: Adicione seu próprio JavaScript
+      custom_js_tip: Adicione seu próprio código JavaScript personalizado, como widgets de multimídia ou plugins jQuery.
       custom_themes: Use os nossos temas personalizados predefinidos
       custom_ui: Interface totalmente personalizável
       free_plan: plano grátis
@@ -29,8 +36,13 @@ pt-BR:
       optimum: Ótimo
       page_views: Para Sites Pequenos/Particulares
       plans: Planos
+      plus: Plus
+      premium: Premium
+      private: Privado
+      private_private: Acesso restrito
       private_site: Permitir acesso público/privado
-      start_monetizing: comece a ganhar dinheiro
+      small_basic: Primeiros passos
+      start_monetizing: Comece a lucrar
       support: Suporte
       title: Planos e preços
       unlimited: Tráfego ilimitado a cada mês

@@ -10,11 +10,16 @@ lt:
       badges: Ženkleliai
   badges: 
     index: 
+      all_tooltip: Rodyti visus aukso, sidabro ir bronzos ženklelius.
       bronze: Bronza
+      bronze_tooltip: Bronzos ženkleliai yra lengvai laimimi ir skatina vartotojus dalyvauti.
       description: Kuo daugiau jūs prisidėsite paklausdami ir atsakydami į klausimus, tuo labiau ženkleliai jums bus atlyginta. Jie bus rodomi jūsų profilyje.
       general: Reguliarūs ženkleliai
+      general_tooltip: Rodyti visus iš anksto sukurtus ženklelius.
       gold: Auksas
+      gold_tooltip: Aukso ženkleliai yra aukščiausios klasės apdovanojimas, jie taip pat yra sunkiausiai gaunami. Tik labiausiai atsidavę vartotojai gaus šiuos apdovanojimus.
       silver: Sidabras
+      silver_tooltip: Sidabro ženkleliai yra laimimi aktyvių vartotojų kurie buvo aplinkui gana ilgą laiką.
       tags: Žymės ženkleliai
       title: ženkleliai
     shared: 
@@ -38,6 +43,7 @@ lt:
         name: Redaktorius
       effort_medal: 
         description: Gavo 100 teigiamų balsų
+        name: Pastangų medalis
       famous_question: 
         description: Paklaustas klausimas su 10.000 peržiūrų
         name: Populiarus klausimas
@@ -45,6 +51,7 @@ lt:
         description: Aplankė svetainę kiekvieną dieną 100 dienų iš eilės
         name: Fanatikas
       favorite_answer: 
+        description: Turi atsakymą kuris buvo pamėgtas 25 vartotojų
         name: Mėgstamiausia atsakymas
       favorite_question: 
         description: Paklausė klausimą kurie sekė 25 vartotojai
@@ -78,6 +85,7 @@ lt:
         name: Geras klausimas
       notable_question: 
         description: Paklaustas klausimas su 2.500 peržiūrų
+        name: Svarbus klausimas
       organizer: 
         name: Organizatorius
       pioneer: 

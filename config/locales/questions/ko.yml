@@ -10,7 +10,7 @@ ko:
         answers: 답변
         asked_by: asked by
         body: 본문
-        closed: 마감됨
+        closed: 폐쇄됨
         created_at: 질문
         language: 언어
         tags: 태그

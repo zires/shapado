@@ -3,6 +3,7 @@
 # Export driver: syck-pecl
 # Author: Hydra
 # Author: Hzy980512
+# Author: Qiyue2001
 zh-CN: 
   feeds: 
     feed: 饲料
@@ -55,6 +56,11 @@ zh-CN:
     what_to_do: 你想要做什么？
   models: 
     question: 问题
+  number: 
+    x_time: 
+      one: "%{count}次"
+      other: "%{count}次"
+      zero: 从不
   preferred_languages: 
     any: 任何
     user: 我的首选语言

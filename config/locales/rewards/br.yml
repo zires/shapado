@@ -1,0 +1,12 @@
+# Messages for Breton (brezhoneg)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Fohanno
+br: 
+  rewards: 
+    close: 
+      error: Ret eo deoc'h gortoz %{time} a-raok reiñ ar c'haredon-mañ.
+    start: 
+      active_notice: Ur c'haredon zo evit ar goulenn-mañ c'hoazh.
+      reputation_notice: N'oc'h ket brudet a-walc'h evit krouiñ ur c'haredon evit ar goulenn-mañ.
+      wait_notice: Ret eo deoc'h gortoz 2 zevezh a-raok kinnig ur c'haredon evit ar goulenn-mañ.

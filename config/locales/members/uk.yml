@@ -1,0 +1,22 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Andriykopanytsia
+uk: 
+  activerecord: 
+    attributes: 
+      member: 
+        role: Роль
+  members: 
+    create: 
+      error: Вибачте, користувач **%{user_id}** не існує.
+      notice: "%{login} успішно додано як %{role}."
+    form: 
+      destroy_confirm: Ви впевнені? Цей користувач більше не буде членом цієї групи.
+      login_tip: Пошук у міру введення
+    index: 
+      manage_members_title: Управління членами
+      title: Члени групи %{name}
+      title_isolate: Члени %{name}
+    update: 
+      error: На жаль, ви не маєте достатньо прав для змінення   членства **%{login}'s**.

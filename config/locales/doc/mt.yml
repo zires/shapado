@@ -1,0 +1,38 @@
+# Messages for Maltese (Malti)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Chrisportelli
+mt: 
+  doc: 
+    plans: 
+      basic: Bażiku
+      basic_styling: Dehra personalizzata
+      basic_styling_tip: Biddel faċilment l-iskema tal-kuluri tas-sit tiegħek, żid il-logo tiegħek stess u biddel ukoll il-kodiċi CSS.
+      big_sites: Siti bi traffiku kbir
+      custom_ads_tip: Uża r-reklam tiegħek u ibda għamel il-flus!
+      custom_analytics: Statistika tat-traffiku
+      custom_analytics_tip: Uża Google Analytics u kun af aktar dwar il-viżitaturi tiegħek.
+      custom_domain: Dominju personalizzat
+      custom_html: HTML personalizzat
+      custom_html_tip: Organizza kompletament il-kodiċi kollhu tal-HTML tas-sit tiegħek u għamlu jidher kif trid.
+      custom_js: Żid il-JavaScript tiegħek
+      custom_js_tip: Żid il-kodiċi tiegħek tal-JavaScript, bħal widgets multimedjali u estensjonijiet jQuery.
+      free_plan: pjan b'xejn
+      getting_popular: Iktar popolari
+      huge_sites: Siti bi traffiku enormi
+      maximum: Massimu
+      month: xahar
+      optimum: Ottimu
+      page_views: Għal siti żgħar/privati
+      plans: Pjanijiet
+      plus: Plus
+      premium: Premju
+      private: Privat
+      private_private: Aċċess ristrett
+      private_tip: Inti u l-utenti mistiedna biss għandhom aċċess għas-sit tiegħek. Perfetta għall-impriża.
+      small_basic: Gwida introduttorja
+      title: Pjanijiet u prezzijiet
+      unlimited: Traffiku illimitat kull xahar
+      user: utent
+      we_offer: Aħna noffru wkoll
+      with_unlimited: bi traffiku mingħajr limitu, mingħajr l-ebda reklami personalizzati u l-ebda dominju personalizzat.

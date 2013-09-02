@@ -1,0 +1,34 @@
+# Messages for Lithuanian (lietuvių)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Eitvys200
+lt: 
+  close_requests: 
+    create: 
+      flash_notice: Uždarymo prašymas sėkmingai sukurtas
+    destroy: 
+      flash_notice: Uždarymo prašymas sėkmingai ištrintas
+    edit: 
+      title: Redaguoti uždarymo prašymą
+    form: 
+      close_with_reason: Šis klausymas uždaromas naudojant šią priežastį
+      dupe: Pasikartojantis
+      no_question: Ne klausimas
+      not_relevant: Neaktualus
+      ot: Ne į temą
+      request_closing_details: Prašymas uždaryti šį klausymą
+      retract: Atsiimti
+      spam: šlamštas
+    index: 
+      title: Uždarymų prašymų sąrašas
+    model: 
+      attributes: 
+        comment: Komentuoti
+        reason: Priežastis
+        user: Vartotojas
+      messages: 
+        already_requested: Jūs jau prašėte uždaryti šį klausymą
+      name: Uždarymo prašymas
+      prural_name: Uždarymo prašymai
+    update: 
+      flash_notice: Uždarymo prašymas sėkmingai atnaujintas

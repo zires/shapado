@@ -1,6 +1,7 @@
 # Messages for Ukrainian (українська)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Andriykopanytsia
 # Author: Base
 uk: 
   activerecord: 
@@ -38,7 +39,10 @@ uk:
       edit_others_posts: редагування чужих повідомлень
       edit_wiki_post: Редагування вікі-записів
       flag: Позначити
+      retag_others_questions: Зміна міток чужих питань
       vote_down: Голосувати проти
+      vote_to_close_any_question: Запит на закриття будь-якого питання
+      vote_to_close_own_question: Запит на закриття власних питань
       vote_up: Голосувати за
     anonymous_form: 
       never_shown: ніколи не показувати
@@ -50,6 +54,9 @@ uk:
       reset_domain_button: Ні, будь ласка, відновіть власний домен %{domain}
       title: Ваш новий власний домен працює?
       working_domain_link: Так, я бачу мій новий домен працює.
+    create: 
+      flash_error: На жаль, ми не зможемо створити обліковий запис. Будь ласка, спробуйте ще раз або зверніться до адміністратора (посилання є вище).
+      flash_notice: Дякуємо за реєстрацію!
     edit: 
       enable_twitter: Увімкнути Ваші облікові записи Facebook чи Twitter
       submit: Зберегти
@@ -60,6 +67,9 @@ uk:
     form: 
       activities_notification: Отримувати сповіщення електронною поштою про системні дії такі як поява нових значків, нових підписчиків і т. д.
       avatar_tip: Змінити зображення у свому профілі за допомогою Gravatar
+      check_domain: Перевірити %{domain}
+      check_domain_title: Перевірте спеціальні домени вашої групи
+      desktop_notification: Повідомлення робочого столу
       give_advice_notification: Отримувати сповіщення електронною поштою про питання Вашої галузі знань
       information: Інформація
       language: Мова, що використовується для інтефейсу сайту

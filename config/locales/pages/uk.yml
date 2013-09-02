@@ -1,0 +1,37 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Andriykopanytsia
+# Author: SteveR
+uk: 
+  activerecord: 
+    attributes: 
+      page: 
+        css: Таблиці стилів
+        js: JavaScript
+    models: 
+      page: Сторінка
+      pages: Сторінки
+  pages: 
+    actions: 
+      create_page: Створити нову сторінку
+      edit_page: Редагувати сторінку
+      title: Дії
+    create: 
+      success: Сторінку успішно створено.
+    edit: 
+      title: Редагування сторінки
+    form: 
+      language_tip: Мова сторінки
+      title_tip: "Заголовок сторінки. Використовується для посилання на сторінку. Наприклад: [[FAQ|див. часті питання]]"
+    index: 
+      create_page: Створити нову сторінку
+      title: Список сторінок
+      wiki: Вікі
+      wiki_pages: Вікі-сторінки
+      written_in: Мова сторінки %{language}
+    new: 
+      title: Нова сторінка
+    title: Fixme
+    update: 
+      success: Сторінка успішно оновлено.

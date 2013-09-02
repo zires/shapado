@@ -40,10 +40,10 @@ ko:
       edit_wiki_post: 위키 게시물 수정
       flag: 플래그
       retag_others_questions: retag others questions
-      vote_down: vote down
+      vote_down: 내리기 투표
       vote_to_close_any_question: 모든 질문의 마감을 요청
       vote_to_close_own_question: 질문 마감을 요청
-      vote_up: vote up
+      vote_up: 올리기 투표
     create: 
       flash_error: 해당 계정을 설정할 수 없습니다. 다시 시도하거나 관리자에게 문의하시기 바랍니다 (링크 참조).
       flash_notice: 환영합니다!

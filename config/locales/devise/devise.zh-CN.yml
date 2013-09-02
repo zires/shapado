@@ -3,6 +3,7 @@
 # Export driver: syck-pecl
 # Author: Hydra
 # Author: Hzy980512
+# Author: Qiyue2001
 zh-CN: 
   devise: 
     confirmations: 
@@ -13,6 +14,7 @@ zh-CN:
       invalid: 无效的电子邮件地址或密码。
       invalid_token: 身份标记（Token）无效。
       locked: 您的帐户被锁定。
+      timeout: 您的会话已过期，请重新登录以继续。
       unauthenticated: 您必须登入或注册才能继续。
       unconfirmed: 您必须确认您的账户才能继续。
     mailer: 

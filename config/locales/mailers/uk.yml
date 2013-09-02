@@ -1,0 +1,28 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Andriykopanytsia
+uk: 
+  mailers: 
+    notifications: 
+      created_flag: 
+        subject: Нова публікація відмічена на %{group}
+      earned_badge: 
+        subject: Ви заслужили значок у %{group}!
+      favorited: 
+        subject: "%{login} додав у обране ваше питання!"
+      follow: 
+        subject: "%{login} тепер підписаний на вас на %{app}"
+      give_advice: 
+        friend_subject: "Вашому другу потрібна допомога: %{question_title}"
+        subject: "Нам потрібні ваші поради: %{question_title}"
+      new_answer: 
+        subject_friend: Ваш друг %{login} відповів на питання %{title}
+        subject_other: "%{login} відповів на питання %{title}"
+        subject_owner: "%{login} відповів на ваше питання %{title}"
+      new_comment: 
+        subject: "%{login} прокоментував у %{group}"
+      new_invitation: 
+        subject: "%{user} запрошує вас вступити до %{group}"
+      report: 
+        subject: Звітувати для групи %{group} на %{app}

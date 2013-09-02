@@ -1,0 +1,40 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Andriykopanytsia
+uk: 
+  admin: 
+    moderate: 
+      closing: 
+        title: Закрити питання
+      index: 
+        all: Усі
+        ban: Заборона
+        banned: Заборонені питання
+        content: Вміст
+        flagged: Позначені питання
+        item_title: Заголовок
+        need_tags: Змінити теги
+        title: Модерування
+      opening: 
+        title: Відкрити питання
+  moderate: 
+    questions: 
+      flagged: 
+        banned: Заблоковано
+        banned_tooltip: Показати лише заблоковані питання
+        filters: "Фільтри:"
+        title: Модерування питань
+        unbanned: Розблоковано
+        unbanned_tooltip: Показати лише розблоковані питання
+      index: 
+        title: Модерування питань
+      subtabs: 
+        flagged: Позначені
+        flagged_tooltip: Питання, позначені користувачами
+        retag: Потрібні теги
+        retag_tooltip: Питання без тегів
+        to_close: Запити на закриття
+        to_close_tooltip: Питання користувачів, які повинні бути закриті
+        to_open: Знову відкрити запити
+        to_open_tooltip: Закриті питання із запитом на перевідкриття

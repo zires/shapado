@@ -1,0 +1,79 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Andriykopanytsia
+# Author: SteveR
+uk: 
+  shared: 
+    any_lang: Будь-яка мова
+    by_anon: Анонім
+    current_tags: 
+      title: Вибрані теґи
+    date: Дата
+    description: Опис
+    empty: 
+      activities: 
+        description: 
+          text: Це місце буде заповнюватися автоматично, коли люди починають використовувати сайт.
+        title: Немає ніяких дій до цих пір.
+      answers: 
+        description: 
+          text: Будьте першим!
+        title: Ніхто ще не відповів на це питання.
+      default: 
+        description: 
+          text: Будьте першим у %{action_link}!
+        title: Вибач! Існує не так багато, щоб побачити тут.
+      filtered_by_language_questions: 
+        description: 
+          action_link: Натисніть тут, щоб побачити питання на всіх мовах.
+        title: Вибачте, питань немає доступних на цій мові.
+      filtered_questions: 
+        description: 
+          action_link: Натисніть тут, щоб показати всі питання
+        title: На жаль, немає питань, доступних в цьому фільтрі.
+      questions: 
+        description: 
+          text: Будьте першим, хто <a href="%{url}">задайсть питання<a/>!
+      themes: 
+        description: 
+          action_link: зараз
+          text: створити одну %{action_link}
+        title: На даний час ви ще не створили жодної теми.
+    filter: "Фільтр:"
+    language: "Мова:"
+    language_filter_tooltip: Спробуйте з іншою мовою.
+    languages: "Мови:"
+    layout: 
+      footer: 
+        cc_footer: Усі дані та вміст Shapado.com доступні за ліцензією %{cc_link}
+        powered_by: Створено %{source_link} %{version} на умовах %{agpl_link}
+    login_drop_down: 
+      openid_url: Адреса OpenID
+      sign_up_user_pass: Зареєструватися за електронною поштою/паролем
+      with_email_pass: Увійдіть за допомогою електронної пошти
+      with_facebook: з Facebook
+      with_google: з Google
+      with_identica: з Identi.ca
+      with_linked_in: з LinkedIn
+      with_openid: OpenID
+      with_twitter: з Twitter
+    manage_navigation: 
+      title_content: Вміст групи
+      title_features: Можливості групи
+      title_options: Параметри групи
+    name: Ім'я
+    preferred_lang: Мої обрані мови
+    quick_question: 
+      random_question: Відповідь на випадкове питання
+    social_connect: 
+      find_friends_facebook: Знайти друзів на Facebook
+      find_friends_identica: Знайти друзів на Identi.ca
+      find_friends_linked_in: Знайти друзів на LinkedIn
+      find_friends_twitter: Знайти друзів на Twitter
+      or_connect: "Або зв'язатися з:"
+    topbar: 
+      admin: Адміністрування
+      logged_as: Увійшли в систему як  %{login}
+      user_page: Моя сторінка
+    view_mode: "Режим перегляду:"

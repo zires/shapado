@@ -1,0 +1,78 @@
+# Messages for Maltese (Malti)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Chrisportelli
+mt: 
+  activerecord: 
+    attributes: 
+      group: 
+        description: Deskrizzjoni
+        domain: Dominju
+        forum: Ħalli iktar minn tweġiba waħda minn kull utent
+        group_created_by: maħluq minn
+        language: Lingwa awtomatika
+        languages: Lingwi żejda
+        legend: Leġġenda
+        logo: Logo
+        may_contain_adult_content: Dan is-sit jista' jkollu kontenut għall-adulti
+        name: Isem
+        owner: Dan il-grupp inħoloq minn %{login}
+        registered_only: Persuni reġistrati biss jistgħu jaċċessaw is-sit
+        signup_type: "Liema metodi jistgħu jużaw l-utenti tiegħek biex jirreġistraw:"
+        state: Stat
+        subdomain: URL
+    models: 
+      duplicate_domain_message: Jiddispjaċina, dan id-dominju diġà ttieħed.
+      group: Grupp
+      groups: Gruppi
+  groups: 
+    connect_group_to_twitter: 
+      failed_twitter_connection: Jiddispjaċina, xi ħaġa marret ħażin. Jekk jogħġbok erġa' pprova.
+    create: 
+      flash_notice: Il-grupp tiegħek inħoloq b'suċċess. Tista' tibda tikkonfigurah minn issa.
+    downgrade: 
+      notice: Irnexxielek tneħħi l-iskrizzjoni b'suċċess, issa qiegħed tuża l-pjan b'xejn.
+    edit: 
+      title: Immodifika l-grupp tiegħek
+    form: 
+      analytics_engine: Sistema ta' analytics
+      any_language: Kwalunkwe
+      custom_analytics: Ippermetti Analytics personalizzat
+      custom_html: Ippermetti HTML personalizzat
+      custom_js: Ippermetti JavaScript personalizzat
+      isolate_group: Iżola l-grupp mill-gruppi l-oħra
+      members_only: Il-membri tal-grupp biss ikunu jistgħu jaċċessaw dan il-grupp
+      signup_email: L-utent/password biss
+      website_analytics_id: ID tal-Analytics
+    group: 
+      about: Dwar
+      accept_group: Aċċetta dan il-grupp
+      allow_ads: Ippermetti r-reklami
+      close: Agħlaq
+      close_group: Agħlaq dan il-grupp
+      disallow_ads: Tippermettix ir-riklami
+    index: 
+      actives: Attiv
+      create_your_own: oħloq il-grupp tiegħek
+      filter: Fittex il-gruppi
+      most_active: L-aktar attivi
+      name: Isem
+      pendings: Pendenti
+      request_group: Itlob grupp ġdid
+      title: Gruppi
+    new: 
+      title: Oħloq il-grupp tiegħek
+    show: 
+      accept_group: Aċċetta dan il-grupp
+      accept_group_with_custom_ads: Aċċetta l-grupp u ppermetti reklami personalizzati
+      close_group: Agħlaq dan il-grupp
+      group_awaiting_acceptance: Dan il-grupp qed jistenna l-aċċettazzjoni ta' moderatur.
+      group_closed: Dan il-grupp ġie magħluq.
+      title: Dwar %{name}
+      visit_group: Żur il-grupp
+    top_grouplist: 
+      active_site: "Sit attiv:"
+    update: 
+      notice: Il-grupp tiegħek ġie aġġornat b'suċċess.
+    upgrade: 
+      error: Inti diġà abbonat ma' dan il-pjan

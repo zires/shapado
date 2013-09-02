@@ -1,0 +1,13 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Andriykopanytsia
+uk: 
+  activerecord: 
+    models: 
+      favorite: Обране
+      favorites: Обрані
+  favorites: 
+    create: 
+      success: Питання вже додано до списку обраних.
+      unauthenticated: Потрібно створити обліковий запис, щоб додати вподобання.

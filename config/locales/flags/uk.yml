@@ -1,0 +1,33 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Andriykopanytsia
+# Author: SteveR
+uk: 
+  activerecord: 
+    attributes: 
+      flag: 
+        reason: Причина
+    models: 
+      flag: Відмітка
+      flags: Відмітки
+  flags: 
+    create: 
+      flash_error: Ви не можете відмітити це
+      flash_notice: Дякуємо за ваше повідомлення
+    destroy: 
+      flash_notice: Ваш прапор був відкликаний успішно.
+    edit: 
+      title: Редагувати прапор %{model}
+    form: 
+      attention: Потребує уваги Модератора
+      label: Будьте уважні при відмітці
+      offensive: Образа, лайка або ненависть
+      spam: Спам
+    model: 
+      messages: 
+        already_requested: Ви вже позначили %{model}
+    new: 
+      title: Прапор %{model}
+    update: 
+      flash_notice: Прапор питання було успішно оновлено.

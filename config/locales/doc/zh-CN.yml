@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Hydra
+# Author: Qiyue2001
 zh-CN: 
   doc: 
     chat: 
@@ -14,12 +15,18 @@ zh-CN:
       all_support: 基于的网络电子邮件、 聊天和电话支持
       basic: 基本配套
       basic_restrictions: 没有自定义的广告并不完全可自定义的用户界面
+      basic_styling_tip: 轻松地更改您网站的配色方案、添加您自己的logo，甚至改变CSS代码。
       big_sites: 大交通站点
       custom_ads: 使用您自己的广告
+      custom_ads_tip: 使用您自己的广告，并开始赚钱！
       custom_analytics: 交通统计数据
+      custom_analytics_tip: 使用Google Analytics更好地了解您的访客。
       custom_domain: 自定义的域
+      custom_domain_tip: 使用您自己的域名，例如your-company.com，而不是your-company.shapado.com
       custom_html: 自定义 HTML
+      custom_html_tip: 完全改造整个站点的HTML代码，并使它看起来像任何你想要的东西。
       custom_js: 添加您自己的 JavaScript
+      custom_js_tip: 添加您自己自定义的JavaScript代码，如多媒体部件或jQuery插件。
       custom_themes: 请使用我们预制的自定义主题
       custom_ui: 完全可自定义用户界面
       free_plan: 免费配套
@@ -35,6 +42,7 @@ zh-CN:
       private: 私人配套
       private_private: 受限访问
       private_site: 启用专用/公共访问
+      small_basic: 入门
       start_monetizing: 开始赚钱
       support: 支持
       title: 计划和定价

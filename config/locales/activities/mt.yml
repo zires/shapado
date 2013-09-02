@@ -1,0 +1,19 @@
+# Messages for Maltese (Malti)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Chrisportelli
+mt: 
+  activerecord: 
+    models: 
+      activities: Attivitajiet
+      activity: Attività
+  activity: 
+    asked: mistoqsi
+    changed: mibdul
+    created: maħluq
+    deleted: imħassar
+    destroyed: imħassar
+    flagged: immarkat
+    requested_to_close: mitlub biex jagħlaq
+    requested_to_open: mitlub biex jiftaħ
+    updated: aġġornat

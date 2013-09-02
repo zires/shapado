@@ -3,6 +3,7 @@
 # Export driver: syck-pecl
 # Author: Hydra
 # Author: Hzy980512
+# Author: Qiyue2001
 zh-CN: 
   activerecord: 
     attributes: 
@@ -43,6 +44,7 @@ zh-CN:
       adult_content: 这一问题包含成人内容。
       body_tip: 你的问题是什么？是说明性的。
       language_tip: 选择在问这个问题是的语言。
+      related_questions_desc: 在这里将显示类似的问题。
       remove_attachment: 删除
       tags_tip: 使用标记来添加有关您的问题的详细信息。
     history: 
@@ -81,6 +83,7 @@ zh-CN:
     question: 
       accepted_tooltip: 这个问题有个已被接受的答案，
       answer_verb: 答案
+      has_answers: "%{count}个答案"
       retag: 重新标记
       wiki_title: 维基：%{title}
     retag: 

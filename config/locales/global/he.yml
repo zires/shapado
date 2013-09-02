@@ -1,0 +1,55 @@
+# Messages for Hebrew (עברית)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: YaronSh
+he: 
+  global: 
+    actions: פעולות
+    active: הפעלה
+    anonymous: אלמוני
+    blog: בלוג
+    chat: צ׳אט
+    current: נוכחי
+    feedback: משוב
+    follow: מעקב
+    following: ברשימת המעקב
+    group_not_found: העמוד %{url} אינו קיים
+    home: דף הבית
+    next_button: הבא
+    open: פתיחה
+    please_login: נא להיכנס
+    preview: תצוגה מקדימה
+    previous: הקודם
+    privacy: פרטיות
+    share: שיתוף
+    sign_up: הרשמה
+    size: גודל
+    sort_by: "מיון לפי:"
+    tags_label: "תגים:"
+    tos: תנאי שירות
+    unfollow: ביטול המעקב
+    unknown_place: לא ידוע
+    upgrade: שדרוג
+    view: הצגה
+    view_question: הצגת השאלה
+    what_to_do: מה ברצונך לעשות?
+  models: 
+    question: השאלה
+  scaffold: 
+    add: הוספה
+    back: חזרה
+    cancel: ביטול
+    close: סגירה
+    create: יצירה
+    destroy: מחיקה
+    details: פרטים
+    edit: עריכה
+    more: עוד …
+    save: שמירה
+    send: שליחה
+    show: הצגה
+    update: עדכון
+  time: 
+    ago: לפני %{time}
+    today: היום
+    yesterday: אתמול

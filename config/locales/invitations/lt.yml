@@ -1,0 +1,29 @@
+# Messages for Lithuanian (lietuvių)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Eitvys200
+lt: 
+  invitations: 
+    accept: 
+      create_account: Sukurti paskyra (1 iš 2)
+      create_account_step2: Sukurti Paskyrą
+      done: Atlikta!
+      facebook_connect: Prisijungti su savo Facebook Paskyra
+      final_step: Paskutinis žingsnis (2 iš 2)
+      find_friends: "Surasti draugus ir prisijungti:"
+      follow_things: Sekite Žymes ir Žmones
+      follow_things_description: Susiję klausymai atsiras jūsų sraute.
+      other_connect: arba naudokite vieną iš šių.
+      other_social_options: Taip pat galite naudoti %{linkedin} ir %{identica}.
+      point1: Klauskite ekspertų kurie žino apie pateiktą temą.
+      point2: Sekite temas ir klausymus kurie jus domina.
+      point3: Balsuokite ir redaguokite atsakymus ir viki puslapius, kad jie taptu geresni. Laimėkite ženklelius
+      point4: Atsakymo iš savo elektroninio pašto be jokių problemų.
+      twitter_connect: Prisijungti su savo Twitter Paskyra
+      welcome: Sveiki atvykę
+    create: 
+      flash_notice: Jūsų pakvietimas buvo sėkmingai išsiųsti.
+    resend: 
+      flash_notice: Jūsų pakvietimas buvo persiųstas sėkmingai.
+    revoke: 
+      flash_notice: Jūsų pakvietimas buvo atšauktas sėkmingai.

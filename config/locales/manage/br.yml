@@ -10,6 +10,11 @@ br:
     manage: 
       access: 
         title: Moned
+      answers: 
+        banning: 
+          title: Forbannañ ar respont
+      appearance: 
+        title: Dibabit ha personelait ho tem
       close_group: 
         feedback: "Lavarit dimp, mar plij, perak e serrit ho strollad :"
       content: 
@@ -43,8 +48,8 @@ br:
           instruction2: Amañ e rankit mont er rann DNS evit krouiñ ur CNAME.
           instruction3: Dibabit "www" pe forzh peseurt anv all evit ho CNAME.
           instruction4: "Goude-se, er vaezienn ostiz pe pal, merkit anv ho lec'hienn shapado a-vremañ : %{domain}."
-          instruction5: Ur wech graet an dra-mañ, goude un eurvezh pe ziv, e rankfe biziañ ho tomani www.%{subdomain} davet %{appdomain}.
-          instruction6: Pa vez kont evel-se e c'hallit distreiñ amañ ha merkañ hoc'h anv domani www.%{subdomain} er vaezienn a-is ha klikañ war ar bouton 'hizivaat'. M'hoc'h eus goulennoù, goulennit ouzhimp dre %{chat_url} pe war hor forom skoazellañ.
+          instruction5: Ur wech graet an dra-mañ, goude un eurvezh pe ziv, e rankfe bukañ ho tomani www.%{subdomain} war-du %{appdomain}.
+          instruction6: Pa vez kont evel-se e c'hallit distreiñ amañ ha merkañ hoc'h anv domani www.%{subdomain} er vaezienn a-is ha klikañ war ar bouton 'hizivaat'. M'ho pez goulennoù, goulennit ouzhimp dre %{chat_url} pe war hor forom skoazellañ.
           title: kefluniañ ho anv domani
           warning: Ha sur oc'h kaout c'hoant kemmañ ho domani ?
         facebook_app: 
@@ -62,8 +67,10 @@ br:
           invitations: Pedadennoù kaset
           invite: Pediñ tud
           title: Pedit an dud dre bostel
+          user_role: Pediñ implijerien evel
         post_to_twitter: 
           send_answers_to_twitter: Kas an holl respontoù da dTwitter
+          send_comments_to_twitter: Kas an holl evezhiadennoù da Twitter
           send_questions_to_twitter: Kas an holl c'houlennoù da dTwitter
         rewards: 
           reputation_rewards_description: Ar furmskrid-mañ a servij da gefluniañ penaos e c'hell un implijer gounid pe koll poentoù evit un obererezh resis
@@ -75,12 +82,20 @@ br:
           starts_with_example: "da skouer : #qa"
         title: Perzhioù ar strollad
         twitter_account: 
+          connect_to_other_twitter: Klikit amañ evit kevreañ ur gont Twitter all ouzh ho strollad
+          connect_to_twitter: Klikit amañ evit kevreañ ur gont Twitter ouzh ho strollad
+          disconnect_twitter_group: Digevreañ ar strollad-mañ diouzh Twitter
           legend: Implijet e vo ar gont-mañ da bostañ goulennoù ha respontoù nevez war dTwitter.
           twitter_account: Kont Twitter
         twitter_app: 
           key: Alc'hwez an arload
           twitter_app: Arload Twitter
+      questions: 
+        banning: 
+          title: Forbannañ ar goulenn
       social: 
+        ask_from_twitter: Goulenn adalek Twitter
+        ask_from_twitter_title: Aotren hoc'h implijerien d'ober goulennoù diwar Twitter
         description: Kevreit ho strollad gant ho rouedadoù sokial
         facebook_app: Arload Facebook
         post_to_twitter: Embann war Twitter

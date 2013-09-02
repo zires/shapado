@@ -1,0 +1,34 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Andriykopanytsia
+# Author: SteveR
+uk: 
+  invitations: 
+    accept: 
+      create_account: Створити обліковий запис (1 з 2)
+      create_account_step2: Створити обліковий запис
+      description: "%{group} містить збірку питань і відповідей на будь-яку тему."
+      done: Готово!
+      facebook_connect: З'єднатися з вашим профілем Facebook
+      final_step: Останній крок (2 із 2)
+      find_friends: "Знайдіть та підключіть друзів:"
+      follow_things: Слідкуйте за тегами і людьми
+      follow_things_description: Питання з цих тем будуть відображатися у вашій стрічці.
+      other_connect: або скористайтеся одним із них.
+      other_social_options: Ви також можете використовувати %{linkedin} і %{identica}.
+      point1: Запитайте експертів з даної теми.
+      point2: Підпишіться на цікаві для вас теми і відповідайте на запитання.
+      point3: Голосуйте, редагуйте відповіді і покращуйте вікі-сторінки. Отримуйте значки
+      point4: Відповідайте з вашого поштового клієнта без суєти.
+      twitter_connect: З'єднатися з вашим профілем Twitter
+      welcome: Ласкаво просимо
+    create: 
+      flash_notice: Ваші запрошення успішно відправлено.
+      limit_notice: 
+        one: Вибачте, не можна надіслати більше, ніж %{limit} запрошення одночасно.
+        other: На жаль, надсилати неможливо більше, ніж %{limit} запрошення одночасно.
+    resend: 
+      flash_notice: Ваше запрошення вже відправлено ще раз успішно.
+    revoke: 
+      flash_notice: Ваше запрошення вже відкликано успішно.

@@ -1,0 +1,22 @@
+# Messages for Lithuanian (lietuvių)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Eitvys200
+lt: 
+  errors: 
+    forbidden: 
+      explanation: Jus neturite reikalaujamų teisių prieiti prie šio puslapio.
+      title: Prieiga uždrausta
+    go_to: Eiti į %{link} puslapį
+    help_us_answer: Padėkite mums atsakyti %{link}
+    internal_error: 
+      explanation: Mums buvo pranešta apie šia problemą ir mes ja netruks peržvelgsime.
+      title: Atsiprašome, bet kažkas nutiko.
+    not_found: 
+      explanation: Gali būti, kad jus suklydote rašydami adresą arba puslapis buvo perkeltas.
+      title: Puslapis nerastas.
+    options_label: "Kiti dalykai pabandymui:"
+    search: Ieškoti
+    unprocessable_entity: 
+      explanation: Galbūt jus bandėte pakeisti kažką prie ko neturėjote prieigos.
+      title: Pakeitimas kurio norėjote buvo atmestas.

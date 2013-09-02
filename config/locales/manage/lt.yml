@@ -1,0 +1,81 @@
+# Messages for Lithuanian (lietuvių)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Eitvys200
+lt: 
+  admin: 
+    manage: 
+      access: 
+        title: Prieiga
+      answers: 
+        banning: 
+          title: Blokavimo atsakymas
+      appearance: 
+        logo_legend: Įkelkite savo grupės logotipą. Jis turi būti mažesnis nei 2MB.
+        title: Pasirinkite ir taikykite savo temą
+      close_group: 
+        description: Uždarant šią grupę ji bus prieinama tik jums.
+        feedback: "Prašome, pasakyti mums, kodėl uždarote savo grupę:"
+      content: 
+        description: Konfigūruokite savo grupę su pasirinktiniu tekstu ir stiliumi
+        footer: Poraštė
+        head: antraštė
+        question_help: Klausymo pagalba
+        question_prompt: Klausimo suflerius
+        title: Pasirinktinis turinys
+        top_bar: Viršutinė juosta
+        top_bar_tip: Įveskite po vieną nuorodą kiekvienoje eilutėje
+      edit_card: 
+        button: Atnaujinti savo kreditinę kortelę
+      invitations: 
+        invitations: Išsiųsti kvietimai
+        invitations_title: Sąrašas visų jūsų išsiųstu pakvietimų
+        invite: Pakviesti žmones
+        invite_title: Kviesti žmones el. paštu
+        title: Pakvietimai
+      properties: 
+        ask_from_twitter: 
+          asking_from_twitter: Klausinėti iš Twitter
+        invitations: 
+          resend_button: Persiųsti
+          revoke_button: Atšaukti
+        invite: 
+          body_instructions: Parašykite žinutę kviečiamiems žmonėms (neprivaloma)
+          body_length_warning: Tekste negali būti daugiau nei 400 simbolių
+          emails_instructions: Įveskite el. pašto adresus atskirtus kableliais
+          invitations: Išsiųsti kvietimai
+          invite: Pakviesti žmones
+          title: Kviesti žmones el. paštu
+          user_role: Pakviesti vartotojus kaip
+        post_to_twitter: 
+          post_to_twitter: Rašyti apie veiklą Twitter
+          send_answers_to_twitter: Siųsti visus atsakymus į Twitter
+          send_badges_to_twitter: Siųsti visus naujai laimėtus ženklelius į Twitter
+          send_comments_to_twitter: Siųsti visus komentarus į Twitter
+          send_favorites_to_twitter: Siųsti visus mėgstamus atsakymus į Twitter
+          send_questions_to_twitter: Siųsti visus klausymus į Twitter
+        tag_your_tweets: 
+          add_tags: Pridėti žymes jūsų žinutėms
+          ends_with_example: "pvz #shapado"
+          starts_with_example: "pvz #qa"
+          title: Pažymėti jūsų žinutes
+        title: Grupės nustatymai
+      questions: 
+        banning: 
+          title: Blokavimo klausymas
+      social: 
+        ask_from_twitter: Klausti iš Twitter
+        ask_from_twitter_title: Liesti jūsų vartotojams klausti iš Twitter
+        description: Prijunkite savo grupę prie savo socialinių tinklų
+        facebook_app: Facebook Programėlė
+        facebook_app_title: Konfigūruoti savo Facebook programėle kuri leis jūsų vartotojams prisijungti su savo Facebook paskyra
+        post_to_twitter: Rašyti į Twitter
+        post_to_twitter_title: Rašyti visus klausymus ir atsakymus į Twitter automatiškai
+        tag_your_tweets: Pažymėti jūsų žinutes
+        tag_your_tweets_title: Pridėti žymes jūsų žinutėms
+        title: Socialinių tinklų Sąveika
+        twitter_account: Twitter Paskyrą
+        twitter_account_title: Konfigūruoti savo Twitter paskyra kuri bus naudojama rašyti į Twitter
+      top_admin: 
+        site: Svetainė
+        title: Administratorius

@@ -18,6 +18,7 @@ roa-tara:
       see_all: "'Ndruche tutte le badge"
       title: Badge recende
     contributors: 
+      description: Stu ggegge face vedè l'elenghe de le crestiàne ca onne condrebbuite a 'na domande.
       title: Condrebbutore de domande
     create: 
       notice: "'U ggegge ha state ccrejate cu successe."
@@ -60,7 +61,9 @@ roa-tara:
     related_questions: 
       title: Domande collegate
     settings: 
+      code: "Copie e 'ngolle stu codece jndr'à 'u site o blog tune, cumme a 'nu ggegge de teste jndr'à WordPress:"
       content: "Mitte l'HTML ca vuè aqquà:"
+      custom_external_css: "'Nglude le CSS personalizzate jndr'à 'u ggegge tune (consigliate ce tu non ge 'nglude 'u CSS Shapado):"
       custom_html: "HTML personalizzate:"
       exclude_css_on_external: Esclude 'u site shapado CSS tune da 'u ggegge tune
       limit: "Quanditate da fà vedè:"
@@ -73,6 +76,12 @@ roa-tara:
     sharing_buttons: 
       description: Stu ggegge face vedè le buttune pa condivisione de le suggiale.
       title: Condivide quiste sus a
+    suggestions: 
+      follow_tag: + Segue 'u tag
+      follow_user: + Segue l'utende
+      followed_by: Seguite da %{user}
+      unfollow_tag: "- No seguì 'u tag"
+      unfollow_user: "- No seguì l'utende"
     tag_cloud: 
       description: "'U ggegge face vedè 'na nuvole de tag."
       title: Nuvole de tag

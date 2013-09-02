@@ -1,28 +1,42 @@
 # Messages for Ukrainian (українська)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Andriykopanytsia
 # Author: Base
 # Author: Steve.rusyn
 # Author: SteveR
 uk: 
   widgets: 
     about: 
+      description: Цей віджет відображає короткий опис вашої групи.
       title: Про програму
     adsense: 
       description: Цей віджет дозволяє показувати рекламу Google AdSense.
       title: AdSense
     ask_question: 
       ask: Запитати
+      description: Цей віджет дозволяє користувачам задавати питання звідусіль.
+      footer: Подивитися всі питання на %{group}
+      title: "Задайте питання:"
+      view_question: <p>Ви можете переглянути це <a href="%{question}">тут</a> або поставити ще одне нижче.</p>
     badges: 
       description: Цей віджет показує поточні бейджі отримані користувачами.
       see_all: Переглянути усі бейджі
       title: Поточні бейджі
+    contributors: 
+      description: Цей віджет відображає список людей, які внесли свій вклад у питання.
+      title: Учасники обговорення питання
     create: 
       notice: Віджет було успішно створено.
+    current_tags: 
+      description: Цей віджет відображає мітки, пов'язані з поточним користувачем.
     custom_html: 
       description: Додає будь-який HTML, що Ви хочете тут.
     edit: 
       title: Редагувати віджет
+    group_networks: 
+      description: Цей віджет відображає список посилань на соціальні мережі, так що користувачі можуть слідкувати за вами там.
+      title: Слідкуйте за нами
     groups: 
       description: Цей віджет показує останні групи.
       title: Останні групи
@@ -44,30 +58,59 @@ uk:
       type: "Тип:"
       welcome_widgets: Ласкаво просимо
       zone: "Розділ сторінки:"
+    mod_info: 
+      description: Цей віджет відображає інформацію, що відноситься до модераторів, таку як прапори і запити до звітності.
     pages: 
       description: Цей віджет показує список вікі-сторінок.
       new: Додати нову сторінку
       title: Вікі-сторінки
+    question_badges: 
+      description: Цей віджет відображає значки, зароблені на цьому питанні.
+      title: Мітки питань
+    question_stats: 
+      description: Цей віджет відображає статистику питання на кшталт дати створення і числа переглядів.
+    question_tags: 
+      description: Цей віджет відображає мітки, пов'язані з поточною сторінкою.
+      title: Мітки питань
+    related_questions: 
+      description: Цей віджет показує список питань, пов'язаних з поточним питанням.
+      title: Пов'язані питання
     settings: 
+      code: "Скопіюйте та вставте цей код на ваш сайт або блог, як текстовий віджет у вашому WordPress:"
       content: "Вставте бідь-який HTML, що Ви хочете тут:"
+      custom_external_css: "Включити спеціальний CSS до вашого віджету (рекомендується, якщо ви не включаєте Shapado CSS):"
       custom_html: "Нестандартний HTML:"
       exclude_css_on_external: Виключити CSS Вашого shapado-сайту із Вашого віджету
       limit: "Кількість для показу:"
       on_questions: Показувати на сторінці головного списку запитань
       on_show_question: Показувати під час показу запитань
       on_welcome: Показувати на вітальній сторінці
+      preview: "Попередній перегляд віджету:"
+    share: 
+      description: Цей віджет відображає різні кнопки для доступу до поточної сторінки до соціальних мереж.
+      title: Поділитися в
+    sharing_buttons: 
+      description: Цей віджет відображатиме кнопки соціальних мереж.
+      title: Поділитися цим на
     suggestions: 
+      description: Пропозиція друзів та міток для підписки користувача
       follow_tag: + Підписатись на теґ
       follow_user: + Підписатись на користувача
+      followed_by: Відстежуваний %{user}
+      title: Люди і мітки для відстеження
       unfollow_tag: "- Відписатись від теґу"
       unfollow_user: "- Відписатись від користувача"
     tag_cloud: 
       description: Цей віджет показує хмаринку теґів.
       title: Хмаринка теґів
     tag_list: 
+      description: Цей віджет відображає мітки, пов'язані з поточною сторінкою.
       title: Теґи
     top_groups: 
       description: Цей віджет показує п'ять найкращих груп.
+      has_members: 
+        one: "%{count} учасник"
+        other: "%{count} учасники"
       title: 5 найкращих груп
     top_users: 
       description: Цей віджет показує п'ять найкращих користувачів.

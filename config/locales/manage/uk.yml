@@ -1,0 +1,128 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Andriykopanytsia
+# Author: SteveR
+uk: 
+  admin: 
+    manage: 
+      access: 
+        title: Доступ
+      answers: 
+        banning: 
+          title: Заборонити відповідь
+      appearance: 
+        logo_legend: Завантажте логотип для вашої групи. Він повинен бути меншим, ніж 2 Мб.
+        title: Виберіть і налаштуйте вашу тему
+      close_group: 
+        description: Закриття групи зробить її недоступною для кожного, окрім вас.
+        feedback: "Будь ласка, повідомте нам, чому ви закриваєте групу:"
+      content: 
+        description: Налаштуйте групу з спеціальним текстом і оформленням
+        footer: Нижній колонтитул
+        head: верхній колонтитул
+        question_help: Довідка з питання
+        question_prompt: Рядок питання
+        title: Спеціальний вміст
+        top_bar: Верхня панель
+        top_bar_tip: Введіть по одному посиланню на рядок
+      edit_card: 
+        button: Оновити вашу кредитну картку
+      invitations: 
+        invitations: Надіслати запрошення
+        invitations_title: Список всіх запрошень, які було надіслано
+        invite: Запросити людей
+        invite_title: Запросити людей по електронній пошті
+        title: Запрошення
+      properties: 
+        ask_from_twitter: 
+          asking_from_twitter: Задавати питання з Twitter
+          question_asked_to: Питання до
+          question_must_include: Питання повинно включати наступний тег, щоб твітнути його.
+          question_must_include_example: "наприклад. #iAsk"
+          twitter_account: Ваші користувачі з облікового запису Twitter зможуть задавати питання.
+        constrains: 
+          reputation_constrains_description: Цей форма дозволяє налаштувати кількість очків репутації, що нараховуються користувачам у відповідь на задані дії
+          reputation_constrains_subtitle: Перелік обмежень по репутації для кожної дії
+          title: Вимоги
+        domain: 
+          description: "Ви можете налаштувати ваш сайт так, щоб до нього можна було звертатися через власний домен; ось, що для цього необхідно зробити:"
+          instruction1: Для цього потрібно спочатку представитися вашому провайдеру домену (сайту, де ви купили домен, на кшталт %{subdomain}.com).
+          instruction2: Там вам потрібно зайти в розділ DNS і створити щось зване CNAME.
+          instruction3: Виберіть «www» або що-небудь інше в якості імені CNAME.
+          instruction4: "Потім у полі хосту або призначення вкажіть поточний домен shapado: %{domain}."
+          instruction5: Як тільки це буде зроблено, приблизно через годину, ваш домен %{subdomain} повинен вказувати на %{appdomain}.
+          instruction6: Якщо це так, поверніться сюди, вкажіть ваше доменне ім'я %{subdomain} в поле нижче і натисніть кнопку «Оновити». Якщо у вас є питання, задайте їх нам в %{chat_url} або на нашому форумі підтримки
+          title: Установка користувацького домену
+          warning: Ви впевнені, що хочете змінити ваш домен?
+        facebook_app: 
+          application_id: Ідентифікатор застосунку
+          facebook_app: Налаштування програми Facebook
+          legend: Можна налаштувати додаток Facebook. Воно буде використано для входу ваших користувачів, використовуючи їх обліковий запис Facebook. Зверніть увагу, що це необхідно, тільки якщо ви використовуєте власний домен.
+          secret_key: Секретний ключ
+        general: 
+          title: Властивості групи
+        invitations: 
+          resend_button: Переслати
+          revoke_button: Відкликати
+        invite: 
+          body_instructions: Написати повідомлення для людей, яких ви запрошуєте (необов'язково)
+          body_length_warning: Тіло не може містити більше 400 символів
+          emails_instructions: Введіть адреси електронної пошти, відокремлені комою
+          invitations: Надіслати запрошення
+          invite: Запросити людей
+          title: Запросити людей по електронній пошті
+          user_role: Запросити користувачів як
+        post_to_twitter: 
+          legend: Ця сторінка дозволяє налаштувати, що відправляється на Twitter. Обліковий запис, що використовується <a href="http://twitter.com/%{twitter_account}">@%{twitter_account}</a> якщо ви хочете використовувати інший обліковий запис, будь ласка, натисніть <a href="%{link}">тут</a>.
+          legend_connect: Ця сторінка дозволяє налаштувати, що відправляється на Twitter. Спершу потрібно вказати обліковий запис Twitter, будь ласка, натисніть <a href="%{link}">тут</a> , щоб зробити це.
+          post_to_twitter: Публікувати дільність у Твіттері
+          send_answers_to_twitter: Надіслати всі відповіді на Twitter
+          send_badges_to_twitter: Надсилати мої недавно виграні значки на мій Twitter
+          send_comments_to_twitter: Відправити всі коментарі на Twitter
+          send_favorites_to_twitter: Надсилати мої улюблені відповіді на мій Twitter
+          send_questions_to_twitter: Надсилати мої запитання на Твіттер
+        rewards: 
+          reputation_rewards_description: Ця форма дозволяє налаштувати як користувачі можуть виграти і втрачати очки репутації для даної дії
+          reputation_rewards_subtitle: Список винагород до репутації
+          title: Винагороди
+        share: 
+          title: Поділитися
+        tag_your_tweets: 
+          add_tags: Додати теги до ваших твітів
+          ends_with_example: "наприклад. #shapado"
+          starts_with_example: "наприклад. #qa"
+          title: Теги ваших твітів
+          tweet_ends_with: Вставити тег у кінець твітів
+          tweet_starts_with: Вставити тег на початку твітів
+        title: Властивості групи
+        twitter_account: 
+          connect_to_other_twitter: Натисніть тут, щоб підключити обліковий запис Twitter до групи
+          connect_to_twitter: Натисніть тут, щоб підключити обліковий запис Twitter до вашої групи
+          disconnect_twitter_group: Вимкнути цю групу з Twitter
+          legend: Цей обліковий запис буде використовуватися для повідомлень, нових питань та відповідей на Twitter.
+          legend_with_account: Ваш обліковий запис на Твіттері <a href="https://twitter.com/%{twitter_account}">@%{twitter_account}</a>  буде використовуватися для повідомлень, нових питань та відповідей. Ви можете налаштувати, що відправляється в Twitter <a href="%{link}">тут</a>.
+          twitter_account: Обліковий запис Твіттера
+        twitter_app: 
+          key: Ключ програми
+          secret: Секрет програми
+          twitter_app: Додаток Twitter
+      questions: 
+        banning: 
+          title: Заборонити питання
+      social: 
+        ask_from_twitter: Питання із Твіттера
+        ask_from_twitter_title: Дозволити користувачам задавати питання з Твіттера
+        description: Підключіть вашу групу до соціальної мережі
+        facebook_app: Програма Facebook
+        facebook_app_title: Налаштувати вашу програму Facebook, яка буде використовуватися, щоб дозволити користувачам вхід зі свого облікового запису Facebook
+        post_to_twitter: Публікація на Твіттері
+        post_to_twitter_title: Опублікувати всі питання і відповіді на Twitter автоматично
+        tag_your_tweets: Теги ваших твітів
+        tag_your_tweets_title: Додати теги до ваших твітів
+        title: Взаємодія із соціальними медіа
+        twitter_account: Обліковий запис Твіттера
+        twitter_account_title: Налаштуйте ваш обліковий запис Twitter, які будуть використовуватися для публікації на Twitter
+      top_admin: 
+        site: Сайт
+        title: Адміністратор

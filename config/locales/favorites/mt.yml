@@ -1,0 +1,13 @@
+# Messages for Maltese (Malti)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Chrisportelli
+mt: 
+  activerecord: 
+    models: 
+      favorite: Favorit
+      favorites: Favoriti
+  favorites: 
+    create: 
+      success: Il-mistoqsija ġiet miżjuda mal-favoriti tiegħek.
+      unauthenticated: Għandek bżonn kont biex iżżid il-favoriti.

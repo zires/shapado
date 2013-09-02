@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: EugeneZelenko
+# Author: Shirayuki
 qqq: 
   activerecord: 
     models: 
@@ -10,4 +11,5 @@ qqq:
   activity: 
     created: "{{Identical|Created}}"
     deleted: "{{Identical|Deleted}}"
+    flagged: "{{Identical|Flagged}}"
     updated: "{{Identical|Updated}}"

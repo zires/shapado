@@ -1,6 +1,7 @@
 # Messages for Brazilian Portuguese (português do Brasil)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Dianakc
 # Author: Pedroca cerebral
 pt-BR: 
   activerecord: 
@@ -12,6 +13,7 @@ pt-BR:
     changed: mudou
     created: criado
     deleted: eliminado
+    destroyed: excluído
     flagged: marcou
     requested_to_close: solicitou o fechamento
     requested_to_open: solicitou a abertura

@@ -1,0 +1,39 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Andriykopanytsia
+# Author: SteveR
+uk: 
+  activerecord: 
+    models: 
+      vote: Голос
+      votes: Голоси
+  votes: 
+    comments: 
+      title: 
+        has_no_user_vote: 
+          one: Лише %{count} користувач вже проголосував за цей коментар, натисніть, щоб також проголосувати за це.
+          other: Понад %{count} людини вже проголосували за цей коментар, натисніть, щоб також проголосувати за це.
+          zero: Натисніть, щоб проголосувати за цей коментар.
+        has_user_vote: 
+          one: Ви і %{count} інший користувач позитивно оцінив цей коментар.
+          other: Ви і %{count} інші користувачі позитивно оцінили цей коментар.
+          zero: Лише ви позитивно оцінили цей коментар.
+    control: 
+      have_voted_down: Натисніть, щоб скасувати ваш голос „проти“
+      have_voted_up: Натисніть, що скасувати ваш голос „за“
+      to_vote_down: Натисніть, щоб проголосувати „проти“
+      to_vote_up: Натисніть, щоб проголосувати „за“
+    create: 
+      average: 
+        one: "%{count} голос"
+        other: "%{count} голоси"
+      flash_error: Ви не можете голосувати тут
+      flash_notice: Дякуємо за голосування!
+      unauthenticated: Анонімні користувачі не можуть голосувати
+    destroy: 
+      flash_notice: Ваш голос був відкликаний успішно.
+    model: 
+      messages: 
+        closed_question: Ви не можете проголосувати за будь-які повідомлення, що належать до закритого питання
+        vote_down_comment: За коментарі не можна голосувати „проти“

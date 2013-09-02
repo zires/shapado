@@ -1,0 +1,23 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Andriykopanytsia
+# Author: SteveR
+uk: 
+  wiki: 
+    actions: 
+      all_history: Назад до історії
+      back_to_question: Назад до питання
+      revert: Повернути до цієї версії
+      show_diff: Порівняти вибрані версії
+    diff: 
+      title: Відмінності між %{prev} та %{curr}
+    history: 
+      current_version: Поточна версія
+      previous_versions: Попередні версії
+      title: Історія (%{count})
+      version: Версія
+      version_summary: Підсумок версії
+    model: 
+      attributes: 
+        message: Підсумок

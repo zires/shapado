@@ -1,7 +1,9 @@
 # Messages for Brazilian Portuguese (português do Brasil)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Dianakc
 # Author: Giro720
+# Author: Leosls
 # Author: Luckas
 # Author: Luckas Blade
 # Author: Nighto
@@ -60,7 +62,7 @@ pt-BR:
       submit: Salvar
       title: Definições
     follow: 
-      flash_notice: O usuário %{user} foi adicionado a sua lista de amigos
+      flash_notice: Você está seguindo %{user}.
     form: 
       activities_notification: Receber por e-mail notificações de atividades de sistema, como condecorações dadas, novos seguidores, etc.
       avatar_tip: Alterar a imagem do perfil usando o Gravatar
@@ -76,6 +78,8 @@ pt-BR:
       filter: Busca usuários
       name: Nome
       name_tooltip: Usuários por ordem alfabética
+      near: Perto de você
+      near_tooltip: Usuários que estão perto de você
       newest: Mais recentes
       newest_tooltip: Usuários que se acabam de aderir
       oldest: Mais antigos
@@ -101,6 +105,10 @@ pt-BR:
       connect: Conectar
       profile: Perfil
     unfollow: 
-      flash_notice: O usuário %{user} foi removido da sua lista de amigos
+      flash_notice: Você não está mais seguindo %{user}
+    user_bar: 
+      create_account: Criar uma conta
     user_mini: 
+      admin: "[ Administrador ]"
       editor: "[ Editor ]"
+      mod: "[ Moderador ]"

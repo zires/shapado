@@ -1,0 +1,22 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Andriykopanytsia
+uk: 
+  open_requests: 
+    create: 
+      flash_notice: Запит на повторне відкриття успішно створено
+    destroy: 
+      flash_notice: Запит на повторне відкриття успішно вилучено
+    edit: 
+      title: Редагувати запит на повторне відкриття
+    form: 
+      request_opening_details: Запит на повторне відкриття цього питання
+    index: 
+      title: Список запитів на повторне відкриття
+    model: 
+      prural_name: Запит на повторне відкриття
+    new: 
+      title: Запит на повторне відкриття
+    update: 
+      flash_notice: Запит на повторне відкриття успішно оновлено

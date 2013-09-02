@@ -1,0 +1,26 @@
+# Messages for Lithuanian (lietuvių)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Eitvys200
+lt: 
+  mailers: 
+    notifications: 
+      created_flag: 
+        subject: Naujas pranešimas pažymėtas %{group}
+      earned_badge: 
+        subject: Jūs uždirbote ženklelį %{group}!
+      favorited: 
+        subject: "%{login} pridėjo jūsų klausymą į favoritus!"
+      follow: 
+        subject: "%{login} dabar jus seka %{app}"
+      give_advice: 
+        friend_subject: "Jūsų draugui reikia pagalbos: %{question_title}"
+        subject: "Mums reikia jūsų patarimo: %{question_title}"
+      new_answer: 
+        subject_friend: Jūsų draugas %{login} atsakė į jūsų klausymą %{title}
+        subject_other: "%{login} atsakė į klausymą %{title}"
+        subject_owner: "%{login} atsakė į jūsų klausymą %{title}"
+      new_comment: 
+        subject: "%{login} pakomentavo %{group}"
+      new_invitation: 
+        subject: "%{user} kviečia jus prisijungti prie %{group}"

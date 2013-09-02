@@ -1,0 +1,13 @@
+# Messages for Lithuanian (lietuvių)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Eitvys200
+lt: 
+  activerecord: 
+    models: 
+      favorite: Favoritas
+      favorites: Favoritai
+  favorites: 
+    create: 
+      success: Klausymas buvo pridėtas į jūsų favoritus.
+      unauthenticated: Jums reikia paskyros jei norite įtraukti į favoritus.

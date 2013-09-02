@@ -1,7 +1,9 @@
 # Messages for Brazilian Portuguese (português do Brasil)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Dianakc
 # Author: Giro720
+# Author: Leosls
 # Author: Luckas
 # Author: Luckas Blade
 # Author: Pedroca cerebral
@@ -26,7 +28,9 @@ pt-BR:
     by_semi: "Por:"
     chat: Chat
     current: Atual
+    downgrade_to_free: Downgrade para livre
     edited: Editado
+    edited_by: Editado por
     edited_by_semi: "Editado por:"
     feedback: Comentários
     follow: Seguir
@@ -51,6 +55,7 @@ pt-BR:
     tos: Termos de serviço
     unfollow: Deixar de seguir
     unknown_place: Desconhecido
+    upgrade: Atualizar
     view: Ver
     view_question: Ver pergunta
     what_to_do: O que quer fazer?

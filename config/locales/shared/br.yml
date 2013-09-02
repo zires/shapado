@@ -29,10 +29,14 @@ br:
       filtered_questions: 
         description: 
           action_link: Klikit amañ da ziskouez an holl c'houlennoù
+      questions: 
+        description: 
+          text: Bezit an hini kentañ oc'h <a href="%{url}">ober ur goulenn<a/> !
       themes: 
         description: 
           action_link: bremañ
           text: krouiñ ur %{action_link}
+        title: N'ho peus krouet tem ebet evit c'hoazh.
     filter: "Sil:"
     language: "Yezh :"
     language_filter_tooltip: Klaskit gant ur yezh nevez !

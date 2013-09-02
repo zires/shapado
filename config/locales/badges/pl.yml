@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: BeginaFelicysym
+# Author: Faren
 # Author: Sp5uhe
 # Author: Ty221
 # Author: Woytecr
@@ -28,6 +29,8 @@ pl:
     shared: 
       addict: 
         description: Odwiedzali witrynę codziennie przez kolejnych 20 dni
+      altruist: 
+        name: Altruista
       autobiographer: 
         description: Wypełnione wszystkie pola profilu użytkownika
         name: Autobiograf
@@ -44,6 +47,7 @@ pl:
         name: Komentator
       critic: 
         description: Głosował negatywnie po raz pierwszy
+        name: Krytyk
       disciplined: 
         description: Usunął własną wiadomość z punktacją 3 lub wyższą
         name: Zdyscyplinowany
@@ -71,14 +75,25 @@ pl:
         name: Przyjazny
       good_answer: 
         description: Udzielił odpowiedzi, która osiągnęła średnio ponad 25 głosów
+        name: Dobra odpowiedź
+      good_question: 
+        name: Dobre pytanie
       great_answer: 
         description: Na odpowiedź głosowano aż 100 razy
         name: Znakomita odpowiedź
+      great_question: 
+        name: Świetne pytanie
       guru: 
         description: Podał rozwiązanie pytania o średnio więcej niż 40 głosach
         name: Guru
       inquirer: 
         description: Zapytał po raz pierwszy
+      interesting_person: 
+        name: Ciekawa osoba
+      merit_medal: 
+        description: Otrzymał 200 pozytywnych głosów
+      necromancer: 
+        name: Nekromanta
       notable_question: 
         description: Zadać pytanie, które ma 2500 wyświetleń
         name: Pytanie godne uwagi
@@ -88,6 +103,9 @@ pl:
       peer_pressure: 
         description: Usunął własną wiadomość z punktacją -3 lub niższą
         name: Presja otoczenia
+      pioneer: 
+        description: Był jednym z pierwszych zarejestrowanych użytkowników
+        name: Pionier
       popstar: 
         description: Uzyskało 500 głosów za, nie więcej niż 10 głosów przeciw
         name: Gwiazda popu
@@ -115,6 +133,7 @@ pl:
         name: Uczeń
       supporter: 
         description: Pozytywnie głosowali po raz pierwszy
+        name: Pomocnik
       tutor: 
         name: Tutor
     show: 

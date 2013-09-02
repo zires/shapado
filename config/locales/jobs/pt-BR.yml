@@ -1,0 +1,23 @@
+# Messages for Brazilian Portuguese (português do Brasil)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Dianakc
+# Author: Leosls
+# Author: Pedroca cerebral
+pt-BR: 
+  jobs: 
+    answers: 
+      on_create_answer: 
+        group_send_twitter: "%{user} respondeu: %{question}"
+        send_twitter: Minhas respostas em %{question}
+      on_favorite_answer: 
+        group_send_twitter: "%{user} gostei de uma resposta do %{author} sobre: %{question}"
+        send_twitter: "Eu gostei da resposta de %{author} em: %{question}"
+    base: 
+      create_badge: 
+        group_send_twitter: "%{user} acaba de ganhar a insígnia %{token} em %{group_name} %{link}"
+        send_twitter: Acabou de ganhar a insígnia %{token} em %{group_name} %{link}
+    comments: 
+      on_comment: 
+        group_on_comment: "%{user} comentou em: %{question}"
+        send_twitter: Meu comentário em %{question}

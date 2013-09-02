@@ -1,0 +1,99 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Andriykopanytsia
+# Author: Olvin
+# Author: SteveR
+uk: 
+  feeds: 
+    feed: Канал
+    post_new_questions: Опублікувати нові питання у
+    question: Підписатися на це питання
+    questions: Підписатися на всі питання
+    share_on_twitter: Twitter, Facebook та інше…
+    tag: Підписатися на тег
+    user: Підписатися на запитання користувача
+  global: 
+    actions: Дії
+    active: Активувати
+    alphabetically: За абеткою
+    anonymous: Анонім
+    blog: Блог
+    by: від
+    by_semi: "Від:"
+    chat: Чат
+    current: Поточний
+    downgrade_to_free: Понизити до безкоштовної
+    edited: Відредаговано
+    edited_by: Змінено
+    edited_by_semi: "Змінено:"
+    feedback: Зворотний зв'язок
+    follow: Підписатись
+    followed_by: "Підписники:"
+    following: Підписаний на
+    from: з %{site}
+    group_not_found: Сторінка %{url} не існує
+    home: Головна
+    next_button: Далі
+    open: Відкрити
+    or: або
+    permission_denied: Доступ заборонено
+    please_login: Будь ласка, увійдіть
+    preview: Попередній перегляд
+    previous: Попередній
+    privacy: Конфіденційність
+    share: Поділитися
+    sign_up: Зареєструватись
+    size: Розмір
+    sort_by: "Впорядкувати за:"
+    tags_label: "Теґи:"
+    tos: Умови
+    unfollow: Скасувати підписку
+    unknown_place: Невідомо
+    upgrade: Оновити
+    view: Перегляд
+    view_question: Переглянути запитання
+    what_to_do: Що ви хочете зробити?
+  models: 
+    question: Запитання
+  number: 
+    x_time: 
+      one: "%{count} раз"
+      other: "%{count} рази"
+      zero: ні разу
+  preferred_languages: 
+    any: Будь-який
+    user: Мої обрані мови
+  roles: 
+    moderator: Модератор
+    owner: Власник
+    user: Регулярний користувач
+  scaffold: 
+    add: Додати
+    are_you_sure: Ви впевнені?
+    back: Назад
+    cancel: Скасувати
+    close: Закрити
+    create: Створити
+    destroy: Вилучити
+    details: Деталі
+    edit: Редагувати
+    more: Більше...
+    new: Додати нове %{model}
+    post_as_anonymous: Опублікувати анонімно
+    save: Зберегти
+    send: Надіслати
+    show: Показати
+    sure: Ви дійсно хочете вилучити %{model}?
+    update: Оновити
+  time: 
+    ago: "%{time} тому"
+    today: сьогодні
+    yesterday: вчора
+  views: 
+    pagination: 
+      first: Перша
+      last: Остання
+      next: Далі&raquo;
+      previous: "&laquo; Назад"
+      truncate: ...

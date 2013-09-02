@@ -18,5 +18,9 @@ oc:
     edit: 
       title: Modificacion de la responsa
     form: 
+      answer_label: Respondre a la question
+      comment_label: Comentar sus aquesta responsa
       comment_submit: Comentar
       submit: Respondre
+    revert: 
+      title: Tornar a aquesta responsa

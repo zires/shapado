@@ -1,0 +1,8 @@
+# Messages for Maltese (Malti)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Chrisportelli
+mt: 
+  custom_html: 
+    question_help: Agħti kemm jista' jkun dettalji sabiex ikollha iktar ċans li tiġi mwieġba minflok ma tibqa' tiġi diskussa kontinwament. Prova kun ċar u sempliċi.
+    question_prompt: x'inhi l-mistoqsija tiegħek? kun deskrittiv.

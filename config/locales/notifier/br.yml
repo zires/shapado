@@ -41,6 +41,7 @@ br:
     new_invitation: 
       message1: Klikit amañ evit asantiñ d'ar bedadenn %{link}
       message2: Ar skipailh %{group}.
+      subject: "%{user} en deus pedet ac'hanoc'h e %{group}"
     report: 
       message1: Danevell evit ar strollad %{group}
       message2: Abaoe %{date}

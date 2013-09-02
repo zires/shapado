@@ -21,9 +21,13 @@ pt-PT:
       addict: 
         description: Visitou o site em 20 dias consecutivos
         name: Viciado
+      altruist: 
+        name: Altruísta
       autobiographer: 
         description: Preencheu todos os campos do perfil de utilizador
         name: Autobiógrafo
+      benefactor: 
+        name: Benfeitor
       celebrity: 
         description: Obteve mais de 100 seguidores
         name: Celebridade
@@ -124,6 +128,8 @@ pt-PT:
       popular_question: 
         description: Fez uma pergunta com 1000 visitas
         name: Pergunta popular
+      promoter: 
+        name: Promotor
       rockstar: 
         description: Tem 1000 votos positivos, máximo de 10 votos negativos
         name: Estrela de rock

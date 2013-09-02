@@ -1,0 +1,21 @@
+# Messages for Maltese (Malti)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Chrisportelli
+mt: 
+  activerecord: 
+    attributes: 
+      announcement: 
+        ends_at: Jispiċċa fil-
+        message: Messaġġ
+        only_anonymous: Għall-utenti anonimi biss
+        starts_at: Jibda fil-
+  announcements: 
+    actions: 
+      delete: Neħħi
+      title: Azzjonijiet
+    create: 
+      success: L-avviż tiegħek inħoloq b'suċċess.
+    index: 
+      description: Amministra u oħloq avviżi ġodda li jintwerew fuq is-sit kollu lill-viżitaturi tiegħek.
+      title: Avviżi

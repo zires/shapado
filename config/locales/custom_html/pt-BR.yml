@@ -1,0 +1,8 @@
+# Messages for Brazilian Portuguese (português do Brasil)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Dianakc
+pt-BR: 
+  custom_html: 
+    question_help: Forneça o máximo de detalhes possível para ter mais chance de obter uma resposta em vez de começar uma discussão. Tente ser claro e simples.
+    question_prompt: qual é a sua pergunta? seja descritivo.

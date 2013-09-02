@@ -1,0 +1,183 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Andriykopanytsia
+# Author: Base
+# Author: SteveR
+# Author: Тест
+uk: 
+  activerecord: 
+    attributes: 
+      question: 
+        answers: Відповіді
+        asked_by: Задано
+        banned: Заблоковано
+        body: Текст
+        closed: Закрито
+        created_at: Задано
+        language: Мова
+        tags: Теґи
+        title: Заголовок
+        updated_at: оновлено
+        updated_by: оновлено
+        views: Перегляди
+        votes: Голоси
+    models: 
+      question: Запитання
+      questions: Запитання
+  questions: 
+    answer: 
+      add_comment: Додати коментар
+      favorite: Зберегти
+      favorite_tooltip: Додати цю відповідь до вподобань
+      flag: Відмітка
+      pick_answer: Вибрати як рішення
+      unfavorite: Не зберігати
+      unfavorite_tooltip: Видалити цю відповідь з уподобань
+      unset_answer: Не використовувати рішення?
+    answer_toolbar: 
+      flagged_by_you: Позначені Вами
+    close: 
+      failure: Це питання має активну нагорода і не може бути закритим.
+    create: 
+      already_registered: Користувач з адресою електронної пошти %{email} вже зареєстрований, будь ласка, увійдіть за допомогою цієї адреси електронної пошти.
+      flash_notice: Питання було успішно створено.
+    disallow_spam: 
+      error: Необхідно почекати 20 секунд, перш ніж відправляти інше питання.
+    edit: 
+      title: Редагування питання
+    flag: 
+      title: Відмітити питання
+    form: 
+      add_attachment: Додати вкладення
+      adult_content: Це питання містить матеріали для дорослих.
+      body_tip: Яке Ваше запитання? Будьте інформативними.
+      language_tip: Виберіть мову запитання.
+      related_questions_desc: Тут будуть відображатися подібні питання.
+      remove_attachment: Вилучити
+      tags_tip: Використовувати теги, щоб додати більше інформації про ваше запитання.
+    history: 
+      back: ← назад до питання
+    index: 
+      active: Активні
+      active_tooltip: Недавно оновлені запитання
+      ask_question: Поставити запитання
+      empty: Ще ніхто не ставив запитань. Будьте першим!
+      followers_tooltip: Питання з більшістю послідовників
+      has_followers: 
+        one: "%{count} послідовник"
+        other: "%{count} послідовники"
+      help_to_answer: Допоможіть нам відповісти
+      hot: Гарячі
+      hot_tooltip: Запитання із найбільшою активністю за останні 5 днів
+      newest: Найновіші
+      newest_tooltip: Недавно задані запитання
+      oldest: Найстаріші
+      title: Усі запитання
+      unanswered_questions: Запитання без відповідей
+      votes: Голоси
+    model: 
+      messages: 
+        empty_tags: На жаль, ви повинні використовувати принаймні один тег.
+        tags_not_added: Теги '%{tags}' не можуть бути додані. Вам потрібна репутація %{reputation_required} для створення нових тегів
+        title_too_long: На жаль, назва не може містити більше 100 символів.
+        too_many_tags: На жаль, ви можете ввести максимум 20 тегів.
+        too_short: 
+          one: Вибачте, ваш заголовок повинен мати більше  %{count} слова.
+          other: На жаль, ваш заголовок повинен мати більше %{count} слів.
+    move: 
+      group_label: "Перемістити до групи з іменем:"
+      submit: Перемістити!
+      title: "Перемістити питання: %{title}"
+    move_to: 
+      group_dont_exists: Група %{group} не існує
+      success: Питання переміщено до %{group}
+    new: 
+      description: Будь ласка, пишіть зрозуміло і переконайтеся, що додали теги, так що ваше питання може бути легко виявлено.
+      how_to_ask: Як задавати питання
+      title: Поставити запитання
+    question: 
+      accepted_tooltip: Це питання має відповідь, яка була прийнята
+      answer_verb: Відповідь
+      has_answers: 
+        one: "%{count} відповідь"
+        other: "%{count} відповіді"
+      retag: Змінити теги
+      wiki_title: "Вікі: %{title}"
+    retag: 
+      title: Змінити теги
+    retag_form: 
+      cancel: Скасувати
+      submit: Оновити теги!
+      title: Оновити теги
+    retag_to: 
+      failure: На жаль, не вдалося оновити теги.
+      success: Теги успішно оновлено.
+    revert: 
+      title: Повернути питання
+    shared: 
+      flag: Позначити
+    show: 
+      accepted_tooltip: Одна з відповідей була прийнята в якості правильної відповіді.
+      another_answers: Інші відповіді
+      answers: Відповіді
+      asked_on: задано
+      ban: Заблокувати
+      close: Закрити
+      close_reason: "Питання було закрито з наступної причини:"
+      create_reward: Створити нагороду
+      create_reward_description: Нагорода за кращу відповідь з якоїсь вашої власної карми.
+      edit_request: Редагувати запит
+      flag: Відмітка
+      flagged_as: Позначено як
+      flags: Повідомлено як
+      follow_tooltip: Підписатися на це питання
+      follow_up: Подписатися
+      follow_up_description: Створити нове питання, засноване на цій публікації.
+      follow_up_of: Це питання відслідковується
+      history: Історія
+      last_activity: Остання активність
+      more_actions: Додаткові параметри
+      open: Відкрити
+      related_questions: Пов'язані питання
+      request_closing: Запит на закриття
+      request_closing_details: Запит на закриття цього питання
+      request_opening: Запит на повторне відкриття
+      request_opening_details: Запит на повторне відкриття цього питання
+      requested_close_as: Ви просили, щоб закрити це питання як
+      requested_reopening: Ви запросили відновити це питання
+      retag: Змінити теги
+      retract_request: Прибрати запит
+      share: Поділитися цим питанням на
+      share_on: Поділитися цим питанням на %{site}
+      solution: Рішення
+      to_answer_question: щоб відповісти на це питання
+      unauthenticated_retag: Необхідно мати обліковий запис, щоб скоригувати питання
+      unban: Розблокувати
+      unfollow_tooltip: Припинити відстеження цього питання
+      viewed: переглянуто
+    solve: 
+      flash_notice: Питання було вирішене.
+    tags: 
+      filter: Пошук по тегам
+      title: Теґи
+      tooltip: Показати питання позначені %{tag}
+    toolbar: 
+      answer_by_mail: Відповісти електронною поштою
+      more_actions: Більше дій
+      requests: Запити
+      your_close_request: Ваш запит на закриття
+    unanswered: 
+      empty: Ця група не має жодних питань без відповіді.
+      expert: Експерти
+      my_tags: Мої теґи
+      tags: Теги без відповіді
+      title: Запитання без відповідей
+    unsolve: 
+      flash_notice: Питання не вирішується більше.
+    unwatch: 
+      success: Ви не будете отримувати сповіщення електронною поштою для кожної нової відповіді на це питання більше.
+    update: 
+      flash_notice: Питання було успішно оновлено.
+    watch: 
+      success: Тепер ви отримаєте сповіщення електронною поштою для кожної нової відповіді на це питання.

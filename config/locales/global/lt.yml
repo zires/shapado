@@ -1,0 +1,94 @@
+# Messages for Lithuanian (lietuvių)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Eitvys200
+lt: 
+  feeds: 
+    feed: Srautas
+    post_new_questions: Skelbti naujus klausymus į
+    question: Prenumeruoti šį klausimą
+    questions: Prenumeruoti visus klausymus
+    share_on_twitter: Twitter, Facebook ir daugiau...
+    tag: Prenumeruoti žymę
+    user: Prenumeruoti vartotojo klausymus
+  global: 
+    actions: Veiksmai
+    active: Aktyvuoti
+    alphabetically: Abėcėlės tvarka
+    anonymous: Anonimas
+    blog: Dienoraštis
+    chat: Pokalbiai
+    current: Dabartinis
+    downgrade_to_free: Tapti nemokamu
+    edited: Redaguota
+    edited_by: Redagavo
+    edited_by_semi: "Redagavo:"
+    feedback: Atsiliepimai
+    follow: Sekti
+    followed_by: "Sekama:"
+    following: Sekama
+    from: iš %{site}
+    group_not_found: Puslapis %{url} neegzistuoja
+    home: Pradžia
+    next_button: Kitas
+    open: Atidaryti
+    or: arba
+    permission_denied: Leidimas uždraustas
+    please_login: Prašome prisijungti
+    preview: Peržiūra
+    previous: Ankstesnis
+    privacy: Privatumas
+    share: Dalintis
+    sign_up: Užsiregistruoti
+    size: Dydis
+    sort_by: "Rūšiuoti pagal:"
+    tags_label: "Žymės:"
+    tos: Naudojimo sąlygos
+    unfollow: Nebesekti
+    unknown_place: Nežinomas
+    upgrade: Patobulinti
+    view: Žiūrėti
+    view_question: Žiūrėti klausymą
+    what_to_do: Ką norite daryti?
+  models: 
+    question: Klausimas
+  number: 
+    x_time: 
+      other: vienas=%{count} kartas
+      zero: Never
+  preferred_languages: 
+    any: Bet kokia
+    user: Mano pageidaujamos kalbos
+  roles: 
+    moderator: Moderatorius
+    owner: Savininkas
+    user: Paprastas vartotojas
+  scaffold: 
+    add: Pridėti
+    are_you_sure: Ar tikrai?
+    back: Atgal
+    cancel: Atšaukti
+    close: Uždaryti
+    create: Sukurti
+    destroy: Ištrinti
+    details: Detalės
+    edit: Redaguoti
+    more: Daugiau ...
+    new: Pridėti naują %{model}
+    post_as_anonymous: Rašyti anonimiškai
+    save: Išsaugoti
+    send: Siųsti
+    show: Rodyti
+    sure: Ar tikrai norite ištrinti %{model} ?
+    update: Atnaujinti
+  time: 
+    ago: prieš %{time}
+    today: šiandien
+    yesterday: vakar
+  views: 
+    pagination: 
+      first: Pirmas
+      last: Paskutinis
+      next: Kitas &raquo;
+      previous: "&laquo; Ankstesnis"
+      truncate: ...

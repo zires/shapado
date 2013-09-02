@@ -14,9 +14,12 @@ br:
       247_all_support: Skor web, postel, flap ha pellgomz 24/7
       5millions: 5 milion pajennoù gwelet/miz
       all_support: Skor web, postel, flap ha pellgomz
+      basic: Diazez
       basic_restrictions: Na bruderezh ebet, nag a etrefas personelaet
+      basic_styling: Personelaat an neuz
       big_sites: Lec'hienn vras
       custom_ads: Implijout ho bruderezhioù deoc'h
+      custom_ads_tip: Implijit ho tammoù bruderezh deoc'h-c'hxi ha krogit da c'hounit arc'hant !
       custom_analytics: Stadegoù an tremenerezh
       custom_domain: Domani personelaet
       custom_html: "HTML personelaet :"
@@ -26,9 +29,11 @@ br:
       free_plan: plan digoust
       getting_popular: Lec'hiennoù poblek
       huge_sites: Lec'hienn ramzel
+      maximum: Brasañ
       month: miz
       page_views: Evit al lec'hiennoù bihan/prevez
       plans: Planioù
+      plus: Muioc'h
       private: Prevez
       private_private: Moned strishaet
       private_site: Gweredekaat ar moned prevez/foran

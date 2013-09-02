@@ -1,0 +1,184 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Andriykopanytsia
+# Author: Base
+# Author: SteveR
+# Author: Тест
+uk: 
+  activerecord: 
+    models: 
+      badge: Значок
+      badges: Значки
+  badges: 
+    index: 
+      all_tooltip: Показати всі золоті, срібні та бронзові значки.
+      bronze: Бронза
+      bronze_tooltip: Бронзовий значки легко роздобути, і заодно заохотити участь.
+      description: Чим більший ваш внесок у заданні і відповідях на питання, тим більше у вас значків. Значки будуть відображатися на сторінці вашого профілю.
+      general: Регулярні значки
+      general_tooltip: Показати всі наперед визначені значки.
+      gold: Золото
+      gold_tooltip: Золоті значки найцінніші, але їх складніше роздобути. Тільки найвідданіші учасники отримують ці нагороди.
+      silver: Срібло
+      silver_tooltip: Срібні значки отримують активні учасники, які довгий час з нами.
+      tags: Значки-теґи
+      tags_tooltip: Коли питання, відмічені X, отримає відповіді з понад 100 голосів, значок X створюється з назвою мітки.
+      title: Значки
+    shared: 
+      addict: 
+        description: Відвідував сайт щодня підряд 20 днів
+        name: Захоплений
+      altruist: 
+        description: За першу нагороду, вручену спеціально для питання іншого учасника
+        name: Альтруїст
+      autobiographer: 
+        description: Заповнив усі поля профілю користувача
+        name: Автобіограф
+      benefactor: 
+        description: За першу нагороду, вручену спеціально на власному питанні
+        name: Благодійник
+      celebrity: 
+        description: Має понад 100 підписників
+        name: Знаменитість
+      citizen_patrol: 
+        description: Вперше відмітив публікацію
+        name: Патрульний
+      civic_duty: 
+        description: Проголосував 300 разів
+        name: Громадянський обов'язок
+      cleanup: 
+        description: Зробив перший відкат
+        name: Очищення
+      commentator: 
+        description: Лишив 10 коментарів
+        name: Коментатор
+      critic: 
+        description: Проголосував негативно вперше
+        name: Критик
+      disciplined: 
+        description: Видалив власну публікацію з оцінкою 3 або вище
+        name: Дисциплінований
+      editor: 
+        description: Редагував пост вперше
+        name: Редактор
+      effort_medal: 
+        description: Отримав 100 позитивних голосів
+        name: Медаль за зусилля
+      enlightened: 
+        description: Має відповідь, що була прийнята з принаймні 10 голосами „за“
+        name: Освічений
+      famous_question: 
+        description: Задав питання з 10000 переглядами
+        name: Знамените запитання
+      fanatic: 
+        description: Відвідував сайт кожен день 100 днів підряд
+        name: Фанатик
+      favorite_answer: 
+        description: Має відповідь, обрану 25 користувачами
+        name: Улюблена відповідь
+      favorite_question: 
+        description: Задав питання, на яке підписалися 25 користувачів
+        name: Улюблене питання
+      friendly: 
+        description: Вперше підписався на когось
+        name: Дружній
+      good_answer: 
+        description: Дав відповідь, що отримали в середньому понад 25 голосів
+        name: Хороша відповідь
+      good_question: 
+        description: Задав питання, які отримали в середньому понад 25 голосів
+        name: Хороше запитання
+      great_answer: 
+        description: Має відповідь з 100 голосами „за“
+        name: Велика відповідь
+      great_question: 
+        description: Задав питання, за яке проголосували 100 разів
+        name: Велике питання
+      guru: 
+        description: Дав вирішення питання в середньому з понад 40 голосами
+        name: Гуру
+      inquirer: 
+        description: Задав питання вперше
+        name: Слідчий
+      interesting_person: 
+        description: Отримав більше 10 послідовників
+        name: Цікава людина
+      investor: 
+        description: За першу нагороду, запропоновану іншому користувачеві за запитання
+        name: Інвестор
+      merit_medal: 
+        description: Отримав 200 позитивних голосів
+        name: Медаль за заслуги
+      necromancer: 
+        description: Відповів на запитання пізніше за 60 днів з принаймні 5 голосами
+        name: Некромант
+      nice_answer: 
+        description: Має відповідь з 10 голосами „за“
+        name: Гарна відповідь
+      nice_question: 
+        description: Задав питання, за яке проголосували 10 разів
+        name: Гарне питання
+      notable_question: 
+        description: Задав питання з 2500 переглядами
+        name: Значне запитання
+      organizer: 
+        description: Вперше змінив мітки
+        name: Організатор
+      peer_pressure: 
+        description: Видалив власну публікацію з оцінкою -3 або нижче
+        name: Під тиском із сторони
+      pioneer: 
+        description: Був одним з перших користувачів, які зареєструвалися
+        name: Піонер
+      popstar: 
+        description: Має 500 голосів «за» і до 10 голосів «проти»
+        name: Поп-зірка
+      popular_person: 
+        description: Має понад 50 підписників
+        name: Популярна особа
+      popular_question: 
+        description: Задав питання з 1000 переглядів
+        name: Популярне питання
+      promoter: 
+        description: За першу нагороду, запропоновану за власне питання
+        name: Популяризатор
+      rockstar: 
+        description: Має 1000 голосів «за» і до 10 голосів «проти»
+        name: Рок-зірка
+      scholar: 
+        description: Відповів уперше на своє питання з прийнятою відповіддю
+        name: Вчений
+      self-learner: 
+        description: Відповів на власне питання з принаймні 3 голосами „за“
+        name: Самоук
+      service_medal: 
+        description: Має 300 голосів «за»
+        name: Пам'ятна медаль
+      shapado: 
+        description: Відвідував сайт щодня підряд 8 днів
+      stellar_answer: 
+        description: Має відповідь, обрану 100 користувачами
+        name: Зоряна відповідь
+      stellar_question: 
+        description: Задав питання, на яке підписалися 100 користувачів
+        name: Зоряне питання
+      student: 
+        description: Задав питання з принаймні одним голосом „за“
+        name: Студент
+      supporter: 
+        description: Позитивно проголосував вперше
+        name: Помічник
+      troubleshooter: 
+        description: Відповів вперше
+        name: Усувальник неполадок
+      tutor: 
+        description: Дав вирішення питання в середньому з понад 2 голосами
+        name: Репетитор
+    show: 
+      description: "Користувачі, які заробили цей значок. Нещодавно отримали:"
+      earned: зароблено
+      for_tag_bronze: 200 голосів у мітці %{tag}
+      for_tag_gold: 1000 голосів у мітці %{tag}
+      for_tag_silver: 400 голосів у мітці %{tag}
+      title: Значок %{type}

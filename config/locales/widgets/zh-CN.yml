@@ -2,10 +2,12 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: Hydra
+# Author: Qiyue2001
 # Author: Yfdyh000
 zh-CN: 
   widgets: 
     about: 
+      description: 这个小部件会显示您的组的简短描述。
       title: 关于
     adsense: 
       title: AdSense
@@ -17,6 +19,8 @@ zh-CN:
       description: 这个工具将显示用户最近获得的徽章。
       see_all: 查看所有的徽章
       title: 最近的徽章
+    contributors: 
+      title: 问题的参与者
     create: 
       notice: 成功创建此构件。
     edit: 
@@ -55,6 +59,8 @@ zh-CN:
       on_show_question: 在显示问题页面上显示
       on_welcome: 在欢迎页面上显示
       preview: 构件预览：
+    share: 
+      description: 这个小部件显示各种分享当前页到社交网络的按钮。
     sharing_buttons: 
       title: 分享这个与
     suggestions: 

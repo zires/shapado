@@ -1,0 +1,70 @@
+# Messages for Lithuanian (lietuvių)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Eitvys200
+lt: 
+  layouts: 
+    application: 
+      all: Visi
+      ask_question: Užduoti klausimą
+      badges: Ženkleliai
+      by_me: Mano
+      collaborate: Bendradarbiauti
+      contributed: Įnašas
+      faq: DUK
+      feed: Sekama
+      follow_us_and_share: Sekite mus ir dalynkitės
+      followed: Sekama
+      forgot: Pamiršote?
+      home: Pradžia
+      join_group: Prisijungti prie %{group}
+      languages: Kalbos
+      log_in: Prisijungti
+      logged: Prisijungta kaip %{login}
+      logout: Atsijungti
+      manage_ads: Tvarkyti reklamas
+      moderate: Moderuoti
+      need_to_signin: Jums pirma reikia prisijungti.
+      now: dabar!
+      pages: Puslapiai
+      preferred: Pirmenybinis
+      questions: Klausymai
+      questions_in: Klausymai
+      questions_tagged: pažymėta su
+      random_question: Atsitiktinis klausimas
+      search: Paieška
+      settings: Nustatymai
+      signup: Užsiregistruoti
+      subscribe: Prenumeruoti
+      tags: Žymės
+      title: Klausimai ir Atsakymai
+      unanswered: Neatsakyti
+      users: Vartotojai
+      welcome_from: Sveiki atvykę! Jūs galite
+    manage: 
+      access: Prieiga
+      actions: Veiksmai
+      announcements: Skelbimai
+      appearance: Išvaizda
+      close_group: Uždaryti grupę
+      constrains: Reikalavimai
+      content: Turinys
+      dashboard: Prietaisų Skydelis
+      domain: Domenas
+      edit_layout: Redaguoti maketą
+      general: Bendras
+      group_features: Funkcijos
+      group_look_and_feel: Išvaizda
+      group_user_management: Vartotojo valdymo
+      invitations: Pakvietimai
+      members: Nariai
+      pages: Puslapiai
+      properties: Nusttymai
+      reputation: Reputacija
+      rewards: Apdovanojimai
+      site_management: Svetainės valdymas
+      social: Socialinės
+      stats: Statistika
+      theme: Tema
+      themes: Temos
+      widgets: Valdikliai

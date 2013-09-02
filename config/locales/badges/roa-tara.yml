@@ -9,10 +9,14 @@ roa-tara:
       badges: Cartelline
   badges: 
     index: 
+      all_tooltip: Fà vedè tutte le distindive d'ore, d'argende e de bronze.
       bronze: Bronze
       general: Cartelline regolare
+      general_tooltip: Fà vedè tutte le distindive pre definite.
       gold: Ore
       silver: Argende
+      tags: Tag de le distindive
+      tags_tooltip: Quanne le domande signate cu X onne resposte cu cchiù de 100 vote positive, 'nu distindive X avène ccrejate cu 'u nome de quidde tag.
       title: Cartelline
     shared: 
       altruist: 

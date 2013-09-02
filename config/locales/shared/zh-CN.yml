@@ -3,6 +3,7 @@
 # Export driver: syck-pecl
 # Author: Chenxiaoqino
 # Author: Hydra
+# Author: Qiyue2001
 zh-CN: 
   shared: 
     any_lang: 任何语言
@@ -39,6 +40,8 @@ zh-CN:
       with_email_pass: 使用您的电子邮件地址登录
       with_facebook: 与脸书
       with_google: 与谷歌
+      with_identica: 带Identi.ca
+      with_linked_in: 带LinkedIn
       with_openid: OpenID
       with_twitter: 与推特
     manage_navigation: 
@@ -51,6 +54,8 @@ zh-CN:
       random_question: 回答随机问题
     social_connect: 
       find_friends_facebook: 在脸书上找朋友
+      find_friends_identica: 在 Identi.ca 上找朋友
+      find_friends_linked_in: 在 LinkedIn 上找朋友
       find_friends_twitter: 在推特上找朋友
       or_connect: 或连接与：
     topbar: 

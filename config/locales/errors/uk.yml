@@ -1,0 +1,24 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Andriykopanytsia
+# Author: SteveR
+# Author: Тест
+uk: 
+  errors: 
+    forbidden: 
+      explanation: У вас немає необхідних прав для доступу до цієї сторінки.
+      title: Доступ заборонений.
+    go_to: Перейти на сторінку %{link}
+    help_us_answer: Допоможіть нам відповісти %{link}
+    internal_error: 
+      explanation: Ми були повідомлені про цю проблему, і ми розглянемо її найближчим часом.
+      title: Ми шкодуємо, але щось пішло не так.
+    not_found: 
+      explanation: Можливо, ви неправильно ввели адресу або сторінка вже переміщена.
+      title: Сторінку не знайдено.
+    options_label: "Інші речі для проби:"
+    search: Знайти
+    unprocessable_entity: 
+      explanation: Можливо, ви намагалися змінити те, до чого у вас не було доступу.
+      title: Зміни, які ви хотіли, було відхилено.

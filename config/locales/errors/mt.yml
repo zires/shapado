@@ -1,0 +1,21 @@
+# Messages for Maltese (Malti)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Chrisportelli
+mt: 
+  errors: 
+    forbidden: 
+      explanation: M'għandekx id-drittijiet meħtieġa biex taċċessa din il-paġna.
+      title: Aċċess miċħud
+    go_to: Mura fil-paġna %{link}
+    help_us_answer: Għinna nirrispondu %{link}
+    internal_error: 
+      title: Jiddispjaċina, imma xi ħaġa marret ħażin.
+    not_found: 
+      explanation: Jista' jkun li ktibt ħażin l-indirizz jew il-paġna tmexxiet.
+      title: Il-paġna ma nstabitx
+    options_label: "Affarijiet oħra x'tipprova:"
+    search: Fittex
+    unprocessable_entity: 
+      explanation: Forsi ppruvajt tbiddel xi ħaġa li ma kellekx aċċess għaliha.
+      title: Il-bidla li xtaqt ġiet rifjutata.

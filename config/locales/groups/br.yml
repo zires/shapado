@@ -13,6 +13,7 @@ br:
         description: Deskrivadur
         domain: Domani
         enable_latex: Gweredekaat LaTeX gant jqmath (herrek, met n'eo ket klok)
+        enable_mathjax: Gweredekaat LaTeX gant mathjax (gorrek, met klok)
         fb_button: Gweredekaat bouton Like Facebook (ne warez ket ho puhez prevez)
         forum: Aotreañ muioc'h eget ur respont dre implijer
         group_created_by: krouet gant
@@ -24,6 +25,7 @@ br:
         name: Anv
         owner: Krouet eo bet ar strollad gant %{login}
         registered_only: N'eus nemet an dud enrollet a c'hall mont war al lec'hienn
+        signup_type: "Penaos e c'hall hoc'h implijerien en em enskrivañ :"
         state: Stad
         subdomain: URL
         track_users: Goulenn gant an implijerien pelec'h emaimp
@@ -35,6 +37,8 @@ br:
       groups: Strolladoù
       reputation_rewards_key: Alc'hwez direizh
   groups: 
+    connect_group_to_twitter: 
+      failed_twitter_connection: Digarezit, un dra zo aet a-dreuz. Esaeit en-dro, mar plij.
     create: 
       flash_notice: Krouet eo bet ho strollad ervat. Gallout a rit kregiñ d'e gefluniañ.
     edit: 
@@ -53,6 +57,7 @@ br:
       legend_legend: Implijet e vo en talbenn. 40 arouezenn zo ganeoc'h.
       logo_legend: Gallout a rit pellgargañ logo ar strollad. 2MB eo ar vent vrasañ.
       members_only: Ne vo digor ar strollad nemet d'an izili anezhañ.
+      signup_email: implijer/ger-tremen hepken
       website_analytics_id: ID dielfennañ al lec'hienn web
     group: 
       about: Diwar-benn

@@ -19,6 +19,7 @@ br:
       unconfirmed: Rankout a rit kadarnaat ho kont a-raok kenderc'hel.
     mailer: 
       confirm_account: 
+        instruction1: "Gallout a rit kadarnaat ho kont dre al liamm amañ dindan :"
         link: Kadarnaat ma c'hont
         welcome: Degemer mat
       hello: Demat

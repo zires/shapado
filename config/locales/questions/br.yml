@@ -35,6 +35,8 @@ br:
       unfavorite: Chom hep enrollañ
       unfavorite_tooltip: Lamit ho respont eus ho penndibaboù.
       unset_answer: Nullañ an diskoulm ?
+    answer_toolbar: 
+      flagged_by_you: Merket ganeoc'h
     create: 
       flash_notice: Krouet eo bet ar goulenn ervat.
     disallow_spam: 
@@ -48,6 +50,7 @@ br:
       adult_content: Er goulenn-mañ ez eus danvez evit an dud gour.
       body_tip: Pehini eo ho koulenn ? Roit un deskrivadur.
       language_tip: Dibabit yezh ho koulenn.
+      related_questions_desc: Amañ e vo diskwelet ar goulennoù heñvel.
       remove_attachment: Dilemel
       tags_tip: Implijit ar balizennoù evit ouzhpennañ muioc'h a ditouroù d'ar goulenn.
     history: 
@@ -57,6 +60,9 @@ br:
       active_tooltip: Goulennoù bet hizivaet da ziwezhañ
       ask_question: Sevel ur goulenn
       empty: Den ebet n'en deus goulennet netra evit c'hoazh. Bec'h de'i !
+      has_followers: 
+        one: "%{count} heulier"
+        other: "%{count} heulier"
       help_to_answer: skoazellit ac'hanomp evit respont
       hot: Tomm-berv
       hot_tooltip: Goulennoù buhezekañ abaoe 5 devezh
@@ -69,7 +75,7 @@ br:
     model: 
       messages: 
         empty_tags: Digarezit, rankout a rit implijout ur balizenn d'an nebeutañ.
-        title_too_long: Re hir eo an titl. Arabat eo dezhañ bezañ hiroc'h eget 100 arouezenn
+        title_too_long: Digarez, arabat eo d'an titl bezañ hiroc'h eget 100 arouezenn.
         too_many_tags: Digarezit, ne c'hellit implijout nemet 20 balizenn d'ar muiañ.
         too_short: Seblantout a ra re verr. Mar plij implijit muioc'h eget %{count} ger evit bezañ resisoc'h.
     move: 
@@ -89,7 +95,7 @@ br:
         one: "%{count} respont"
         other: "%{count} answers"
       retag: Advalizennañ
-      wiki_title: "Wiki: %{titl}"
+      wiki_title: "Wiki : %{title}"
     retag: 
       title: Adtikedenniñ
     retag_form: 
@@ -118,6 +124,7 @@ br:
       flags: Kemennet evel
       follow_tooltip: Heuliañ ar goulenn-mañ
       follow_up: Heuliañ
+      follow_up_description: Krouiñ ur goulenn nevez diazezet war ar gemennadenn-mañ.
       history: Istor
       last_activity: oberiantizoù ziwezhañ
       more_actions: Oberoù all
@@ -148,6 +155,7 @@ br:
       answer_by_mail: Respont de bostel
       more_actions: Oberoù all
       requests: Rekedoù
+      your_close_request: Ho reked serret
     unanswered: 
       empty: N'eus goulenn direspont ebet er strollad-mañ
       expert: Arbennigourien

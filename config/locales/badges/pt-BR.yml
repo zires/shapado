@@ -1,7 +1,9 @@
 # Messages for Brazilian Portuguese (português do Brasil)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Dianakc
 # Author: Giro720
+# Author: Leosls
 # Author: Luckas
 # Author: Luckas Blade
 # Author: Pedroca cerebral
@@ -13,10 +15,18 @@ pt-BR:
       badges: Medalhas
   badges: 
     index: 
+      all_tooltip: Mostrar todos os distintivos de ouro, prata e bronze.
       bronze: Bronze
-      description: Todas as medalhas que você pode ganhar. Compartilhe o seu conhecimento, ganhe medalhas.
+      bronze_tooltip: Emblemas de bronze são fáceis de ganhar e encoraja os usuários a participar.
+      description: Quanto mais você contribuir, perguntando ou respondendo, mais distintivos você ganha. Estes distintivos vão aparecer na sua página de perfil.
+      general: Distintivos comuns
+      general_tooltip: Mostrar todos os distintivos pré-definidos.
       gold: Ouro
+      gold_tooltip: Emblemas de ouro são a maior tipo de recompensa, eles também são os mais difíceis de obter. Apenas os usuários mais dedicados conseguiram essa recompensa.
       silver: Prata
+      silver_tooltip: Emblemas de prata são ganhos de usuários ativos que estão envolvidos por um tempo muito longo.
+      tags: Distintivos de tag
+      tags_tooltip: Quando as perguntas marcadas com X obtém respostas com mais de 100 upvotes, um distintivo X é criado com o nome da tag.
       title: medalhas
     shared: 
       addict: 

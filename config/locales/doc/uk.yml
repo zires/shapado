@@ -1,6 +1,7 @@
 # Messages for Ukrainian (українська)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Andriykopanytsia
 # Author: Base
 # Author: Тест
 uk: 
@@ -15,12 +16,19 @@ uk:
       all_support: Підтримка через веб, електронну пошту, чат та по телефону
       basic: Базовий
       basic_restrictions: Нема власної реклами та повністю налаштовуваного інтерфейсу
+      basic_styling: Персоналізований вигляд
+      basic_styling_tip: Легко змінюйте колірну схему вашого сайту, додайте ваш логотип і навіть змініть код CSS.
       big_sites: Сайти з великою відвідуваністю
       custom_ads: Використовуйте власну рекламу
+      custom_ads_tip: Використовуйте вашу власну рекламу і починайте заробляти гроші!
       custom_analytics: Статистика відвідуваності
+      custom_analytics_tip: Використовуйте Google Analytics і дізнайтеся ваших відвідувачів краще.
       custom_domain: Власний домен
       custom_domain_tip: Використовуйте власний домен, наприклад your-company.com замість your-company.shapado.com
       custom_html: Власний HTML
+      custom_html_tip: Повністю модернізуйте увесь HTML-код вашого сайту і зробіть його вигляд таким, яким ви хочете.
+      custom_js: Додати власний JavaScript
+      custom_js_tip: Додати свій власний користувацький код JavaScript, на кшталт мультимедійних віджетів або модулів jQuery.
       custom_themes: Використовуйте одну з підготовлених нами тем оформлення
       custom_ui: Повністю налаштовуваний інтерфейс
       free_plan: безкоштовний тариф
@@ -36,11 +44,13 @@ uk:
       private: Приватний
       private_private: Обмежений доступ
       private_site: Увімкнення приватного/публічного доступу
+      private_tip: Лише вам і користувачам, що ви запрошуєте на свій сайт, надається доступ. Ідеально підходить для підприємства.
       small_basic: Початок роботи
       start_monetizing: Початок монетизації
       support: Пітримка
       title: Тарифи та ціни
       unlimited: Необмежений трафік кожного місяця
+      user: користувач
       we_offer: Ми також пропонуємо
       web_support: Веб-підтримка
       with_unlimited: з необмеженим трафіком, без налаштовуваної реклами і без власного домену.

@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 # Export driver: syck-pecl
 # Author: AnakngAraw
+# Author: Sky Harbor
 tl: 
   activerecord: 
     attributes: 
@@ -57,7 +58,7 @@ tl:
       flash_error: Paumanhin, hindi namin maihanda ang akawnt na iyan.  Mangyaring subukan ulit, o makipag-ugnayan sa tagapangasiwa (nasa itaas ang kawing).
       flash_notice: Salamat sa pagpapatala!
     edit: 
-      enable_twitter: Paganahin ang mga akawnt mo ng Facebook o Twitter
+      enable_twitter: Paganahin ang mga kuwenta mo ng Facebook o Twitter
       submit: Sagipin
       title: Mga katakdaan
     follow: 

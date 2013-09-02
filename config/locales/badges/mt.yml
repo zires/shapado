@@ -1,0 +1,146 @@
+# Messages for Maltese (Malti)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Chrisportelli
+mt: 
+  activerecord: 
+    models: 
+      badge: Midalja
+      badges: Midalji
+  badges: 
+    index: 
+      bronze: Bronż
+      gold: Deheb
+      silver: Fidda
+    shared: 
+      addict: 
+        description: Żar is-sit kuljum għal 20 ġurnata konsekuttiva
+        name: Ivvizzjat
+      altruist: 
+        name: Altruwist
+      autobiographer: 
+        description: Kompla l-oqsma kollha tal-profil tal-utent
+        name: Awtobijografu
+      benefactor: 
+        name: Benefattur
+      celebrity: 
+        description: Kiseb iktar minn 100 segwaċi
+        name: Ċelebrità
+      civic_duty: 
+        description: Ivvuta 300 darba
+        name: Dritt ċiviku
+      cleanup: 
+        description: Għamel l-ewwel treġġigħ lura
+        name: Tindif
+      commentator: 
+        description: Ħalla 10 kummenti
+        name: Kummentatur
+      critic: 
+        description: Ivvota negattivament għall-ewwel darba
+        name: Kritiku
+      disciplined: 
+        name: Dixxiplinat
+      editor: 
+        name: Editur
+      effort_medal: 
+        description: Kiseb 100 vot pożittiv
+        name: Midalja tal-isforz
+      enlightened: 
+        description: Għandu tweġiba li ġiet aċċettata b'minn tal-inqas 10 voti pożittivi
+        name: Illuminat
+      famous_question: 
+        description: Staqsa mistoqsija b'10,000 żjara
+        name: Mistoqsija famuża
+      fanatic: 
+        description: Żar is-sit kuljum għal 100 ġurnata konsekuttiva
+        name: Fanatiku
+      favorite_answer: 
+        description: Għandu tweġiba preferita minn 25 utent
+        name: Tweġiba favorita
+      favorite_question: 
+        description: Staqsa mistoqsija segwita minn 25 utent
+        name: Mistoqsija favorita
+      friendly: 
+        description: Beda jsegwi xi ħadd għall-ewwel darba
+      good_answer: 
+        description: Ta tweġiba li laħqet medja ta' iktar minn 25 vot
+        name: Tweġiba tajba
+      good_question: 
+        description: Staqsa mistoqsija li laħqet medja ta' iktar minn 25 vot
+        name: Mistoqsija tajba
+      great_answer: 
+        name: Tweġiba tal-ġenn
+      great_question: 
+        description: Staqsa mistoqsija b'iktar minn 100 vot pożittiv
+        name: Mistoqsija tal-ġenn
+      guru: 
+        description: Ta soluzzjoni għal mistoqsija b'medja ta' iktar minn 40 vot
+        name: Guru
+      inquirer: 
+        description: Staqsa mistoqsija għall-ewwel darba
+      interesting_person: 
+        description: Kiseb iktar minn 10 segwaċi
+        name: Persuna interessanti
+      investor: 
+        name: Investitur
+      merit_medal: 
+        description: Kiseb 200 vot pożittiv
+        name: Midalja tal-mertu
+      necromancer: 
+        description: Wieġeb mistoqsija wara iktar minn 60 ġurnata wara b'mill-inqas 5 voti
+      nice_answer: 
+        description: Għandu tweġiba b'10 voti pożittivi
+        name: Tweġiba sabiħa
+      nice_question: 
+        description: Staqsa mistoqsija b'10 voti pożittivi
+        name: Mistoqsija sabiħa
+      notable_question: 
+        description: Staqsa mistoqsija b'2,500 żjara
+        name: Mistoqsija notevoli
+      organizer: 
+        description: Għamel l-ewwel retag
+        name: Organizzatur
+      peer_pressure: 
+        name: Taħt pressjoni
+      pioneer: 
+        description: Kien wieħed mill-ewwel utenti li rreġistra
+        name: Pijunier
+      popstar: 
+        description: Għandu 500 vot pożittiv, massimu ta' 10 voti negattivi
+        name: Popstar
+      popular_person: 
+        description: Għandek iktar minn 50 segwaċi
+        name: Persuna popolari
+      popular_question: 
+        description: Staqsa mistoqsija b'1,000 żjara
+        name: Mistoqsija popolari
+      promoter: 
+        name: Promotur
+      rockstar: 
+        description: Għandu 1,000 vot pożittiv, massimu ta' 10 voti negattivi
+      scholar: 
+        description: Irrisponda għall-ewwel mistoqsija magħmula lilu nnifsu bi tweġiba aċċettata
+        name: Studjuż
+      service_medal: 
+        description: Għandu 300 vot pożittiv
+        name: Midalja għas-servizz
+      shapado: 
+        description: Żar is-sit kuljum għal 8 ġranet konsekuttivi
+      stellar_answer: 
+        description: Għandu tweġiba preferita minn 100 utent
+        name: Tweġiba stellari
+      stellar_question: 
+        description: Staqsa mistoqsija segwita minn 100 utent
+        name: Mistoqsija stellari
+      student: 
+        description: Staqsa mistoqsija b'mill-inqas vot pożittiv
+        name: Student
+      supporter: 
+        description: Ivvota pożittivament għall-ewwel darba
+        name: Sostenitur
+      troubleshooter: 
+        description: Wieġeb għall-ewwel darba
+        name: Risolvitur
+      tutor: 
+        description: Ta soluzzjoni għal mistoqsija b'medja ta' iktar minn 2 voti
+        name: Tutur

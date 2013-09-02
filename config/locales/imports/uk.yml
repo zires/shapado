@@ -1,0 +1,10 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Andriykopanytsia
+uk: 
+  imports: 
+    subtabs: 
+      need_confirmation: 
+        name: Потрібне підтвердження
+        title: Надіслати листи підтвердження

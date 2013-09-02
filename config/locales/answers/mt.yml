@@ -1,0 +1,30 @@
+# Messages for Maltese (Malti)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Chrisportelli
+mt: 
+  activerecord: 
+    attributes: 
+      answer: 
+        body: Korp
+        created_at: Maħluq fil-
+        link: Ħolqa
+    models: 
+      answer: Tweġiba
+      answers: Tweġibiet
+  answers: 
+    create: 
+      annon_notice: L-utent huwa diġà rreġistrat, jekk jogħġbok idħol fil-kont.
+      flash_error: "Xi ħaġa marret ħażin fiż-żieda tat-tweġiba.\n  Ftakar li:\n- Tweġibiet vojta u ripetuti mhumiex permessi\n- Trid tistenna 20 sekonda qabel ma tagħti tweġiba oħra\n- Tista' tibgħat tweġiba waħda għal kull mistoqsija"
+      flash_notice: Grazzi!
+    edit: 
+      title: Modifika tat-tweġiba
+    form: 
+      answer_label: Wieġeb il-mistoqsija
+      comment_label: Ikkumenta fuq din it-tweġiba
+      comment_submit: Ikkummenta
+      submit: Tweġiba
+    revert: 
+      title: Reġġa' lura t-tweġiba
+    update: 
+      flash_notice: It-tweġiba ġiet aġġornata b'suċċess.

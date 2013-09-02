@@ -3,6 +3,7 @@
 # Export driver: syck-pecl
 # Author: Armando-Martin
 # Author: Crazymadlover
+# Author: Fitoschido
 # Author: Mor
 # Author: Patcito
 es: 
@@ -58,7 +59,7 @@ es:
           title: Configure su dominio personalizado
           warning: Estas seguro de querer cambiar tu dominio?
         facebook_app: 
-          application_id: ID de aplicación
+          application_id: Id. de aplicación
           facebook_app: Propiedades de su aplicación Facebook
           legend: Usted puede configurar su aplicación Facebook. Esto será utilizado para iniciar sesión de sus usuarios utilizando su cuenta de Facebook. Tenga en cuenta que esto sólo es necesario si usted está usando un dominio personalizado.
           secret_key: Clave secreta

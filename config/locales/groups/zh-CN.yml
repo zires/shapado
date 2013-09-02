@@ -3,6 +3,7 @@
 # Export driver: syck-pecl
 # Author: Hydra
 # Author: Hzy980512
+# Author: Qiyue2001
 zh-CN: 
   activerecord: 
     attributes: 
@@ -36,8 +37,11 @@ zh-CN:
   groups: 
     connect_group_to_twitter: 
       failed_twitter_connection: 抱歉，出了点问题。请再试试。
+      success_twitter_connection: 恭喜，您已成功连接您的 Twitter 帐户！
     create: 
       flash_notice: 已成功创建您的组。您现在可以开始配置它。
+    downgrade: 
+      notice: 您已成功订阅，您现在正在使用我们免费的计划。
     edit: 
       title: 编辑您的组合
     form: 
@@ -55,6 +59,7 @@ zh-CN:
       logo_legend: 你可以上传集团标志。最大文件大小为 2MB。
       members_only: 只有小组的成员将能够访问此组
       signup_email: 只有用户/密码
+      signup_social: 用户被迫使用Facebook、Twitter、LinkedIn或Identica
       website_analytics_id: 网站分析 ID
     group: 
       about: 关于
@@ -86,3 +91,5 @@ zh-CN:
       active_site: 活跃网站：
     update: 
       notice: 您的组合成功更新。
+    upgrade: 
+      error: 您已订阅该计划

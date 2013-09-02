@@ -1,0 +1,28 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Andriykopanytsia
+# Author: SteveR
+uk: 
+  welcome: 
+    confirm_age: 
+      notice: Ви можете перейти на цю сторінку, якщо вам хоча б 18 років або, принаймні, ви досягли повноліття по юрисдикції тієї країни, в якій проживаєте або відкриваєте цю сторінку.
+      over_18: Я маю понад 18
+      under_18: Мені менше 18
+      warning: "ПОПЕРЕДЖЕННЯ: Ця сторінка може містити відверті матеріали для дорослих."
+    feedback: 
+      captcha_error: Будь ласка, переконайтеся, що правильно вписали капчу і вказали вірну адресу електронну пошти.
+      captcha_notice: Дякуємо за ваші відгуки, ми відповімо вам якомога швидше.
+      email_description: Будь ласка, вкажіть свою адресу електронної пошти, так що ми можемо відповісти на ваші повідомлення
+      feedback_description: Опис
+      feedback_title: Назва
+      title: Надсилайте ваші відгуки
+    index: 
+      active: Активний
+      browse_all_or_by_tags: Див. %{full_list_of_questions} або %{browse_by_tags}
+      browse_by_tags: перегляд за тегами
+      create_own_site: Створіть свій власний сайт питань та відповідей за 8 секунд безкоштовно
+      full_list_of_questions: повний перелік питань
+      hot: Гарячі
+      quick_question: Задайте питання, ми зможемо знайти когось, щоб відповісти
+      recent_questions: Останні запитання

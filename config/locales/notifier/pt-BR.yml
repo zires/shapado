@@ -1,6 +1,7 @@
 # Messages for Brazilian Portuguese (português do Brasil)
 # Exported from translatewiki.net
 # Export driver: syck-pecl
+# Author: Dianakc
 # Author: Luckas
 # Author: Vgeorge
 pt-BR: 
@@ -11,7 +12,7 @@ pt-BR:
       message3: Você pode ver todas as suas condecorações na sua %{user_page}
     favorited: 
       message1: "%{user} adicionou a sua pergunta como favorita em %{group}"
-      message2: "O texto da sua pergunta:"
+      message2: "A questão era:"
       message3: "Pode ver aqui:"
     follow: 
       message1: "%{user} está agora seguindo suas perguntas e respostas em %{app}"
@@ -28,7 +29,7 @@ pt-BR:
     new_answer: 
       message: "%{user} deu a resposta %{new_answer} à pergunta %{question}"
     new_comment: 
-      message: "%{user} fez o comentário %{new_comment} na pergunta %{link}"
+      message: "%{user} comentou %{new_comment} na questão %{link}"
     new_feedback: 
       message1: O usuário %{user} <%{email}> mandou um feedback
       message2: Um usuário anônimo enviou um comentário do IP %{ip}

@@ -1,0 +1,94 @@
+# Messages for Maltese (Malti)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Chrisportelli
+mt: 
+  feeds: 
+    feed: Feed
+    post_new_questions: Ibgħat mistoqsija ġdida lil
+    question: Abbona għal din il-mistoqsija
+    questions: Abbona għall-mistoqsijiet kollha
+    share_on_twitter: Twitter, Facebook u oħrajn...
+    tag: Abbona għal dan it-tikketta
+    user: Abbona għall-mistoqsijiet tal-utent
+  global: 
+    actions: Azzjonijiet
+    active: Attiva
+    alphabetically: Ordni alfabetika
+    anonymous: Anonimu
+    blog: Blogg
+    by: minn
+    by_semi: "Minn:"
+    current: Attwali
+    edited: Modifikat
+    edited_by: Immodifikat minn
+    edited_by_semi: "Immodifikat minn:"
+    feedback: Rispons
+    follow: Segwi
+    followed_by: "Segwit minn:"
+    following: Qiegħed issegwi
+    from: minn %{site}
+    group_not_found: Il-paġna %{url} ma teżistix
+    home: Paġna prinċipali
+    next_button: Li jmiss
+    open: Iftaħ
+    or: jew
+    permission_denied: Permess miċħud
+    please_login: Idħol
+    preview: Dehra proviżorja
+    previous: Ta' qabel
+    privacy: Privatezza
+    share: Aqsam
+    sign_up: Irreġistra
+    size: Daqs
+    sort_by: "Irranġa skont:"
+    tags_label: "Tikketti:"
+    tos: Termini ta' Servizz
+    unfollow: Issegwix
+    unknown_place: Mhux magħruf
+    upgrade: Aġġorna
+    view: Ara
+    view_question: Ara l-mistoqsija
+    what_to_do: Xi trid tagħmel?
+  models: 
+    question: Il-mistoqsija
+  number: 
+    x_time: 
+      one: "%{count} darba"
+      other: "%{count} drabi"
+      zero: Qatt
+  preferred_languages: 
+    any: Kwalunkwe
+    user: Lingwi preferiti
+  roles: 
+    moderator: Moderatur
+    owner: Sid
+    user: Utenti regolari
+  scaffold: 
+    add: Żid
+    are_you_sure: Inti ċert?
+    back: Lura
+    cancel: Ikkanċella
+    close: Agħlaq
+    create: Oħloq
+    destroy: Ħassar
+    details: Dettalji
+    edit: Editja
+    more: Aktar...
+    new: Żid %{model} ġdid
+    save: Issejvja
+    send: Ibgħat
+    show: Uri
+    sure: Inti ċert li tixtieq tħassar dan il-%{model} ?
+    update: Aġġorna
+  time: 
+    ago: "%{time} ilu"
+    today: illum
+    yesterday: ilbieraħ
+  views: 
+    pagination: 
+      first: L-ewwel
+      last: L-aħħar
+      next: Li jmiss &raquo;
+      previous: "&laquo; Ta' qabel"
+      truncate: ...

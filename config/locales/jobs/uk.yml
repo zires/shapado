@@ -1,0 +1,21 @@
+# Messages for Ukrainian (українська)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Andriykopanytsia
+uk: 
+  jobs: 
+    answers: 
+      on_create_answer: 
+        group_send_twitter: "%{user} відповів: %{question}"
+        send_twitter: Моя відповідь на %{question}
+      on_favorite_answer: 
+        group_send_twitter: "%{user} вподобав відповідь від %{author} на: %{question}"
+        send_twitter: "Мені сподобалася відповідь %{author} на: %{question}"
+    base: 
+      create_badge: 
+        group_send_twitter: "%{user} щойно здобув значок %{token} у групі %{group_name} %{link}"
+        send_twitter: Я щойно здобув значок %{token} на %{group_name} %{link}
+    comments: 
+      on_comment: 
+        group_on_comment: "%{user} прокоментував %{question}"
+        send_twitter: Мій коментар на %{question}

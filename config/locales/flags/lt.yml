@@ -1,0 +1,32 @@
+# Messages for Lithuanian (lietuvių)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Eitvys200
+lt: 
+  activerecord: 
+    attributes: 
+      flag: 
+        reason: Priežastis
+    models: 
+      flag: Žymė
+      flags: Žymės
+  flags: 
+    create: 
+      flash_error: Jus negalite pažymėti
+      flash_notice: Ačiū už jūsų pranešimą
+    destroy: 
+      flash_notice: Jūsų žymė buvo sėkmingai atšaukta.
+    edit: 
+      title: Redaguoti %{model} žymę
+    form: 
+      attention: Reikalauja moderatorių dėmesio
+      label: Pažymėkite atsargiai
+      offensive: Įžeidžiantis, užgaulus arba neapykantos pilna kalba
+      spam: Šlamštas
+    model: 
+      messages: 
+        already_requested: Jūs jau pažymėjote šį %{model}
+    new: 
+      title: Žymėti %{model}
+    update: 
+      flash_notice: Klausymo žymė buvo sėkmingai atnaujinta.
