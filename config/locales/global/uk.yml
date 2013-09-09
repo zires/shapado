@@ -60,7 +60,7 @@ uk:
     x_time: 
       one: "%{count} раз"
       other: "%{count} рази"
-      zero: ні разу
+      zero: ніколи
   preferred_languages: 
     any: Будь-який
     user: Мої обрані мови
