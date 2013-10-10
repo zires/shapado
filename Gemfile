@@ -53,16 +53,12 @@ gem 'rinku', '~> 1.2.2', :require => 'rails_rinku'
 
 gem 'rack-recaptcha', '0.2.2', :require => 'rack/recaptcha'
 
-gem 'twitter-text', '1.1.8'
-gem 'twitter_oauth'
 gem 'social_widgets', :git => 'https://git.gitorious.org/social_widgets/social_widgets.git'
 gem 'stripe'
 gem 'pdfkit' # apt-get install wkhtmltopdf
 
 gem 'geoip'
 gem 'rubyzip', '0.9.4', :require => 'zip/zip'
-
-gem 'newrelic_rpm'
 
 # authentication
 gem 'omniauth', '~> 0.3.0'
@@ -100,7 +96,6 @@ end
 group :scripts do
   gem 'eventmachine', '~> 0.12.10'
   gem 'em-websocket', '~> 0.3.0'
-  gem 'twitter', '1.7.2'
 end
 
 group :test do
