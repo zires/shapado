@@ -99,7 +99,6 @@ class Group
   slug_key :name, :unique => true
   filterable_keys :name
 
-  referenced_in :shapado_version, :class_name => "ShapadoVersion"
   field :next_recurring_charge, :type => Time
 
   field :stripe_balance, :type => String
@@ -172,7 +171,6 @@ class Group
   before_save :check_latex
   before_create :create_widget_lists
   before_create :set_default_theme
-  before_create :set_shapado_version
   after_create :create_default_tags
 
   def reset_custom_domain!
@@ -383,9 +381,7 @@ class Group
   end
 
   def version_expired?
-    return false if self.shapado_version.nil?
-
-    Time.now > self.plan_expires_at
+    true
   end
 
   def is_stripe_customer?
@@ -403,7 +399,6 @@ class Group
     Stripe.api_key = PaymentsConfig['secret']
     cu = Stripe::Customer.retrieve(self.stripe_customer_id)
     cu.cancel_subscription
-    self.set_shapado_version
     self.upcoming_invoice = nil
     self.save
     self.set_stripe_balance!
@@ -635,10 +630,6 @@ class Group
     default_tags.each do |tag|
       Tag.create(:name => tag, :group_id => self.id)
     end
-  end
-
-  def set_shapado_version
-    self.shapado_version_id = ShapadoVersion.where(:token => 'free').first.id
   end
 
 end
